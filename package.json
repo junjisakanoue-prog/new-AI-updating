@@ -1,0 +1,19 @@
+{
+  "name": "ai-daily-brief",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "毎朝5:00までにAI最新情報を収集・裏取り・記事化するブラウザアプリ",
+  "scripts": {
+    "collect": "node src/collect.mjs",
+    "serve": "node src/server.mjs",
+    "start": "node src/server.mjs",
+    "dev": "node src/collect.mjs && node src/server.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.70.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

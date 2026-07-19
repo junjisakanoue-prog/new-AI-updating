@@ -1,0 +1,6 @@
+node_modules/
+_site/
+*.log
+
+# 翻訳キャッシュはローカル都合のものなので共有しない
+data/.translation-cache.json

@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AI Daily Brief — ダッシュボード</title>
+  <meta name="theme-color" content="#1e1b4b">
+  <meta name="description" content="毎朝5時までに更新されるAI最新情報まとめ。複数ソースで裏取り済み。">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon.svg">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="AI Brief">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site">
+    <div class="wrap">
+      <div class="brand">AI <span>Daily Brief</span></div>
+      <nav class="site">
+        <a href="./" class="active">ダッシュボード</a>
+        <a href="data/index.json" target="_blank">生データ</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div class="hero">
+      <div id="hero"></div>
+      <div class="hero-caption">
+        <div class="t">AI 最新情報ダッシュボード</div>
+        <div class="s">毎朝 5:00 までに自動更新 · 複数ソースで裏取り済み</div>
+      </div>
+    </div>
+    <div id="app"><p class="meta">読み込み中…</p></div>
+  </main>
+
+  <footer class="site">
+    <div class="wrap">
+      毎朝 4:30（JST）に自動収集。すべてのトピックは独立した複数ソースで裏取りされたもののみ掲載しています。
+    </div>
+  </footer>
+
+  <script src="hero.js"></script>
+  <script>
+  const app = document.getElementById('app');
+  const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+
+  function fmtDate(d) {
+    const [y, m, day] = d.split('-');
+    return `${y}年${Number(m)}月${Number(day)}日`;
+  }
+
+  async function main() {
+    // 相対パスで読む。GitHub Pages のプロジェクトサイト（/リポジトリ名/ 配下）でも
+    // そのまま動くよう、先頭スラッシュは付けない。
+    const indexRes = await fetch('data/index.json')
+      .then((r) => (r.ok ? r.json() : { articles: [] }))
+      .catch(() => ({ articles: [] }));
+
+    const articles = indexRes.articles ?? [];
+    const latestRes = articles.length
+      ? await fetch(`data/articles/${articles[0].date}.json`)
+          .then((r) => (r.ok ? r.json() : null))
+          .catch(() => null)
+      : null;
+
+    if (!articles.length) {
+      app.innerHTML = `
+        <h1>まだ記事がありません</h1>
+        <div class="empty">
+          <p>初回の収集を実行してください。</p>
+          <p><code>npm run collect</code></p>
+        </div>`;
+      return;
+    }
+
+    const stats = latestRes?.stats ?? {};
+    const html = [];
+
+    html.push(`<h1>ダッシュボード</h1>`);
+    html.push(`<p class="meta">最終更新 ${esc(latestRes?.generatedAt?.slice(0, 16).replace('T', ' ') ?? '—')} UTC</p>`);
+
+    html.push(`<div class="stats">
+      <div class="stat"><div class="num">${articles.length}</div><div class="lbl">アーカイブ記事</div></div>
+      <div class="stat"><div class="num">${stats.itemsCollected ?? '—'}</div><div class="lbl">最新回の収集件数</div></div>
+      <div class="stat"><div class="num">${stats.verifiedTopics ?? '—'}</div><div class="lbl">裏取り済みトピック</div></div>
+      <div class="stat"><div class="num">${stats.unverifiedTopics ?? '—'}</div><div class="lbl">裏取り待ち</div></div>
+    </div>`);
+
+    if (latestRes) {
+      html.push(`<h3>最新号</h3>`);
+      html.push(card(articles[0], true));
+    }
+
+    if (articles.length > 1) {
+      html.push(`<h3>アーカイブ</h3>`);
+      html.push(articles.slice(1).map((a) => card(a, false)).join(''));
+    }
+
+    app.innerHTML = html.join('');
+  }
+
+  function card(a, featured) {
+    const lines = (a.threeLineSummary ?? []).map((l) => `<li>${esc(l)}</li>`).join('');
+    return `<a class="card" href="article.html?date=${esc(a.date)}">
+      <div class="date">${esc(fmtDate(a.date))}${featured ? ' · 最新' : ''}</div>
+      <div class="ttl">${esc(a.title)}</div>
+      <ul>${lines}</ul>
+    </a>`;
+  }
+
+  main().catch((e) => { app.innerHTML = `<p class="meta">読み込みに失敗しました: ${esc(e.message)}</p>`; });
+  </script>
+
+  <script>
+  // Service Worker（オフライン閲覧用）。file:// で開いた場合などは黙って無視する。
+  if ('serviceWorker' in navigator && location.protocol.startsWith('http')) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('sw.js').catch(() => {});
+    });
+  }
+  </script>
+</body>
+</html>

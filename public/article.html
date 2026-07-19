@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AI Daily Brief — 記事</title>
+  <meta name="theme-color" content="#1e1b4b">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon.svg">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="AI Brief">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site">
+    <div class="wrap">
+      <div class="brand">AI <span>Daily Brief</span></div>
+      <nav class="site"><a href="./">ダッシュボード</a></nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div class="hero">
+      <div id="hero"></div>
+      <div class="hero-caption">
+        <div class="t" id="hero-title">AI 最新まとめ</div>
+        <div class="s" id="hero-sub"></div>
+      </div>
+    </div>
+    <article id="app"><p class="meta">読み込み中…</p></article>
+  </main>
+
+  <footer class="site">
+    <div class="wrap">出典はすべて一次情報または独立した複数ソースにリンクしています。</div>
+  </footer>
+
+  <script src="hero.js"></script>
+  <script>
+  const app = document.getElementById('app');
+  const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+  const CONF_LABEL = {
+    high: '確度 高', 'medium-high': '確度 やや高', medium: '確度 中',
+    primary: '一次情報', unverified: '未確認',
+  };
+
+  function fmtDate(d) {
+    const [y, m, day] = d.split('-');
+    return `${y}年${Number(m)}月${Number(day)}日`;
+  }
+
+  // 最小限の Markdown（段落・強調・リンク）だけを描画する。HTML は先にエスケープ済み。
+  function md(text) {
+    return esc(text)
+      .split(/\n{2,}/)
+      .map((p) => `<p>${p
+        .replace(/\n/g, '<br>')
+        .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+        .replace(/\[(\d+)\]/g, '<sup>[$1]</sup>')
+      }</p>`)
+      .join('');
+  }
+
+  async function main() {
+    // GitHub Pages にはサーバー側のルーティングが無いため、クエリで日付を渡す
+    const date = new URLSearchParams(location.search).get('date');
+    if (!date || !/^\d{4}-\d{2}-\d{2}$/.test(date)) {
+      app.innerHTML = '<h1>記事が指定されていません</h1><p><a href="./">ダッシュボードへ戻る</a></p>';
+      return;
+    }
+    const res = await fetch(`data/articles/${date}.json`);
+    if (!res.ok) { app.innerHTML = '<h1>記事が見つかりません</h1><p><a href="./">ダッシュボードへ戻る</a></p>'; return; }
+    const a = await res.json();
+    document.title = `${a.title} — AI Daily Brief`;
+    document.getElementById('hero-title').textContent = a.title;
+    document.getElementById('hero-sub').textContent =
+      `${fmtDate(a.date)} · 裏取り済みトピック ${a.topics?.length ?? 0} 件`;
+
+    const topicsByIndex = new Map((a.topics ?? []).map((t) => [t.index, t]));
+    const h = [];
+
+    h.push(`<h1>${esc(a.title)}</h1>`);
+    h.push(`<p class="meta">${esc(fmtDate(a.date))} · トピック ${a.topics?.length ?? 0} 件 · 収集 ${a.stats?.itemsCollected ?? '—'} 件から生成 · <code>${esc(a.generator ?? '')}</code></p>`);
+
+    // 三行要約（自動付与）
+    h.push(`<div class="tldr"><h3>三行要約</h3><ol>${(a.threeLineSummary ?? []).map((l) => `<li>${esc(l)}</li>`).join('')}</ol></div>`);
+
+    if (a.lead) h.push(`<p class="lead">${esc(a.lead)}</p>`);
+
+    for (const s of a.sections ?? []) {
+      const t = topicsByIndex.get(s.topic_index);
+      const label = CONF_LABEL[t?.confidence] ?? t?.confidence;
+      const buzz = t?.socialCount ? ` <span class="badge">SNS言及 ${t.socialCount}</span>` : '';
+      const badge = t
+        ? `<span class="badge ${esc(t.confidence)}">${esc(label)}${t.confidence === 'primary' ? '' : ` · ${t.domainCount}ソース`}</span>${buzz}`
+        : '';
+      h.push(`<section class="topic">`);
+      h.push(`<h2>${esc(s.heading)} ${badge}</h2>`);
+      h.push(md(s.body));
+      // 初心者向けのかみ砕き解説
+      if (s.plain_explanation) {
+        h.push(`<div class="plain">
+          <div class="plain-label">かんたん解説</div>
+          <p>${esc(s.plain_explanation)}</p>
+        </div>`);
+      }
+      if (s.why_it_matters) h.push(`<div class="why"><strong>なぜ重要か:</strong> ${esc(s.why_it_matters)}</div>`);
+      if (t) {
+        h.push(`<ul class="sources">${t.sources.map((src) => `
+          <li><span class="n">[${src.n}]</span>
+            <span><a href="${esc(src.url)}" target="_blank" rel="noopener">${esc(src.title)}</a><br>
+            <span class="src">${esc(src.source)} · ${esc(src.domain)} · ${esc(src.publishedAt.slice(0, 10))}</span></span>
+          </li>`).join('')}</ul>`);
+      }
+      h.push(`</section>`);
+    }
+
+    if (a.xPosts?.length) {
+      h.push(`<h3>X 投稿案</h3>`);
+      for (const p of a.xPosts) {
+        h.push(`<div class="xpost"><p>${esc(p)}</p><button data-copy="${esc(p)}">コピー</button></div>`);
+      }
+    }
+
+    if (a.watchlist?.length) {
+      h.push(`<h3>裏取り待ち（本文未採用）</h3><ul class="watchlist">${a.watchlist.map((w) => `
+        <li><a href="${esc(w.url)}" target="_blank" rel="noopener">${esc(w.headline)}</a> — ${esc(w.source)}</li>`).join('')}</ul>`);
+    }
+
+    app.innerHTML = h.join('');
+
+    app.addEventListener('click', (e) => {
+      const btn = e.target.closest('button[data-copy]');
+      if (!btn) return;
+      navigator.clipboard.writeText(btn.dataset.copy).then(() => {
+        btn.textContent = 'コピー済';
+        setTimeout(() => { btn.textContent = 'コピー'; }, 1500);
+      });
+    });
+  }
+
+  main().catch((e) => { app.innerHTML = `<p class="meta">読み込みに失敗しました: ${esc(e.message)}</p>`; });
+  </script>
+
+  <script>
+  // Service Worker（オフライン閲覧用）。file:// で開いた場合などは黙って無視する。
+  if ('serviceWorker' in navigator && location.protocol.startsWith('http')) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('sw.js').catch(() => {});
+    });
+  }
+  </script>
+</body>
+</html>

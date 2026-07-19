@@ -1,0 +1,16 @@
+{
+  "name": "AI Daily Brief",
+  "short_name": "AI Brief",
+  "description": "毎朝5時までに更新されるAI最新情報まとめ。複数ソースで裏取り済み。",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1027",
+  "theme_color": "#1e1b4b",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon-maskable.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
