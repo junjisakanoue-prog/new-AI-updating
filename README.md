@@ -17,6 +17,69 @@ npm run serve       # http://localhost:4173
 powershell -ExecutionPolicy Bypass -File scripts\register-task.ps1
 ```
 
+## スマホから見る（GitHub Pages）
+
+PC の電源が入っていなくても、毎朝自動で更新されて外出先から読めます。
+
+### 1. GitHub にリポジトリを作って push
+
+```bash
+# GitHub で空のリポジトリ new-AI-updating を作成してから
+git remote add origin https://github.com/<ユーザー名>/new-AI-updating.git
+git push -u origin main
+```
+
+> ⚠️ **公開リポジトリにすると、生成された記事はインターネット上に公開されます。**
+> 人に見せたくない場合は Private リポジトリにしてください
+> （Private でも GitHub Pages は使えますが、無料プランでは公開設定のみです。
+> 完全に非公開にしたい場合は後述の「自宅 Wi-Fi 内だけで見る」を使ってください）
+
+### 2. Pages を有効化
+
+リポジトリの **Settings → Pages → Build and deployment → Source** を
+**「GitHub Actions」** に変更します。
+
+### 3. 初回実行
+
+**Actions タブ → 「毎朝のAI情報収集とデプロイ」→ Run workflow** を押します。
+2〜3 分でこの URL に公開されます。
+
+```
+https://<ユーザー名>.github.io/new-AI-updating/
+```
+
+以降は毎朝 4:00 JST に自動実行されます（Actions の cron は数分〜20 分ほど
+遅延することがあるため、5:00 に対して 1 時間の余裕を取っています）。
+
+### 4. スマホのホーム画面に追加
+
+上記 URL をスマホで開き、
+
+- **iPhone (Safari)**: 共有ボタン → 「ホーム画面に追加」
+- **Android (Chrome)**: メニュー → 「ホーム画面に追加」
+
+アプリのように全画面で開き、**一度読み込んだ記事は圏外でも読めます**
+（Service Worker によるオフライン対応。記事データは常に最新を優先取得します）。
+
+### Claude で記事を書かせる場合（任意）
+
+リポジトリの **Settings → Secrets and variables → Actions → New repository secret** で
+`ANTHROPIC_API_KEY` を登録すると、記事の文章を Claude が執筆します。
+未登録でも無料経路で動作します。
+
+## 自宅 Wi-Fi 内だけで見る（PC 必須）
+
+`npm run serve` を実行すると、同じ Wi-Fi 内からアクセスできる URL が表示されます。
+
+```
+AI Daily Brief → http://localhost:4173
+同一 Wi-Fi 内から  → http://192.168.x.x:4173
+```
+
+スマホのブラウザでその URL を開いてください。初回は Windows Defender
+ファイアウォールの許可ダイアログで「プライベートネットワーク」を許可します。
+PC がスリープすると見られなくなります。
+
 ## 環境変数
 
 | 変数 | 必須 | 効果 |
