@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "generatedAt": "2026-07-20T11:14:10.690Z",
+  "generatedAt": "2026-07-20T11:23:31.466Z",
   "generator": "fallback:extractive+mymemory",
   "title": "AI 最新まとめ 2026-07-20",
   "threeLineSummary": [
@@ -312,6 +312,6 @@
     "clusters": 360,
     "verifiedTopics": 7,
     "unverifiedTopics": 353,
-    "elapsedMs": 23963
+    "elapsedMs": 21208
   }
 }
