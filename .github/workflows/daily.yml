@@ -21,6 +21,10 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # ステップの if で参照するため、ジョブレベルで env に置く。
+    # （ステップレベルの env は、そのステップ自身の if からは参照できないため）
+    env:
+      MAIL_APP_PASSWORD: ${{ secrets.MAIL_APP_PASSWORD }}
     steps:
       - uses: actions/checkout@v4
 
@@ -58,6 +62,38 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
+
+      # ---- メール通知（MAIL_APP_PASSWORD が未登録なら丸ごとスキップ）----
+
+      - name: メール本文を組み立て
+        if: env.MAIL_APP_PASSWORD != ''
+        id: mail
+        env:
+          SITE_URL: https://junjisakanoue-prog.github.io/new-AI-updating/
+        run: |
+          node scripts/notify-body.mjs > mail.txt
+          # 1 行目が件名、2 行目以降が本文
+          echo "subject=$(head -1 mail.txt)" >> "$GITHUB_OUTPUT"
+          {
+            echo 'body<<__MAIL_EOF__'
+            tail -n +2 mail.txt
+            echo '__MAIL_EOF__'
+          } >> "$GITHUB_OUTPUT"
+
+      - name: メールで通知
+        if: env.MAIL_APP_PASSWORD != ''
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_APP_PASSWORD }}
+          from: AI Daily Brief <${{ secrets.MAIL_USERNAME }}>
+          # MAIL_TO 未設定なら送信元アドレス宛に送る
+          to: ${{ secrets.MAIL_TO || secrets.MAIL_USERNAME }}
+          subject: ${{ steps.mail.outputs.subject }}
+          body: ${{ steps.mail.outputs.body }}
 
   deploy:
     needs: build
