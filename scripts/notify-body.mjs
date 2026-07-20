@@ -54,4 +54,7 @@ lines.push(`ダッシュボード: ${SITE_URL}`);
 lines.push('');
 lines.push(`収集 ${article.stats?.itemsCollected ?? '—'} 件 / 直近 ${article.stats?.windowHours ?? '—'} 時間 / 生成 ${article.generator ?? ''}`);
 
-process.stdout.write(lines.join('\n'));
+// 末尾の改行は必須。
+// これが無いと、呼び出し側でヒアドキュメントの終端記号が
+// 最終行に連結してしまい "Matching delimiter not found" になる。
+process.stdout.write(`${lines.join('\n')}\n`);

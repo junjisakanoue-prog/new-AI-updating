@@ -72,6 +72,10 @@ jobs:
           SITE_URL: https://junjisakanoue-prog.github.io/new-AI-updating/
         run: |
           node scripts/notify-body.mjs > mail.txt
+          # 保険: 末尾が改行でなければ足す。
+          # 改行が無いと下のヒアドキュメント終端が本文と連結し、
+          # "Matching delimiter not found" で失敗する。
+          [ -n "$(tail -c 1 mail.txt)" ] && printf '\n' >> mail.txt
           # 1 行目が件名、2 行目以降が本文
           echo "subject=$(head -1 mail.txt)" >> "$GITHUB_OUTPUT"
           {
