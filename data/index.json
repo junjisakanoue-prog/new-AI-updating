@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-07-21",
+      "title": "AI 最新まとめ 2026-07-21",
+      "threeLineSummary": [
+        "「Claude Fable 5」サブスクに統合 Max・Team Premiumプラン対象",
+        "ロングホライズンモデルの時代における安全性とアライメント",
+        "AI時代のスコアカード"
+      ],
+      "topicCount": 3,
+      "generatedAt": "2026-07-20T22:32:35.912Z"
+    },
+    {
       "date": "2026-07-20",
       "title": "AI 最新まとめ 2026-07-20",
       "threeLineSummary": [
@@ -12,5 +23,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-07-20T11:23:31.467Z"
+  "updatedAt": "2026-07-20T22:32:35.919Z"
 }
