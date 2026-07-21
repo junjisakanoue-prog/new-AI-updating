@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-07-22",
+      "title": "AI 最新まとめ 2026-07-22",
+      "threeLineSummary": [
+        "Googleは3つの新しいGeminiモデルをリリースしましたが、3.5 Proはありません",
+        "AnthropicがAIモデル「Claude」のトレーニングに海賊版書籍を使った件で作家グループと和解するも一部の著者…",
+        "モデル評価中にセキュリティインシデントに対処するためのOpenAIとHugging Faceのパートナー"
+      ],
+      "topicCount": 6,
+      "generatedAt": "2026-07-21T22:14:48.429Z"
+    },
+    {
       "date": "2026-07-21",
       "title": "AI 最新まとめ 2026-07-21",
       "threeLineSummary": [
@@ -23,5 +34,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-07-20T22:32:35.919Z"
+  "updatedAt": "2026-07-21T22:14:48.437Z"
 }

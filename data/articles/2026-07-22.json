@@ -1,0 +1,300 @@
+{
+  "date": "2026-07-22",
+  "generatedAt": "2026-07-21T22:14:48.429Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-07-22",
+  "threeLineSummary": [
+    "Googleは3つの新しいGeminiモデルをリリースしましたが、3.5 Proはありません",
+    "AnthropicがAIモデル「Claude」のトレーニングに海賊版書籍を使った件で作家グループと和解するも一部の著者…",
+    "モデル評価中にセキュリティインシデントに対処するためのOpenAIとHugging Faceのパートナー"
+  ],
+  "lead": "2026-07-22 時点で、複数ソースの裏取りが取れた AI 関連トピック 6 件をまとめた。",
+  "sections": [
+    {
+      "heading": "Googleは3つの新しいGeminiモデルをリリースしましたが、3.5 Proはありません",
+      "body": "GoogleはGemini 3.6 Flash、3.5 Flash - Lite、およびFlash Cyberをリリースしましたが、Gemini 3.5 Proの継続的な欠如は、AI戦略について新たな疑問を提起しています。\n\n初出は TechCrunch AI [1]。Ars Technica AI [2]、DeepMind Blog [3] でも同内容が報じられている。",
+      "why_it_matters": "独立した 3 ソースで確認済み（確度: 高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 1
+    },
+    {
+      "heading": "AnthropicがAIモデル「Claude」のトレーニングに海賊版書籍を使った件で作家グループと和解するも一部の著者は和解を拒否",
+      "body": "現地時間の2026年7月20日、AI開発企業のAnthropicがAIトレーニングに海賊版サイトのデータを使ったとして作家グループに訴えられた裁判で、Anthropicと原告の和解案をカリフォルニア州北部地区連邦地方裁判所が承認しました。 続きを読む...\n\n初出は GIGAZINE [1]。CNET Japan [3] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: 中）。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 2
+    },
+    {
+      "heading": "モデル評価中にセキュリティインシデントに対処するためのOpenAIとHugging Faceのパートナー",
+      "body": "OpenAIとHugging Faceは、AIモデル評価中のセキュリティインシデントからの初期の調査結果を共有し、ディフェンダーのための高度なサイバー機能と教訓を強調しています。\n\n初出は OpenAI Blog [1]。r/LocalLLaMA [2] でも同内容が報じられている。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIの安全性やリスクに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。自分が使っているサービスが該当するかどうかを確認しておくと安心です。",
+      "topic_index": 3
+    },
+    {
+      "heading": "物理的AIのシミュレーションの現状：概要",
+      "body": "物理的AIのシミュレーションの現状：概要\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 4
+    },
+    {
+      "heading": "中小企業向けChatGPTプログラムのご紹介",
+      "body": "OpenAIは、ChatGPT for Small Businessesプログラムを立ち上げ、起業家がAIスキルを構築し、仕事を自動化し、ChatGPT Workで成長するのを支援します。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 5
+    },
+    {
+      "heading": "David Vélez氏とRobin Vince氏がOpenAI FoundationとOpenAI Group PBCの取締役に就任",
+      "body": "David Vélez氏とRobin Vince氏は、OpenAI FoundationとOpenAI Group PBCの取締役会に加わり、金融、テクノロジー、ガバナンスにおけるグローバルリーダーシップをもたらしました。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 6
+    }
+  ],
+  "xPosts": [
+    "Googleは3つの新しいGeminiモデルをリリースしましたが、3.5 Proはありません（3ソースで確認）",
+    "AnthropicがAIモデル「Claude」のトレーニングに海賊版書籍を使った件で作家グループと和解するも一部の著者は和解を拒否（2ソースで確認）",
+    "モデル評価中にセキュリティインシデントに対処するためのOpenAIとHugging Faceのパートナー（公式発表）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Google releases three new Gemini models — but no 3.5 Pro",
+      "confidence": "high",
+      "domainCount": 3,
+      "socialCount": 0,
+      "sourceCount": 3,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "Google releases three new Gemini models — but no 3.5 Pro",
+          "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-07-21T17:11:50.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Ars Technica AI",
+          "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
+          "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
+          "domain": "arstechnica.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-07-21T16:58:25.000Z"
+        },
+        {
+          "n": 3,
+          "source": "DeepMind Blog",
+          "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+          "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+          "domain": "deepmind.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-07-21T15:16:30.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "AnthropicがAIモデル「Claude」のトレーニングに海賊版書籍を使った件で作家グループと和解するも一部の著者は和解を拒否",
+      "confidence": "medium",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 3,
+      "sources": [
+        {
+          "n": 1,
+          "source": "GIGAZINE",
+          "title": "AnthropicがAIモデル「Claude」のトレーニングに海賊版書籍を使った件で作家グループと和解するも一部の著者は和解を拒否",
+          "url": "https://gigazine.net/news/20260722-anthropics-settlement-book-piracy-ai/",
+          "domain": "gigazine.net",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-07-21T22:00:00.000Z"
+        },
+        {
+          "n": 2,
+          "source": "GIGAZINE",
+          "title": "AI「Claude Fable 5」が87年来の難問「ヤコビアン予想」を覆す反例を生成したとAnthropic研究者が報告",
+          "url": "https://gigazine.net/news/20260721-claude-fable-5-jacobian-conjecture/",
+          "domain": "gigazine.net",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-07-21T04:28:00.000Z"
+        },
+        {
+          "n": 3,
+          "source": "CNET Japan",
+          "title": "Claudeの「Fable 5」、結局標準搭載へ ただし1万6000円以上の月額課金が必要",
+          "url": "https://japan.cnet.com/article/35250774/",
+          "domain": "japan.cnet.com",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-07-20T23:25:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 1,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-07-21T07:00:00.000Z"
+        },
+        {
+          "n": 2,
+          "source": "r/LocalLLaMA",
+          "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+          "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v2u7v9/openai_and_hugging_face_partner_to_address/",
+          "domain": "reddit.com",
+          "tier": 3,
+          "kind": "social",
+          "publishedAt": "2026-07-21T20:26:47.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "The State of Simulation for Physical AI: An Overview",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "The State of Simulation for Physical AI: An Overview",
+          "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-07-21T20:00:27.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "Introducing the ChatGPT for small business program",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Introducing the ChatGPT for small business program",
+          "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-07-21T17:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+          "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-07-21T00:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "ニール・ブロムカンプの新しいゾンビAI「フィルム」がスロップウォームされました",
+      "headlineOriginal": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "OpenAIは、誤って新しいAIシステムでHugging Faceをハッキングしたと述べています",
+      "headlineOriginal": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "OpenAIは、Hugging Faceが独自のプレリリースモデルによって侵害されたと述べている",
+      "headlineOriginal": "OpenAI says Hugging Face was breached by its own pre-release models",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AIトークン消費「24倍」の衝撃 本番運用に向けて絶対に“やってはいけない”コストの捉え方",
+      "headlineOriginal": "AIトークン消費「24倍」の衝撃 本番運用に向けて絶対に“やってはいけない”コストの捉え方",
+      "source": "ITmedia AI+",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/22/news005.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Jack Dorseyは、チームとAIエージェント向けのグループチャットプラットフォームであるBuzzでSlackに挑戦しています",
+      "headlineOriginal": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AIとユニバーサルエンターテインメントアプリの台頭",
+      "headlineOriginal": "AI and the rise of the universal entertainment app",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Substackは、誰も書いていないブログを見つけるのに役立つAI検出器を追加します",
+      "headlineOriginal": "Substack adds an AI detector to help spot blogs written by no one",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Anthropicの15億$の著作権和解が承認されました。オプトアウトしたのは350人の著者のみです",
+      "headlineOriginal": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 699,
+    "itemsInPool": 735,
+    "clusters": 686,
+    "verifiedTopics": 6,
+    "unverifiedTopics": 680,
+    "elapsedMs": 21186
+  }
+}
