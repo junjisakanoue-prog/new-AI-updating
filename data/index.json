@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-07-23",
+      "title": "AI 最新まとめ 2026-07-23",
+      "threeLineSummary": [
+        "OpenAIのヒューマンミスがHugging FaceのAIハッキングにどのようにつながったか",
+        "Google、「Gemini 3.6 Flash」など3モデルを発表 出力トークンを削減しつつ値下げ、「Gemini …",
+        "Gemini 3.6 Flashのベンチマーク結果はこんな感じ"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-07-22T22:38:49.480Z"
+    },
+    {
       "date": "2026-07-22",
       "title": "AI 最新まとめ 2026-07-22",
       "threeLineSummary": [
@@ -34,5 +45,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-07-21T22:14:48.437Z"
+  "updatedAt": "2026-07-22T22:38:49.488Z"
 }
