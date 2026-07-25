@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-07-26",
+      "title": "AI 最新まとめ 2026-07-26",
+      "threeLineSummary": [
+        "Anthropic、「Claude Opus 5」公開 Fable 5に迫る性能を半額で――サイバー安全策は緩和、拒否…",
+        "AIキルスイッチ法は、トランプの管理者が不正なAIシステムのシャットダウンを命じることを可能にする",
+        "Anthropicは、より機能的なモデルでClaude音声モードを更新します"
+      ],
+      "topicCount": 5,
+      "generatedAt": "2026-07-25T22:12:54.029Z"
+    },
+    {
       "date": "2026-07-25",
       "title": "AI 最新まとめ 2026-07-25",
       "threeLineSummary": [
@@ -67,5 +78,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-07-24T22:40:34.811Z"
+  "updatedAt": "2026-07-25T22:12:54.037Z"
 }
