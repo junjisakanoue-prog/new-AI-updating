@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-07-27",
+      "title": "AI 最新まとめ 2026-07-27",
+      "threeLineSummary": [
+        "Hugging FaceのCEOは、「前例のない」OpenAIハッキングの後、「急進的な透明性」を求めています",
+        "Anthropic、「Claude Opus 5」公開 Fable 5に迫る性能を半額で――サイバー安全策は緩和、拒否…",
+        "AIキルスイッチ法は、トランプの管理者が不正なAIシステムのシャットダウンを命じることを可能にする"
+      ],
+      "topicCount": 5,
+      "generatedAt": "2026-07-26T22:16:55.495Z"
+    },
+    {
       "date": "2026-07-26",
       "title": "AI 最新まとめ 2026-07-26",
       "threeLineSummary": [
@@ -78,5 +89,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-07-25T22:12:54.037Z"
+  "updatedAt": "2026-07-26T22:16:55.503Z"
 }
