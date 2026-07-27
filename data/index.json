@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-07-28",
+      "title": "AI 最新まとめ 2026-07-28",
+      "threeLineSummary": [
+        "Hugging FaceのCEOは、「前例のない」OpenAIハッキングの後、「急進的な透明性」を求めています",
+        "Anthropic、「Claude Opus 5」公開 Fable 5に迫る性能を半額で――サイバー安全策は緩和、拒否…",
+        "NVIDIA Cosmos - H - Dreams ：リアルタイム生成シミュレーションを外科用ロボットにもたらす"
+      ],
+      "topicCount": 4,
+      "generatedAt": "2026-07-27T22:39:17.800Z"
+    },
+    {
       "date": "2026-07-27",
       "title": "AI 最新まとめ 2026-07-27",
       "threeLineSummary": [
@@ -89,5 +100,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-07-26T22:16:55.503Z"
+  "updatedAt": "2026-07-27T22:39:17.808Z"
 }

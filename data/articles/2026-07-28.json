@@ -1,0 +1,216 @@
+{
+  "date": "2026-07-28",
+  "generatedAt": "2026-07-27T22:39:17.800Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-07-28",
+  "threeLineSummary": [
+    "Hugging FaceのCEOは、「前例のない」OpenAIハッキングの後、「急進的な透明性」を求めています",
+    "Anthropic、「Claude Opus 5」公開 Fable 5に迫る性能を半額で――サイバー安全策は緩和、拒否…",
+    "NVIDIA Cosmos - H - Dreams ：リアルタイム生成シミュレーションを外科用ロボットにもたらす"
+  ],
+  "lead": "2026-07-28 時点で、複数ソースの裏取りが取れた AI 関連トピック 4 件をまとめた。",
+  "sections": [
+    {
+      "heading": "Hugging FaceのCEOは、「前例のない」OpenAIハッキングの後、「急進的な透明性」を求めています",
+      "body": "「最初の自律的なエージェントのサイバー攻撃は前例のない出来事です。前代未聞の対応に値する！」\n\n初出は TechCrunch AI [1]。Simon Willison [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AIの安全性やリスクに関する話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。自分が使っているサービスが該当するかどうかを確認しておくと安心です。",
+      "topic_index": 1
+    },
+    {
+      "heading": "Anthropic、「Claude Opus 5」公開 Fable 5に迫る性能を半額で――サイバー安全策は緩和、拒否時は自動フォールバックも",
+      "body": "Anthropicは、最新LLM「Claude Opus 5」を公開した。上位モデル「Claude Fable 5」に迫る知能を半額の価格で提供する。プログラミングやナレッジワークにおいて高い評価を獲得し、推論の深さを調整するパラメータや安全性分類器に連動する自動フォールバック機能などを備える。\n\n初出は ITmedia AI+ [1]。Simon Willison [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「LLM（大規模言語モデル）」は、ChatGPT や Claude の「頭脳」にあたる、大量の文章を学習して言葉を扱えるようにしたプログラムのことです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 2
+    },
+    {
+      "heading": "NVIDIA Cosmos - H - Dreams ：リアルタイム生成シミュレーションを外科用ロボットにもたらす",
+      "body": "NVIDIA Cosmos - H - Dreams ：リアルタイム生成シミュレーションを外科用ロボットにもたらす\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「GPU」は、AIの計算に使う高性能な半導体。AI開発ではこれの確保がコストと速度を左右します。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 3
+    },
+    {
+      "heading": "AIが職場で行うことをどのように拡大しているか",
+      "body": "OpenAIの新しい調査では、ChatGPTユーザーが役割を越えてタスクを引き受け、ジョブの境界を再構築することで、AIがワーカーの仕事をどのように拡大しているかが示されています。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、研究段階の成果で、すぐ製品になるとは限らない話です。記事に出てくる「API」は、自分のアプリやサービスからAIを呼び出して使うための接続口のことです。今すぐ影響はありませんが、今後の製品に反映されていく可能性があります。",
+      "topic_index": 4
+    }
+  ],
+  "xPosts": [
+    "Hugging FaceのCEOは、「前例のない」OpenAIハッキングの後、「急進的な透明性」を求めています（2ソースで確認）",
+    "Anthropic、「Claude Opus 5」公開 Fable 5に迫る性能を半額で――サイバー安全策は緩和、拒否時は自動フォールバックも（2ソースで確認）",
+    "NVIDIA Cosmos - H - Dreams ：リアルタイム生成シミュレーションを外科用ロボットにもたらす（公式発表）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+          "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-07-26T16:33:13.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Simon Willison",
+          "title": "The first known runaway AI agent - or a very bad marketing stunt?",
+          "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything",
+          "domain": "simonwillison.net",
+          "tier": 2,
+          "kind": "blog",
+          "publishedAt": "2026-07-23T22:53:08.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Anthropic、「Claude Opus 5」公開 Fable 5に迫る性能を半額で――サイバー安全策は緩和、拒否時は自動フォールバックも",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "Anthropic、「Claude Opus 5」公開 Fable 5に迫る性能を半額で――サイバー安全策は緩和、拒否時は自動フォールバックも",
+          "url": "https://www.itmedia.co.jp/news/articles/2607/25/news016.html",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-07-24T22:28:00.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Simon Willison",
+          "title": "Introducing Claude Opus 5",
+          "url": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything",
+          "domain": "simonwillison.net",
+          "tier": 2,
+          "kind": "blog",
+          "publishedAt": "2026-07-24T23:48:50.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+          "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-07-27T09:32:20.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "How AI is expanding what people do at work",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "How AI is expanding what people do at work",
+          "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-07-27T03:30:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "NVIDIA、マイクロソフト、OpenAI、Google、AnthropicなしでオープンAIセキュリティアライアンスを開始",
+      "headlineOriginal": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "NVIDIAやMicrosoftなど30社超、オープンAIの防御ツール共同開発の「Open Secure AI Alliance」設立",
+      "headlineOriginal": "NVIDIAやMicrosoftなど30社超、オープンAIの防御ツール共同開発の「Open Secure AI Alliance」設立",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/28/news059.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "なぜ、Microsoft 365 Copilotは「会社の仕事を理解する」のがうまいのか？",
+      "headlineOriginal": "なぜ、Microsoft 365 Copilotは「会社の仕事を理解する」のがうまいのか？",
+      "source": "ITmedia AI+",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2607/28/news030.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "マイクロソフト、競合プラットフォームを上回るAIセキュリティツールを発表",
+      "headlineOriginal": "Microsoft unveils AI security tools it says outperform competing platforms",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AIエージェントが車載アプリを動的に生成、イーソルがAIDVに向けた実験場を披露",
+      "headlineOriginal": "AIエージェントが車載アプリを動的に生成、イーソルがAIDVに向けた実験場を披露",
+      "source": "ITmedia AI+",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/28/news056.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Satya Nadellaは、1つのAIをすべて信頼する企業は生き残れないかもしれないと言います",
+      "headlineOriginal": "Satya Nadella says companies that trust one AI for everything may not survive",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "PSA ： Claudeさんが共有したチャットやアーティファクトがGoogleに掲載された可能性があります",
+      "headlineOriginal": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "ベライゾン、Googleのデータセンター向けに10億$のダークファイバー契約を発表",
+      "headlineOriginal": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 96,
+    "itemsCollected": 397,
+    "itemsInPool": 397,
+    "clusters": 382,
+    "verifiedTopics": 4,
+    "unverifiedTopics": 378,
+    "elapsedMs": 17908
+  }
+}
