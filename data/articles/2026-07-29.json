@@ -1,0 +1,317 @@
+{
+  "date": "2026-07-29",
+  "generatedAt": "2026-07-28T22:40:05.417Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-07-29",
+  "threeLineSummary": [
+    "NVIDIAやMicrosoftなど30社超、オープンAIの防御ツール共同開発の「Open Secure AI All…",
+    "千代田区、Copilot全庁導入で月2000時間削減 10カ月でAIを根付かせた定着の仕掛け",
+    "AIリーダーは、自動化されたAIについて何かをするよう政府に求める声明に署名します"
+  ],
+  "lead": "2026-07-29 時点で、複数ソースの裏取りが取れた AI 関連トピック 7 件をまとめた。",
+  "sections": [
+    {
+      "heading": "NVIDIAやMicrosoftなど30社超、オープンAIの防御ツール共同開発の「Open Secure AI Alliance」設立",
+      "body": "NVIDIAやMicrosoft、SpaceXAIなどは、AIオープンモデルの安全性向上とサイバーセキュリティツール開発を目指すイニシアチブ「Open Secure AI Alliance」を設立した。オープンな技術を活用してソフトウェアの脆弱性修正や防御ツールの共同開発を推進し、過度な規制に対する防御資産としての重要性を主張する。\n\n初出は ITmedia AI+ [1]。The Verge AI [2]、GIGAZINE [3] でも同内容が報じられている。",
+      "why_it_matters": "独立した 3 ソースで確認済み（確度: 高）。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。記事に出てくる「GPU」は、AIの計算に使う高性能な半導体。AI開発ではこれの確保がコストと速度を左右します。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 1
+    },
+    {
+      "heading": "千代田区、Copilot全庁導入で月2000時間削減 10カ月でAIを根付かせた定着の仕掛け",
+      "body": "千代田区では「Microsoft 365 Copilot」の実証実験を重ね、2025年10月に全庁導入を果たし、業務時間を約2000時間削減したという。同区が全庁導入後にどのように職員のCopilot活用を推進させたのか。その方法をキーマンズネットが独自取材した。\n\n初出は ITmedia AI+ [1]。ITmedia AI+ [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 2
+    },
+    {
+      "heading": "AIリーダーは、自動化されたAIについて何かをするよう政府に求める声明に署名します",
+      "body": "OpenAIとAnthropicの従業員、ならびにGoogle、Meta、Thinking Machines、Microsoft、Mistral、およびその他の主要なAIラボの従業員は、フロンティアAI開発の潜在的な減速、または少なくとも世界的に調整されたガバナンスの取り組みのスピードアップを支持する声明を米国政府に書きました。「Alは劇的に改善された[…]\n\n初出は The Verge AI [1]。arXiv cs.AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 3
+    },
+    {
+      "heading": "エージェントAI時代の科学的コンピューティング",
+      "body": "新しいフィールドレポートは、科学者がAIコーディングエージェントを使用して科学コンピューティングを近代化し、ゲノミクスなどのソフトウェア開発と発見を加速する方法を示しています。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 4
+    },
+    {
+      "heading": "OlmoEarthプラットフォーム：惑星スケールでの地理空間推論",
+      "body": "OlmoEarthプラットフォーム：惑星スケールでの地理空間推論\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「MoE（専門家混合）」は、AI内部に複数の「専門家」を持たせ、質問に応じて必要な担当だけを動かして効率化する構造のことです。記事に出てくる「推論（インファレンス）」は、AIが実際に考えて答えを出す処理のこと。ここが速い・安いほど実用しやすくなります。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 5
+    },
+    {
+      "heading": "Gemini APIマネージドエージェント： 3.6 Flash、フックなど",
+      "body": "開発者が信頼性の高い本番対応エージェントを構築できるように、Gemini APIのマネージドエージェントでさらに多くの新機能を発表します。\n\n初出は Google AI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Google AI Blog）に基づく。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「API」は、自分のアプリやサービスからAIを呼び出して使うための接続口のことです。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 6
+    },
+    {
+      "heading": "CPU上の高速ロングコンテキスト推論のためのLFM2.5エンコーダ",
+      "body": "CPU上の高速ロングコンテキスト推論のためのLFM2.5エンコーダ\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「コンテキストウィンドウ」は、AIが一度に読み込んで覚えていられる文章の量。大きいほど長い資料を丸ごと渡せます。記事に出てくる「推論（インファレンス）」は、AIが実際に考えて答えを出す処理のこと。ここが速い・安いほど実用しやすくなります。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 7
+    }
+  ],
+  "xPosts": [
+    "NVIDIAやMicrosoftなど30社超、オープンAIの防御ツール共同開発の「Open Secure AI Alliance」設立（3ソースで確認）",
+    "千代田区、Copilot全庁導入で月2000時間削減 10カ月でAIを根付かせた定着の仕掛け（2ソースで確認）",
+    "AIリーダーは、自動化されたAIについて何かをするよう政府に求める声明に署名します（2ソースで確認）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "NVIDIAやMicrosoftなど30社超、オープンAIの防御ツール共同開発の「Open Secure AI Alliance」設立",
+      "confidence": "high",
+      "domainCount": 3,
+      "socialCount": 0,
+      "sourceCount": 3,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "NVIDIAやMicrosoftなど30社超、オープンAIの防御ツール共同開発の「Open Secure AI Alliance」設立",
+          "url": "https://www.itmedia.co.jp/news/articles/2607/28/news059.html",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-07-27T22:16:00.000Z"
+        },
+        {
+          "n": 2,
+          "source": "The Verge AI",
+          "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-07-27T12:06:22.000Z"
+        },
+        {
+          "n": 3,
+          "source": "GIGAZINE",
+          "title": "NVIDIA・Microsoft・SpacexAIなどがAIの安全性とサイバーセキュリティを高めるための業界団体「Open Secure AI Alliance」を設立、Anthropic・OpenAI・Googleは不参加",
+          "url": "https://gigazine.net/news/20260728-nvidia-open-secure-ai-alliance/",
+          "domain": "gigazine.net",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-07-28T02:14:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "千代田区、Copilot全庁導入で月2000時間削減 10カ月でAIを根付かせた定着の仕掛け",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "千代田区、Copilot全庁導入で月2000時間削減 10カ月でAIを根付かせた定着の仕掛け",
+          "url": "https://kn.itmedia.co.jp/kn/articles/2607/29/news042.html",
+          "domain": "kn.itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-07-28T22:00:00.000Z"
+        },
+        {
+          "n": 2,
+          "source": "ITmedia AI+",
+          "title": "「Claudeより4割安い」 M365のExcel/メール操作を丸投げる「Copilot Cowork」“従量課金”の落とし穴",
+          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/28/news053.html",
+          "domain": "atmarkit.itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-07-28T04:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "AI leaders sign statement asking the government to do something about automated AI",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "The Verge AI",
+          "title": "AI leaders sign statement asking the government to do something about automated AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-07-28T19:46:43.000Z"
+        },
+        {
+          "n": 2,
+          "source": "arXiv cs.AI",
+          "title": "Analyzing the Ethical Logic of Eight Large Language Models",
+          "url": "https://arxiv.org/abs/2501.08951",
+          "domain": "arxiv.org",
+          "tier": 2,
+          "kind": "paper",
+          "publishedAt": "2026-07-28T04:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "Scientific computing in the age of agentic AI",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Scientific computing in the age of agentic AI",
+          "url": "https://openai.com/index/scientific-computing-agentic-ai",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-07-28T17:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+          "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-07-28T16:27:42.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Google AI Blog",
+          "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+          "domain": "blog.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-07-28T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "headline": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-07-28T15:01:45.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "OpenAIやAnthropicなどの従業員、米政府に「AI開発のペース調整を」と提言",
+      "headlineOriginal": "OpenAIやAnthropicなどの従業員、米政府に「AI開発のペース調整を」と提言",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/news/article/2607/29/2000000255/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "エバンジェリスト・みのるん氏が解説 「自前のAIエージェント」爆速開発術",
+      "headlineOriginal": "エバンジェリスト・みのるん氏が解説 「自前のAIエージェント」爆速開発術",
+      "source": "ITmedia AI+",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2607/29/news050.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "地震、台風、有事の寸断――日本のサプライチェーン危機管理を変えるとき",
+      "headlineOriginal": "地震、台風、有事の寸断――日本のサプライチェーン危機管理を変えるとき",
+      "source": "ITmedia AI+",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/29/news035.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "OpenAIがHugging Faceにどのようにハッキングしたかをよりよく理解できるようになりました",
+      "headlineOriginal": "We now have a better understanding how OpenAI hacked into Hugging Face",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AIの誇大宣伝にもかかわらず、Googleのデータは、労働者が自分自身を自動化していないことを示しています",
+      "headlineOriginal": "Despite AI hype, Google's data shows workers aren't automating themselves away",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "ついにAIは、ウォール街を不安にさせるのに十分なほど高価になった",
+      "headlineOriginal": "AI’s finally expensive enough to make Wall Street nervous",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "TRaM - VSR ：ワンステップ拡散ビデオ超解像度のための重要性認識トークンルーティングとマージ",
+      "headlineOriginal": "TRaM-VSR: Importance-Aware Token Routing and Merging for One-Step Diffusion Video Super-Resolution",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.22231",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Fish Audioが5200万$のシードを調達し、クリエイターや企業向けのAI音声モデルを構築",
+      "headlineOriginal": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 523,
+    "itemsInPool": 568,
+    "clusters": 509,
+    "verifiedTopics": 10,
+    "unverifiedTopics": 499,
+    "elapsedMs": 21176
+  }
+}

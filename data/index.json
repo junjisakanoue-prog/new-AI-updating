@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-07-29",
+      "title": "AI 最新まとめ 2026-07-29",
+      "threeLineSummary": [
+        "NVIDIAやMicrosoftなど30社超、オープンAIの防御ツール共同開発の「Open Secure AI All…",
+        "千代田区、Copilot全庁導入で月2000時間削減 10カ月でAIを根付かせた定着の仕掛け",
+        "AIリーダーは、自動化されたAIについて何かをするよう政府に求める声明に署名します"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-07-28T22:40:05.417Z"
+    },
+    {
       "date": "2026-07-28",
       "title": "AI 最新まとめ 2026-07-28",
       "threeLineSummary": [
@@ -100,5 +111,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-07-27T22:39:17.808Z"
+  "updatedAt": "2026-07-28T22:40:05.425Z"
 }
