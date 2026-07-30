@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-07-31",
+      "title": "AI 最新まとめ 2026-07-31",
+      "threeLineSummary": [
+        "GoogleはGemini Robotics 2.0を発表し、器用さと安全性の向上を約束",
+        "Googleは、AIのおかげで、6月に過去2年間よりも多くのChromeのバグを修正したと述べています",
+        "Zuckerberg氏は、MetaのエンタープライズAIの機会はエージェントを超えて拡大していると述べています"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-07-30T22:46:51.567Z"
+    },
+    {
       "date": "2026-07-30",
       "title": "AI 最新まとめ 2026-07-30",
       "threeLineSummary": [
@@ -122,5 +133,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-07-29T22:17:36.085Z"
+  "updatedAt": "2026-07-30T22:46:51.575Z"
 }

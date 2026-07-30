@@ -1,0 +1,317 @@
+{
+  "date": "2026-07-31",
+  "generatedAt": "2026-07-30T22:46:51.567Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-07-31",
+  "threeLineSummary": [
+    "GoogleはGemini Robotics 2.0を発表し、器用さと安全性の向上を約束",
+    "Googleは、AIのおかげで、6月に過去2年間よりも多くのChromeのバグを修正したと述べています",
+    "Zuckerberg氏は、MetaのエンタープライズAIの機会はエージェントを超えて拡大していると述べています"
+  ],
+  "lead": "2026-07-31 時点で、複数ソースの裏取りが取れた AI 関連トピック 7 件をまとめた。",
+  "sections": [
+    {
+      "heading": "GoogleはGemini Robotics 2.0を発表し、器用さと安全性の向上を約束",
+      "body": "Gemini Robotics 2には3つのモデルが含まれていますが、現在公開されているのは1つだけです。\n\n初出は Ars Technica AI [1]。The Verge AI [2]、Wired AI [3] でも同内容が報じられている。",
+      "why_it_matters": "独立した 3 ソースで確認済み（確度: 高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 1
+    },
+    {
+      "heading": "Googleは、AIのおかげで、6月に過去2年間よりも多くのChromeのバグを修正したと述べています",
+      "body": "専門家が過去2年間警告してきたように、マイクロソフトや現在のグーグルなどの一部の企業は、LLMとAIツールの使用のおかげで、自社製品に指数関数的な数のバグを発見してパッチを適用しています。\n\n初出は TechCrunch AI [1]。Wired AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「LLM（大規模言語モデル）」は、ChatGPT や Claude の「頭脳」にあたる、大量の文章を学習して言葉を扱えるようにしたプログラムのことです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 2
+    },
+    {
+      "heading": "Zuckerberg氏は、MetaのエンタープライズAIの機会はエージェントを超えて拡大していると述べています",
+      "body": "同社のマーク・ザッカーバーグ最高経営責任者（ CEO ）は、水曜日の第2四半期の決算発表で、メタはAIエージェント、API、コンピューティング、内部ソフトウェアにまたがる「大企業の機会」を見ていると述べた。\n\n初出は TechCrunch AI [1]。The Verge AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。記事に出てくる「API」は、自分のアプリやサービスからAIを呼び出して使うための接続口のことです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 3
+    },
+    {
+      "heading": "GPU管理：アイドル状態のGPUが新しい接地された航空機である理由",
+      "body": "GPU管理：アイドル状態のGPUが新しい接地された航空機である理由\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「GPU」は、AIの計算に使う高性能な半導体。AI開発ではこれの確保がコストと速度を左右します。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 4
+    },
+    {
+      "heading": "Gemini Robotics ER 2 ：ビデオ理解、タスクオーケストレーション、マルチロボットコラボレーションでロボット工学を強化",
+      "body": "Gemini Robotics ER 2は、ロボットが現実世界のタスクを推論し、コラボレーションし、解決するのに役立ちます。これは、ロボットアプリケーションのためのビデオ理解、ツールオーケストレーション、およびマルチロボットコラボレーションの段階的な変化を表しています。\n\n初出は DeepMind Blog [1]。",
+      "why_it_matters": "開発元の公式発表（DeepMind Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「推論（インファレンス）」は、AIが実際に考えて答えを出す処理のこと。ここが速い・安いほど実用しやすくなります。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 5
+    },
+    {
+      "heading": "GPT-5.6で価格性能のフロンティアを推進",
+      "body": "LunaとTerraのGPT ‑ 5.6の低価格設定と、OpenAIのより効率的なモデルが企業がAIワークフローを大規模に展開するのにどのように役立つかをご覧ください。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIを使うときの値段や条件が変わる、という話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。普段使っているツールの請求や使える範囲に影響する可能性があります。",
+      "topic_index": 6
+    },
+    {
+      "heading": "2つの設定を有効にすると、ARC - AGI -3ベンチマークのスコアが3倍になりました",
+      "body": "2つのAPI設定がARC - AGI -3でGPT-5.6のパフォーマンスを向上させ、推論を維持して圧縮を可能にすることでスコアと効率を向上させた方法。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。記事に出てくる「ベンチマーク」は、AIの性能を測るための共通テスト。学力テストの偏差値のようなものです。記事に出てくる「API」は、自分のアプリやサービスからAIを呼び出して使うための接続口のことです。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 7
+    }
+  ],
+  "xPosts": [
+    "GoogleはGemini Robotics 2.0を発表し、器用さと安全性の向上を約束（3ソースで確認）",
+    "Googleは、AIのおかげで、6月に過去2年間よりも多くのChromeのバグを修正したと述べています（2ソースで確認）",
+    "Zuckerberg氏は、MetaのエンタープライズAIの機会はエージェントを超えて拡大していると述べています（2ソースで確認）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
+      "confidence": "high",
+      "domainCount": 3,
+      "socialCount": 0,
+      "sourceCount": 3,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Ars Technica AI",
+          "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
+          "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
+          "domain": "arstechnica.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-07-30T17:58:02.000Z"
+        },
+        {
+          "n": 2,
+          "source": "The Verge AI",
+          "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+          "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-07-30T17:18:45.000Z"
+        },
+        {
+          "n": 3,
+          "source": "Wired AI",
+          "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
+          "url": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
+          "domain": "wired.com",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-07-30T15:04:22.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+          "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-07-30T18:57:58.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Wired AI",
+          "title": "Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting",
+          "url": "https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/",
+          "domain": "wired.com",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-07-30T17:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+          "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-07-29T22:23:12.000Z"
+        },
+        {
+          "n": 2,
+          "source": "The Verge AI",
+          "title": "Mark Zuckerberg is planning a big push into personal AI agents",
+          "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-07-29T21:48:07.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-07-30T15:09:09.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "DeepMind Blog",
+          "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+          "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+          "domain": "deepmind.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-07-30T15:00:59.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "Advancing the price-performance frontier with GPT-5.6",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Advancing the price-performance frontier with GPT-5.6",
+          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-07-30T10:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "headline": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-07-29T15:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "クラウドホストである限り、投資家はAIを愛しています",
+      "headlineOriginal": "Investors love AI, as long as you’re a cloud host",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "ティム・クック、AIパワーユーザー向けのiCloud Plusティアをヒント",
+      "headlineOriginal": "Tim Cook hints at iCloud Plus tier for AI power users",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "「アイデア出しを抜いた」 生成AIなしで最も不安になる業務といえば？",
+      "headlineOriginal": "「アイデア出しを抜いた」 生成AIなしで最も不安になる業務といえば？",
+      "source": "ITmedia AI+",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/31/news055.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "日立が「SI全工程」をAI化 仕様確定で「最大240倍」効率化のワケ",
+      "headlineOriginal": "日立が「SI全工程」をAI化 仕様確定で「最大240倍」効率化のワケ",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/business/articles/2607/31/news049.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "悪用厳禁、「ChatGPT」の会話履歴をごっそりとぶっこ抜く“AIハック”：890th Lap",
+      "headlineOriginal": "悪用厳禁、「ChatGPT」の会話履歴をごっそりとぶっこ抜く“AIハック”：890th Lap",
+      "source": "ITmedia AI+",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2607/31/news040.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "裁判官は、トランプの管理者にはまだAnthropicの「サプライチェーンリスク」ラベルの証拠がないと述べています",
+      "headlineOriginal": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "孤独なAIウェアラブルであるフレンドは、新しい声とはるかに大きな価格タグで戻ってきます",
+      "headlineOriginal": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "LinkedInが実際に「AIスロップのように見える」ボタンを追加",
+      "headlineOriginal": "LinkedIn actually adds a ‘seems like AI slop’ button",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 445,
+    "itemsInPool": 511,
+    "clusters": 436,
+    "verifiedTopics": 7,
+    "unverifiedTopics": 429,
+    "elapsedMs": 24973
+  }
+}
