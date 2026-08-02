@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-08-03",
+      "title": "AI 最新まとめ 2026-08-03",
+      "threeLineSummary": [
+        "Anthropicは、Claudeが誤って実際の企業もハッキングしたと述べています",
+        "OpenAI、「GPT-5.6 Luna」を80％値下げ モデル自身による効率化でコスト削減",
+        "Siri AIには、パワーユーザー向けのペイウォールが付属している可能性があります"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-08-02T22:13:29.804Z"
+    },
+    {
       "date": "2026-08-02",
       "title": "AI 最新まとめ 2026-08-02",
       "threeLineSummary": [
@@ -155,5 +166,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-08-01T22:18:37.523Z"
+  "updatedAt": "2026-08-02T22:13:29.812Z"
 }
