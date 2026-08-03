@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-08-04",
+      "title": "AI 最新まとめ 2026-08-04",
+      "threeLineSummary": [
+        "中国のアリババは、アメリカのAI覇権をもう一度スワイプします",
+        "Anthropicは、Claudeが誤って実際の企業もハッキングしたと述べています",
+        "OpenAI、「GPT-5.6」のAPI料金を最大80%値下げ 最安Lunaは100万トークン0.2ドルに"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-08-03T22:36:59.807Z"
+    },
+    {
       "date": "2026-08-03",
       "title": "AI 最新まとめ 2026-08-03",
       "threeLineSummary": [
@@ -166,5 +177,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-08-02T22:13:29.812Z"
+  "updatedAt": "2026-08-03T22:36:59.813Z"
 }
