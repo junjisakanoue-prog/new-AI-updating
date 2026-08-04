@@ -1,0 +1,233 @@
+{
+  "date": "2026-08-05",
+  "generatedAt": "2026-08-04T22:42:42.725Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-08-05",
+  "threeLineSummary": [
+    "Appleはこれを間違っています",
+    "OpenAIモデルを含むサードパーティのサイバー評価",
+    "2026年7月に発表した最新のAIニュース"
+  ],
+  "lead": "2026-08-05 時点で、複数ソースの裏取りが取れた AI 関連トピック 5 件をまとめた。",
+  "sections": [
+    {
+      "heading": "Appleはこれを間違っています",
+      "body": "OpenAIは、Appleの根拠のない訴訟に対処し、従業員に関する主張を修正し、何が起こったのかを記録したメッセージを共有します。\n\n初出は OpenAI Blog [1]。CNET Japan [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 1
+    },
+    {
+      "heading": "OpenAIモデルを含むサードパーティのサイバー評価",
+      "body": "OpenAIは、最近のサードパーティのサイバーセキュリティ評価インシデントを説明し、AIモデルのテストと評価を強化するための新しいセーフガードを概説しています。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIの安全性やリスクに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。自分が使っているサービスが該当するかどうかを確認しておくと安心です。",
+      "topic_index": 2
+    },
+    {
+      "heading": "2026年7月に発表した最新のAIニュース",
+      "body": "2026年7月のGoogleの最新AIアップデートをご紹介します\n\n初出は Google AI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Google AI Blog）に基づく。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 3
+    },
+    {
+      "heading": "シールドストラルをご紹介します。",
+      "body": "Shieldstralは、そのサイズの最大7倍のモデルよりも優れた3 Bオープンウェイトマルチモーダル安全分類器を導入しています。\n\n初出は Mistral AI [1]。",
+      "why_it_matters": "開発元の公式発表（Mistral AI）に基づく。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「オープンウェイト / オープンソースモデル」は、AIの中身が公開されていて、誰でも自分のパソコンやサーバーで動かせるモデルのことです。記事に出てくる「マルチモーダル」は、文章だけでなく画像・音声・動画もまとめて扱えることです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 4
+    },
+    {
+      "heading": "353,000人規模のバイブコーディングコース",
+      "body": "KaggleのAI Agents Intensive with Googleは、AIの次のフロンティアを構築して展開するために、学習者を無料のコースにまとめました。\n\n初出は Google AI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Google AI Blog）に基づく。",
+      "plain_explanation": "つまり、AIを使うときの値段や条件が変わる、という話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。普段使っているツールの請求や使える範囲に影響する可能性があります。",
+      "topic_index": 5
+    }
+  ],
+  "xPosts": [
+    "Appleはこれを間違っています（2ソースで確認）",
+    "OpenAIモデルを含むサードパーティのサイバー評価（公式発表）",
+    "2026年7月に発表した最新のAIニュース（公式発表）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Apple is getting this wrong",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Apple is getting this wrong",
+          "url": "https://openai.com/index/apple-is-getting-this-wrong",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-03T22:00:00.000Z"
+        },
+        {
+          "n": 2,
+          "source": "CNET Japan",
+          "title": "OpenAI、Appleの提訴に全面反論「雑で攻撃的で、妙に個人的な訴訟」 メールやiMessageも公開",
+          "url": "https://japan.cnet.com/article/35251275/",
+          "domain": "japan.cnet.com",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-08-04T21:59:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Third-party cyber evaluations involving OpenAI models",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Third-party cyber evaluations involving OpenAI models",
+          "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-04T19:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "The latest AI news we announced in July 2026",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Google AI Blog",
+          "title": "The latest AI news we announced in July 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+          "domain": "blog.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-04T13:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "Introducing Shieldstral.",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Mistral AI",
+          "title": "Introducing Shieldstral.",
+          "url": "https://mistral.ai/news/shieldstral/",
+          "domain": "mistral.ai",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-04T12:00:26.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "Inside our 353,000-person vibe coding course",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Google AI Blog",
+          "title": "Inside our 353,000-person vibe coding course",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+          "domain": "blog.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-03T15:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "「私がウダウダしゃべるより聞きやすい」 三菱重工、決算説明に“AIジュリア”起用の本音",
+      "headlineOriginal": "「私がウダウダしゃべるより聞きやすい」 三菱重工、決算説明に“AIジュリア”起用の本音",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/business/articles/2608/05/news042.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "【8/5まで】AIを活用した開発について大調査【Amazonギフトカードが当たる】",
+      "headlineOriginal": "【8/5まで】AIを活用した開発について大調査【Amazonギフトカードが当たる】",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2608/05/news037.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "中小企業で「AI活用を回す」には？ JAPAN AIと大塚商会らが考える支援策",
+      "headlineOriginal": "中小企業で「AI活用を回す」には？ JAPAN AIと大塚商会らが考える支援策",
+      "source": "ITmedia AI+",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2608/05/news035.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AMDのデータセンター事業は活況を呈しており、ゲーミングは後退している",
+      "headlineOriginal": "AMD’s datacenter business is booming while gaming takes a backseat",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "SpaceXは、宇宙企業よりもAI企業としてより多くの収益を上げました",
+      "headlineOriginal": "SpaceX made more revenue as an AI company than a space company",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "圧倒的な需要の中、テキサス州はデータセンターの電力網への接続を停止",
+      "headlineOriginal": "Texas halts data center connections to power grid amid overwhelming demand",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "オープンウェイトAIモデルがフロンティアに追いついています。安全上のギャップは残っています。",
+      "headlineOriginal": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Anthropic、AIクラウドスタートアップVoltaと100億$の契約を締結",
+      "headlineOriginal": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 898,
+    "itemsInPool": 943,
+    "clusters": 885,
+    "verifiedTopics": 5,
+    "unverifiedTopics": 880,
+    "elapsedMs": 21411
+  }
+}
