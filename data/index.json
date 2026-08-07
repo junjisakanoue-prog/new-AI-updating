@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-08-08",
+      "title": "AI 最新まとめ 2026-08-08",
+      "threeLineSummary": [
+        "「GPT-5.6 vs. Claude Fable 5」勝者はClaude、でも企業が選びづらいワケ：891st Lap",
+        "OpenAIの高価なスマートスピーカーは、可動部品を使用して「より生き生きと」見えるようになります",
+        "「ChatGPT」のデフォルトモデル、PlusとProは「Sol」に、無料版は「Luna」でテキストチャット無制限に"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-08-07T19:47:58.007Z"
+    },
+    {
       "date": "2026-08-07",
       "title": "AI 最新まとめ 2026-08-07",
       "threeLineSummary": [
@@ -210,5 +221,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-08-07T00:37:58.894Z"
+  "updatedAt": "2026-08-07T19:47:58.017Z"
 }
