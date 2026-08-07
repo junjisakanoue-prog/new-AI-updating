@@ -1,0 +1,337 @@
+{
+  "date": "2026-08-07",
+  "generatedAt": "2026-08-07T00:37:58.886Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-08-07",
+  "threeLineSummary": [
+    "「ChatGPT」のデフォルトモデル、PlusとProは「Sol」に、無料版は「Luna」でテキストチャット無制限に",
+    "Anthropicは、クロードに電力を供給するために独自のハードウェアを設計します",
+    "ChatGPTは無料ユーザーに無制限のテキストチャットを提供します"
+  ],
+  "lead": "2026-08-07 時点で、複数ソースの裏取りが取れた AI 関連トピック 7 件をまとめた。",
+  "sections": [
+    {
+      "heading": "「ChatGPT」のデフォルトモデル、PlusとProは「Sol」に、無料版は「Luna」でテキストチャット無制限に",
+      "body": "OpenAIはChatGPTのデフォルトモデル変更を発表した。有料版には事実の正確性と応答速度を高めた改良版「GPT-5.6 Sol」を導入し、思考時間を選択できるスライダーを追加。無料版および「ChatGPT Go」には「GPT-5.6 Luna」を導入し、テキストチャットを無制限化するとともに推論を促す「Think」ボタンを提供する。\n\n初出は ITmedia AI+ [1]。OpenAI Blog [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「推論（インファレンス）」は、AIが実際に考えて答えを出す処理のこと。ここが速い・安いほど実用しやすくなります。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 1
+    },
+    {
+      "heading": "Anthropicは、クロードに電力を供給するために独自のハードウェアを設計します",
+      "body": "AnthropicとOpenAIは、Nvidiaへの依存を減らしながら、スケールアップを急いでいます。\n\n初出は Ars Technica AI [1]。TechCrunch AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「GPU」は、AIの計算に使う高性能な半導体。AI開発ではこれの確保がコストと速度を左右します。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 2
+    },
+    {
+      "heading": "ChatGPTは無料ユーザーに無制限のテキストチャットを提供します",
+      "body": "OpenAIによると、ChatGPT FREEとGoユーザーは、複雑なクエリのための新しい思考ボタンも取得しているという。\n\n初出は TechCrunch AI [1]。The Verge AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AIを使うときの値段や条件が変わる、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。普段使っているツールの請求や使える範囲に影響する可能性があります。",
+      "topic_index": 3
+    },
+    {
+      "heading": "OpenAIは、Apple自身のセキュリティ慣行が企業秘密事件を弱体化させていると述べている",
+      "body": "新たに提出された裁判所の証拠は、Appleの企業秘密訴訟におけるOpenAIの法的戦略を示している。Apple自身のセキュリティとオフボーディングの慣行（ Appleマネージャーが退社後に元エンジニアのiCloudアカウントにアクセスできるようにすることを含む）は、盗まれたとされる情報が適切に保護されているというAppleの主張を弱体化させていると主張している。\n\n初出は TechCrunch AI [1]。The Verge AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 4
+    },
+    {
+      "heading": "Meta、コーディングエージェント「Muse Code」リリース 「Claude Code」や「Codex」に対抗",
+      "body": "Metaは、ターミナル上で動作するコーディングエージェント「Muse Code」のベータ版と、新モデル「Muse Spark 1.2」を発表した。非同期バックグラウンドエージェントの常駐により遅延を抑え、複雑な開発タスクをサポートする。自己改善ループ等でコーディング性能を強化し、各種ベンチマークでも従来版を上回る成果を示した。\n\n初出は ITmedia AI+ [1]。CNET Japan [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。記事に出てくる「ベンチマーク」は、AIの性能を測るための共通テスト。学力テストの偏差値のようなものです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 5
+    },
+    {
+      "heading": "Jeff Deanと他のトップAI研究者は、Googleを離れて独自のスタートアップを立ち上げようとしています",
+      "body": "この伝説的なGoogle幹部は、AIを使用して科学的発見のプロセスを推進するという共同ミッションに、他の退任したGoogle幹部と共に参加しています。\n\n初出は TechCrunch AI [1]。Wired AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 6
+    },
+    {
+      "heading": "WeatherNext ： AIモデルがサイクロンの予測で画期的な成果を達成",
+      "body": "WeatherNext ： AIモデルがサイクロンの予測で画期的な成果を達成\n\n初出は DeepMind Blog [1]。",
+      "why_it_matters": "開発元の公式発表（DeepMind Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 7
+    }
+  ],
+  "xPosts": [
+    "「ChatGPT」のデフォルトモデル、PlusとProは「Sol」に、無料版は「Luna」でテキストチャット無制限に（2ソースで確認）",
+    "Anthropicは、クロードに電力を供給するために独自のハードウェアを設計します（2ソースで確認）",
+    "ChatGPTは無料ユーザーに無制限のテキストチャットを提供します（2ソースで確認）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "「ChatGPT」のデフォルトモデル、PlusとProは「Sol」に、無料版は「Luna」でテキストチャット無制限に",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "「ChatGPT」のデフォルトモデル、PlusとProは「Sol」に、無料版は「Luna」でテキストチャット無制限に",
+          "url": "https://www.itmedia.co.jp/news/article/2608/07/2000000435/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-06T21:32:08.000Z"
+        },
+        {
+          "n": 2,
+          "source": "OpenAI Blog",
+          "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-06T10:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Anthropic will design its own hardware to power Claude",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Ars Technica AI",
+          "title": "Anthropic will design its own hardware to power Claude",
+          "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+          "domain": "arstechnica.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-06T20:03:44.000Z"
+        },
+        {
+          "n": 2,
+          "source": "TechCrunch AI",
+          "title": "Anthropic is hiring an AI chip design team",
+          "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-05T14:13:18.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "ChatGPT brings unlimited text chats to free users",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "ChatGPT brings unlimited text chats to free users",
+          "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-06T17:34:42.000Z"
+        },
+        {
+          "n": 2,
+          "source": "The Verge AI",
+          "title": "OpenAI is giving ChatGPT free users unlimited text chats",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-06T17:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+          "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-06T15:10:32.000Z"
+        },
+        {
+          "n": 2,
+          "source": "The Verge AI",
+          "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
+          "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-06T09:33:11.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "Meta、コーディングエージェント「Muse Code」リリース 「Claude Code」や「Codex」に対抗",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "Meta、コーディングエージェント「Muse Code」リリース 「Claude Code」や「Codex」に対抗",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000410/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-06T01:31:17.000Z"
+        },
+        {
+          "n": 2,
+          "source": "CNET Japan",
+          "title": "Meta、コーディングエージェント「Muse Code」発表 Claude CodeやCodex対抗",
+          "url": "https://japan.cnet.com/article/35251340/",
+          "domain": "japan.cnet.com",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-08-06T01:08:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+          "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-05T19:30:19.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Wired AI",
+          "title": "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
+          "url": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
+          "domain": "wired.com",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-08-05T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "headline": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "DeepMind Blog",
+          "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+          "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+          "domain": "deepmind.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-06T15:06:15.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "OpenAIの新しいAIスマートスピーカーは、300〜400ドルで販売されると伝えられています",
+      "headlineOriginal": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "「GPT-5.6 vs. Claude Fable 5」勝者はClaude、でも企業が選びづらいワケ：891st Lap",
+      "headlineOriginal": "「GPT-5.6 vs. Claude Fable 5」勝者はClaude、でも企業が選びづらいワケ：891st Lap",
+      "source": "ITmedia AI+",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2608/07/news037.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "銀行なら3カ月→AIは1カ月 10万件のデータで「数千万円」を引き出した“データドリブン資金調達術”",
+      "headlineOriginal": "銀行なら3カ月→AIは1カ月 10万件のデータで「数千万円」を引き出した“データドリブン資金調達術”",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/business/articles/2608/07/news011.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "あえて歩かせない――準国産ヒューマノイド「D1」登場、現場稼働で日本の勝ち筋へ",
+      "headlineOriginal": "あえて歩かせない――準国産ヒューマノイド「D1」登場、現場稼働で日本の勝ち筋へ",
+      "source": "ITmedia AI+",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2608/07/news039.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Jony Iveの最初のOpenAIガジェットは、ホッケーパックサイズのスマートスピーカーであると伝えられています",
+      "headlineOriginal": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Sunoは、AI生成音楽の透かしで合法的になりたいと考えています",
+      "headlineOriginal": "Suno hopes to go legit with watermarks for AI-generated music",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "SaaSの価値は“割り勘”だけじゃない 「SaaSの死」論争を一刀両断",
+      "headlineOriginal": "SaaSの価値は“割り勘”だけじゃない 「SaaSの死」論争を一刀両断",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2608/07/news010.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "新しいウイルスを設計するために使用される大規模ゲノムモデル",
+      "headlineOriginal": "Large genome models used to design new viruses",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 571,
+    "itemsInPool": 623,
+    "clusters": 554,
+    "verifiedTopics": 10,
+    "unverifiedTopics": 544,
+    "elapsedMs": 23394
+  }
+}

@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-08-07",
+      "title": "AI 最新まとめ 2026-08-07",
+      "threeLineSummary": [
+        "「ChatGPT」のデフォルトモデル、PlusとProは「Sol」に、無料版は「Luna」でテキストチャット無制限に",
+        "Anthropicは、クロードに電力を供給するために独自のハードウェアを設計します",
+        "ChatGPTは無料ユーザーに無制限のテキストチャットを提供します"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-08-07T00:37:58.886Z"
+    },
+    {
       "date": "2026-08-06",
       "title": "AI 最新まとめ 2026-08-06",
       "threeLineSummary": [
@@ -199,5 +210,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-08-05T20:22:03.105Z"
+  "updatedAt": "2026-08-07T00:37:58.894Z"
 }
