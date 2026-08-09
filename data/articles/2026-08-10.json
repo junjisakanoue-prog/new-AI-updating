@@ -1,0 +1,290 @@
+{
+  "date": "2026-08-10",
+  "generatedAt": "2026-08-09T19:27:50.671Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-08-10",
+  "threeLineSummary": [
+    "AnthropicはデフォルトでClaude Codeの自動モードをオンにしています",
+    "「GPT-5.6 vs. Claude Fable 5」勝者はClaude、でも企業が選びづらいワケ：891st Lap",
+    "OpenAIの高価なスマートスピーカーは、可動部品を使用して「より生き生きと」見えるようになります"
+  ],
+  "lead": "2026-08-10 時点で、複数ソースの裏取りが取れた AI 関連トピック 6 件をまとめた。",
+  "sections": [
+    {
+      "heading": "AnthropicはデフォルトでClaude Codeの自動モードをオンにしています",
+      "body": "Claude Codeを使用したプログラミングでは、まもなく人間による監視がさらに少なくなります。\n\n初出は TechCrunch AI [1]。ITmedia AI+ [2]、Simon Willison [3] でも同内容が報じられている。",
+      "why_it_matters": "独立した 3 ソースで確認済み（確度: 高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 1
+    },
+    {
+      "heading": "「GPT-5.6 vs. Claude Fable 5」勝者はClaude、でも企業が選びづらいワケ：891st Lap",
+      "body": "物理AIベンチマークで最高評価を獲得した「Claude Fable 5」。だが、企業が導入を判断する際には、性能だけでは見えない悩ましい問題が浮かび上がった。\n\n初出は ITmedia AI+ [1]。Simon Willison [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「ベンチマーク」は、AIの性能を測るための共通テスト。学力テストの偏差値のようなものです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 2
+    },
+    {
+      "heading": "OpenAIの高価なスマートスピーカーは、可動部品を使用して「より生き生きと」見えるようになります",
+      "body": "Gurman氏の報告によると、OpenAIはスピーカーがAppleの詐欺ではないことを確認したという。\n\n初出は Ars Technica AI [1]。The Verge AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 3
+    },
+    {
+      "heading": "TutorMoments ： AI講師は、いつ手伝うべきか、いつ控えるべきかを知っていますか？",
+      "body": "TutorMoments ： AI講師は、いつ手伝うべきか、いつ控えるべきかを知っていますか？\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 4
+    },
+    {
+      "heading": "重要なサイバー機能の次のフロンティアへの対応",
+      "body": "OpenAIは、Astraの予備的なサイバーセキュリティ評価と、セーフガードとセキュリティ管理を強化するために講じている措置を共有しています。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIの安全性やリスクに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。自分が使っているサービスが該当するかどうかを確認しておくと安心です。",
+      "topic_index": 5
+    },
+    {
+      "heading": "HSP GRUPPEが税務アドバイザリーのためにAI機能を構築する方法",
+      "body": "HSP GRUPPEがどのようにChatGPT Enterpriseを使用して生産性を向上させ、仕事の質を向上させ、税務アドバイザリーとクライアントサービスのためのより多くのキャパシティを作成しているかをご覧ください。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 6
+    }
+  ],
+  "xPosts": [
+    "AnthropicはデフォルトでClaude Codeの自動モードをオンにしています（3ソースで確認）",
+    "「GPT-5.6 vs. Claude Fable 5」勝者はClaude、でも企業が選びづらいワケ：891st Lap（2ソースで確認）",
+    "OpenAIの高価なスマートスピーカーは、可動部品を使用して「より生き生きと」見えるようになります（2ソースで確認）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Anthropic is turning Claude Code’s auto mode on by default",
+      "confidence": "high",
+      "domainCount": 3,
+      "socialCount": 0,
+      "sourceCount": 3,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "Anthropic is turning Claude Code’s auto mode on by default",
+          "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-09T19:20:32.000Z"
+        },
+        {
+          "n": 2,
+          "source": "ITmedia AI+",
+          "title": "「Claude Code」、AIが権限確認を代行する「auto mode」がデフォルトに 8月14日から",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000465/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-09T03:12:07.000Z"
+        },
+        {
+          "n": 3,
+          "source": "Simon Willison",
+          "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+          "url": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything",
+          "domain": "simonwillison.net",
+          "tier": 2,
+          "kind": "blog",
+          "publishedAt": "2026-08-08T22:36:03.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "「GPT-5.6 vs. Claude Fable 5」勝者はClaude、でも企業が選びづらいワケ：891st Lap",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "「GPT-5.6 vs. Claude Fable 5」勝者はClaude、でも企業が選びづらいワケ：891st Lap",
+          "url": "https://kn.itmedia.co.jp/kn/articles/2608/07/news037.html",
+          "domain": "kn.itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-06T22:00:00.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Simon Willison",
+          "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
+          "url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything",
+          "domain": "simonwillison.net",
+          "tier": 2,
+          "kind": "blog",
+          "publishedAt": "2026-08-07T19:18:09.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Ars Technica AI",
+          "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+          "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+          "domain": "arstechnica.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-07T17:36:22.000Z"
+        },
+        {
+          "n": 2,
+          "source": "The Verge AI",
+          "title": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-06T20:55:39.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+          "url": "https://huggingface.co/blog/allenai/tutormoments",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-07T17:53:32.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "Responding to the next frontier of critical cyber capabilities",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Responding to the next frontier of critical cyber capabilities",
+          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-07T15:20:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+          "url": "https://openai.com/index/hsp-gruppe",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-07T09:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "Anthropicは、クロードに電力を供給するために独自のハードウェアを設計します",
+      "headlineOriginal": "Anthropic will design its own hardware to power Claude",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AIの安全性テストが安全性リスクになりつつあります",
+      "headlineOriginal": "The AI safety test is becoming a safety risk",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AIディテクタは、不信の新しい時代を作り出しています",
+      "headlineOriginal": "AI detectors are creating a new era of distrust",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "「Claude Code」にセッション同士がメッセージを送り合う機能 macOSとLinuxに",
+      "headlineOriginal": "「Claude Code」にセッション同士がメッセージを送り合う機能 macOSとLinuxに",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000466/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Hugging Face侵害、AIエージェントは社内に“秘密の掲示板”を作っていた──OpenAIがBlack Hatで詳細説明",
+      "headlineOriginal": "Hugging Face侵害、AIエージェントは社内に“秘密の掲示板”を作っていた──OpenAIがBlack Hatで詳細説明",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/news/article/2608/09/2000000463/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "OpenAIがプレゼンテーションスタートアップNextSlideを買収",
+      "headlineOriginal": "OpenAI acquires presentation startup NextSlide",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "DeepMindのハリケーンの突破口は、気象科学者を驚かせました",
+      "headlineOriginal": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Google Chromeの新機能「Skills」 AIプロンプトの“毎回手打ち”を不要に",
+      "headlineOriginal": "Google Chromeの新機能「Skills」 AIプロンプトの“毎回手打ち”を不要に",
+      "source": "ITmedia AI+",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/08/news011.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 72,
+    "itemsCollected": 110,
+    "itemsInPool": 150,
+    "clusters": 102,
+    "verifiedTopics": 6,
+    "unverifiedTopics": 96,
+    "elapsedMs": 27384
+  }
+}
