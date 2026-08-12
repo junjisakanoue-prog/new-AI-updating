@@ -1,0 +1,307 @@
+{
+  "date": "2026-08-13",
+  "generatedAt": "2026-08-12T19:58:02.909Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-08-13",
+  "threeLineSummary": [
+    "Geminiは、10億人のユーザーを獲得し、Google史上最も急速に成長している製品になりました",
+    "支援から実行まで：企業がAIをどのように機能させるか",
+    "OlmoEarth埋め込みのご紹介：ダウンストリーム分析のためのOlmoEarth Studioからのカスタム埋め込み…"
+  ],
+  "lead": "2026-08-13 時点で、複数ソースの裏取りが取れた AI 関連トピック 7 件をまとめた。",
+  "sections": [
+    {
+      "heading": "Geminiは、10億人のユーザーを獲得し、Google史上最も急速に成長している製品になりました",
+      "body": "しかし、ジェミニの急増は、モデルのリリースが遅くなっても生き残るのでしょうか？\n\n初出は Ars Technica AI [1]。The Verge AI [2]、TechCrunch AI [3] でも同内容が報じられている。",
+      "why_it_matters": "独立した 3 ソースで確認済み（確度: 高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 1
+    },
+    {
+      "heading": "支援から実行まで：企業がAIをどのように機能させるか",
+      "body": "OpenAIの調査では、企業がChatGPTとCodexを使用してエージェント型AIをどのように採用しているか、そしてフロンティア企業がAIの採用でどのように前進しているかが明らかになりました。\n\n初出は OpenAI Blog [1]。GIGAZINE [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、研究段階の成果で、すぐ製品になるとは限らない話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。今すぐ影響はありませんが、今後の製品に反映されていく可能性があります。",
+      "topic_index": 2
+    },
+    {
+      "heading": "OlmoEarth埋め込みのご紹介：ダウンストリーム分析のためのOlmoEarth Studioからのカスタム埋め込みエクスポート",
+      "body": "OlmoEarth埋め込みのご紹介：ダウンストリーム分析のためのOlmoEarth Studioからのカスタム埋め込みエクスポート\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「MoE（専門家混合）」は、AI内部に複数の「専門家」を持たせ、質問に応じて必要な担当だけを動かして効率化する構造のことです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 3
+    },
+    {
+      "heading": "手話AIをユーザーの手に",
+      "body": "聴覚障害者向けの新しい手話機能を提供する画期的なモデルである手話対テキスト（ SL 2 T ）をご紹介します。\n\n初出は DeepMind Blog [1]。",
+      "why_it_matters": "開発元の公式発表（DeepMind Blog）に基づく。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 4
+    },
+    {
+      "heading": "棚が空いているか、鍵を紛失しましたか？リコールは、パラメトリックな事実性のボトルネックです",
+      "body": "生成AI\n\n初出は Google Research [1]。",
+      "why_it_matters": "開発元の公式発表（Google Research）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 5
+    },
+    {
+      "heading": "当社の研究医療AIシステムであるAMIEは、これまでにない研究でリアルタイムの臨床ビデオ相談機能を実証しています。",
+      "body": "Googleは、シミュレートされた設定でリアルタイムの臨床ビデオ相談を行うためのAMIEを導入しました。\n\n初出は Google AI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Google AI Blog）に基づく。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 6
+    },
+    {
+      "heading": "地域内推論、オープンモデル、ソブリンAIのための新しいヨーロッパのインフラストラクチャ。",
+      "body": "Mistralは、推論インフラストラクチャ、オープンモデル、そして欧州がAIの未来をコントロールするために必要な長期的なコミットメントをまとめ、世界のためのロードマップを設定しています。\n\n初出は Mistral AI [1]。",
+      "why_it_matters": "開発元の公式発表（Mistral AI）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「推論（インファレンス）」は、AIが実際に考えて答えを出す処理のこと。ここが速い・安いほど実用しやすくなります。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 7
+    }
+  ],
+  "xPosts": [
+    "Geminiは、10億人のユーザーを獲得し、Google史上最も急速に成長している製品になりました（3ソースで確認）",
+    "支援から実行まで：企業がAIをどのように機能させるか（2ソースで確認）",
+    "OlmoEarth埋め込みのご紹介：ダウンストリーム分析のためのOlmoEarth Studioからのカスタム埋め込みエクスポート（公式発表）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+      "confidence": "high",
+      "domainCount": 3,
+      "socialCount": 0,
+      "sourceCount": 3,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Ars Technica AI",
+          "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+          "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+          "domain": "arstechnica.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-11T19:48:12.000Z"
+        },
+        {
+          "n": 2,
+          "source": "The Verge AI",
+          "title": "ChatGPT and Gemini both just passed 1 billion users",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-11T19:41:42.000Z"
+        },
+        {
+          "n": 3,
+          "source": "TechCrunch AI",
+          "title": "Google’s Gemini app surges to 1 billion users",
+          "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-11T18:49:12.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "From assistance to execution: How enterprises put AI to work",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "From assistance to execution: How enterprises put AI to work",
+          "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-12T06:00:00.000Z"
+        },
+        {
+          "n": 2,
+          "source": "GIGAZINE",
+          "title": "ついにChatGPT公式デスクトップアプリがLinuxに登場、Ubuntu・Debian・Fedora対応でChatGPT WorkやCodexも利用可能",
+          "url": "https://gigazine.net/news/20260812-chatgpt-desktop-linux/",
+          "domain": "gigazine.net",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-08-12T04:52:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+          "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-12T16:14:36.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "Putting sign language AI into users’ hands",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "DeepMind Blog",
+          "title": "Putting sign language AI into users’ hands",
+          "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+          "domain": "deepmind.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-12T14:01:59.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "Empty shelves or lost keys? Recall is the bottleneck for parametric factuality",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Google Research",
+          "title": "Empty shelves or lost keys? Recall is the bottleneck for parametric factuality",
+          "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/",
+          "domain": "research.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-12T09:51:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Google AI Blog",
+          "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+          "domain": "blog.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-11T17:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "headline": "In-region inference, open models, and new European infrastructure for sovereign AI.",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Mistral AI",
+          "title": "In-region inference, open models, and new European infrastructure for sovereign AI.",
+          "url": "https://mistral.ai/news/regional-inference-open-models-new-compute/",
+          "domain": "mistral.ai",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-11T12:00:27.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "なぜストリームリングメーカーのサンドバーは、AIウェアラブルの未来は音声であると言うのか",
+      "headlineOriginal": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AIコーディングのスタートアップCognitionはすでに400億$の評価額を引き上げる交渉を行っていると報じられている",
+      "headlineOriginal": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AIの安全性への懸念が高まるにつれて、3人のパイオニアが開かれたままでいることを主張します",
+      "headlineOriginal": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "OpenAI支援のThrive Holdingsが20億$を調達し、企業にAIをもたらす",
+      "headlineOriginal": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Automatticのすべての人向けCRMであるMeshがAndroidに登場",
+      "headlineOriginal": "Mesh, Automattic’s CRM for everyone, comes to Android",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "信頼できるデータでAIエージェントを拡張",
+      "headlineOriginal": "Scaling AI agents with trustworthy data",
+      "source": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "書店は、AI企業が希少な書籍を購入して破壊しているのではないかと疑っている",
+      "headlineOriginal": "Booksellers suspect AI firms are buying and then destroying rare books",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Google ’26で発表されたすべて： Pixel 11、Pixel Watch 5、Pixel Tag、そして大量のGemini機能",
+      "headlineOriginal": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 962,
+    "itemsInPool": 1022,
+    "clusters": 942,
+    "verifiedTopics": 9,
+    "unverifiedTopics": 933,
+    "elapsedMs": 28182
+  }
+}
