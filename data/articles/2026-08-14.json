@@ -1,0 +1,327 @@
+{
+  "date": "2026-08-14",
+  "generatedAt": "2026-08-13T19:54:01.361Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-08-14",
+  "threeLineSummary": [
+    "OpenAIは、GPT-5.6 SOLを14倍の速度で動作させる新しいモードである「Ultrafast」を導入",
+    "ジェミニ3.7フラッシュのご紹介",
+    "マイクロソフトは、個別のCopilotアプリをマージしながら、失敗したAI機能を削除します"
+  ],
+  "lead": "2026-08-14 時点で、複数ソースの裏取りが取れた AI 関連トピック 7 件をまとめた。",
+  "sections": [
+    {
+      "heading": "OpenAIは、GPT-5.6 SOLを14倍の速度で動作させる新しいモードである「Ultrafast」を導入",
+      "body": "OpenAIは、エンタープライズユーザーを魅了するために、最新の最も強力なモデルのスピードアップバージョンのプレビューを開始しています。\n\n初出は TechCrunch AI [1]。OpenAI Blog [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 1
+    },
+    {
+      "heading": "ジェミニ3.7フラッシュのご紹介",
+      "body": "ジェミニ3.7フラッシュのご紹介\n\n初出は DeepMind Blog [1]。Ars Technica AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 2
+    },
+    {
+      "heading": "マイクロソフトは、個別のCopilotアプリをマージしながら、失敗したAI機能を削除します",
+      "body": "マイクロソフトは、コンシューマーアプリとビジネスアプリを組み合わせ、AI生成ポッドキャスト、グループチャット、ディープリサーチ、およびそのMicoキャラクターを廃止することで、Copilotを簡素化しています。\n\n初出は TechCrunch AI [1]。The Verge AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、研究段階の成果で、すぐ製品になるとは限らない話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。今すぐ影響はありませんが、今後の製品に反映されていく可能性があります。",
+      "topic_index": 3
+    },
+    {
+      "heading": "Google ’26で発表されたすべて： Pixel 11、Pixel Watch 5、Pixel Tag、そして大量のGemini機能",
+      "body": "Pixel 11シリーズからAppleのAirTagまで、Made by Google 2026イベントのすべての発表があります。\n\n初出は TechCrunch AI [1]。GIGAZINE [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 4
+    },
+    {
+      "heading": "Twitchコンテンツは長年にわたりAmazon AIをトレーニングしてきましたが、ユーザーは今すぐオプトアウトできます",
+      "body": "ストリーミングプラットフォームは、ユーザー生成コンテンツが「将来のGen AIモデルの改善に使用される可能性がある」と述べています。\n\n初出は Ars Technica AI [1]。The Verge AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 5
+    },
+    {
+      "heading": "Strandsエージェント、LeRobot、Hugging Face Storage Bucketsで1か所から録画、トレーニング、デプロイ",
+      "body": "Strandsエージェント、LeRobot、Hugging Face Storage Bucketsで1か所から録画、トレーニング、デプロイ\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。記事に出てくる「RAG（検索拡張生成）」は、AIが答える前に社内文書などを検索し、その内容を根拠にして回答する仕組み。嘘を減らす狙いがあります。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 6
+    },
+    {
+      "heading": "GPT ‑ 5.6ビルダーズガイド",
+      "body": "スタートアップがGPT-5.6を使用して、よりスマートなモデル選択と新しいレスポンスAPI機能を備えた、より高速でコスト効率の高いAIエージェントを構築する方法を学びます。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIを使うときの値段や条件が変わる、という話です。記事に出てくる「API」は、自分のアプリやサービスからAIを呼び出して使うための接続口のことです。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。普段使っているツールの請求や使える範囲に影響する可能性があります。",
+      "topic_index": 7
+    }
+  ],
+  "xPosts": [
+    "OpenAIは、GPT-5.6 SOLを14倍の速度で動作させる新しいモードである「Ultrafast」を導入（2ソースで確認）",
+    "ジェミニ3.7フラッシュのご紹介（2ソースで確認）",
+    "マイクロソフトは、個別のCopilotアプリをマージしながら、失敗したAI機能を削除します（2ソースで確認）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+          "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-13T19:22:40.000Z"
+        },
+        {
+          "n": 2,
+          "source": "OpenAI Blog",
+          "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+          "url": "https://openai.com/index/previewing-ultrafast",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-13T10:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Introducing Gemini 3.7 Flash",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "DeepMind Blog",
+          "title": "Introducing Gemini 3.7 Flash",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+          "domain": "deepmind.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-13T17:04:18.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Ars Technica AI",
+          "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+          "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+          "domain": "arstechnica.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-13T17:00:13.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+          "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-13T15:30:52.000Z"
+        },
+        {
+          "n": 2,
+          "source": "The Verge AI",
+          "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
+          "url": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-13T13:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+          "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-12T14:20:33.000Z"
+        },
+        {
+          "n": 2,
+          "source": "GIGAZINE",
+          "title": "Google Pixel Watch 5が登場、Geminiと話せるAI機能を強化",
+          "url": "https://gigazine.net/news/20260813-google-pixel-watch-5/",
+          "domain": "gigazine.net",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-08-13T01:44:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "Twitch content has trained Amazon AI for years, but users can opt out now",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Ars Technica AI",
+          "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+          "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+          "domain": "arstechnica.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-12T21:00:30.000Z"
+        },
+        {
+          "n": 2,
+          "source": "The Verge AI",
+          "title": "Twitch streamers can now opt out from training Amazon’s AI",
+          "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-12T17:29:10.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-13T17:16:04.000Z"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "headline": "The builder’s guide to GPT‑5.6",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "The builder’s guide to GPT‑5.6",
+          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-13T11:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "IBM、OpenAIと提携してエンタープライズAIプッシュを強化",
+      "headlineOriginal": "IBM partners with OpenAI to bolster enterprise AI push",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Anthropicは、同じタスクでAIエージェントを解放します。彼らは縄張り争いを始めました。",
+      "headlineOriginal": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "新しいInstagramのロゴは、AI SLOPの完璧な具現化です",
+      "headlineOriginal": "The new Instagram logo is the perfect embodiment of AI slop",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "エグゼクティブシェイクアップが続く中、OpenAIは新しいCROを採用",
+      "headlineOriginal": "OpenAI hires new CRO as executive shake-up continues",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Sunoは本物の音楽制作ツールのように見えようとしています",
+      "headlineOriginal": "Suno is trying to look more like a real music production tool",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "私はAIが生成した映画の中を見て、最高の部分はすべて人間でした",
+      "headlineOriginal": "I looked inside an AI generated movie, and the best parts were all human",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "NVIDIAの新しい5千億$プランはリスクが高いが、特にGPUの老朽化には優れている",
+      "headlineOriginal": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "中国DeepSeek、API料金を「最大12倍」に値上げ ピーク時価格も導入 8月17日から",
+      "headlineOriginal": "中国DeepSeek、API料金を「最大12倍」に値上げ ピーク時価格も導入 8月17日から",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000533/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 457,
+    "itemsInPool": 534,
+    "clusters": 442,
+    "verifiedTopics": 11,
+    "unverifiedTopics": 431,
+    "elapsedMs": 44675
+  }
+}

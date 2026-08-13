@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-08-14",
+      "title": "AI 最新まとめ 2026-08-14",
+      "threeLineSummary": [
+        "OpenAIは、GPT-5.6 SOLを14倍の速度で動作させる新しいモードである「Ultrafast」を導入",
+        "ジェミニ3.7フラッシュのご紹介",
+        "マイクロソフトは、個別のCopilotアプリをマージしながら、失敗したAI機能を削除します"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-08-13T19:54:01.361Z"
+    },
+    {
       "date": "2026-08-13",
       "title": "AI 最新まとめ 2026-08-13",
       "threeLineSummary": [
@@ -276,5 +287,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-08-12T19:58:02.918Z"
+  "updatedAt": "2026-08-13T19:54:01.370Z"
 }
