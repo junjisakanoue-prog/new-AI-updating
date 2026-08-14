@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-08-15",
+      "title": "AI 最新まとめ 2026-08-15",
+      "threeLineSummary": [
+        "Google、「Gemini 3.7 Flash」公開 年内は半額の導入価格",
+        "Google Geminiの可視透かしをオフにできるようになりました",
+        "OpenAIは今週、2人目の幹部を失います"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-08-14T19:43:50.012Z"
+    },
+    {
       "date": "2026-08-14",
       "title": "AI 最新まとめ 2026-08-14",
       "threeLineSummary": [
@@ -287,5 +298,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-08-13T19:54:01.370Z"
+  "updatedAt": "2026-08-14T19:43:50.019Z"
 }

@@ -1,0 +1,337 @@
+{
+  "date": "2026-08-15",
+  "generatedAt": "2026-08-14T19:43:50.012Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-08-15",
+  "threeLineSummary": [
+    "Google、「Gemini 3.7 Flash」公開 年内は半額の導入価格",
+    "Google Geminiの可視透かしをオフにできるようになりました",
+    "OpenAIは今週、2人目の幹部を失います"
+  ],
+  "lead": "2026-08-15 時点で、複数ソースの裏取りが取れた AI 関連トピック 7 件をまとめた。",
+  "sections": [
+    {
+      "heading": "Google、「Gemini 3.7 Flash」公開 年内は半額の導入価格",
+      "body": "Googleは、コーディングやエージェント用途に特化したAIモデル「Gemini 3.7 Flash」を発表した。前モデルからわずか3週間での投入だ。従来比半額の導入価格で提供し、個人向けエージェント機能「Gemini Spark」など各種プロダクトへ適用される。\n\n初出は ITmedia AI+ [1]。DeepMind Blog [2]、Ars Technica AI [3] でも同内容が報じられている。",
+      "why_it_matters": "独立した 3 ソースで確認済み（確度: 高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 1
+    },
+    {
+      "heading": "Google Geminiの可視透かしをオフにできるようになりました",
+      "body": "Googleは、AIツールを使用して作成された画像、ビデオ、音楽から目に見える透かしを削除できるようになりました。このアップデートでは、GeminiとGoogleのAIビデオジェネレータであるFlowの新しい「メディア透かし」設定を切り替えることができます。オフにすると、Googleは[…]の右下隅に表示される「スパークル」透かしを削除します\n\n初出は The Verge AI [1]。TechCrunch AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 2
+    },
+    {
+      "heading": "OpenAIは今週、2人目の幹部を失います",
+      "body": "別のOpenAI幹部が出発します。SlackのCEOを務めた後、12月にOpenAIの最高収益責任者として入社したDenise Dresser氏は、LinkedInに投稿されたチームノートで、「他の機会を追求する」ために「今後数週間以内に」退社すると述べた。Wizの社長兼COOであるDali Rajicが[…]を引き継ぎます\n\n初出は The Verge AI [1]。TechCrunch AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 3
+    },
+    {
+      "heading": "OpenAIは、GPT-5.6 SOLを14倍の速度で動作させる新しいモードである「Ultrafast」を導入",
+      "body": "OpenAIは、エンタープライズユーザーを魅了するために、最新の最も強力なモデルのスピードアップバージョンのプレビューを開始しています。\n\n初出は TechCrunch AI [1]。OpenAI Blog [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 4
+    },
+    {
+      "heading": "マイクロソフトは、個別のCopilotアプリをマージしながら、失敗したAI機能を削除します",
+      "body": "マイクロソフトは、コンシューマーアプリとビジネスアプリを組み合わせ、AI生成ポッドキャスト、グループチャット、ディープリサーチ、およびそのMicoキャラクターを廃止することで、Copilotを簡素化しています。\n\n初出は TechCrunch AI [1]。The Verge AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、研究段階の成果で、すぐ製品になるとは限らない話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。今すぐ影響はありませんが、今後の製品に反映されていく可能性があります。",
+      "topic_index": 5
+    },
+    {
+      "heading": "Strandsエージェント、LeRobot、Hugging Face Storage Bucketsで1か所から録画、トレーニング、デプロイ",
+      "body": "Strandsエージェント、LeRobot、Hugging Face Storage Bucketsで1か所から録画、トレーニング、デプロイ\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。記事に出てくる「RAG（検索拡張生成）」は、AIが答える前に社内文書などを検索し、その内容を根拠にして回答する仕組み。嘘を減らす狙いがあります。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 6
+    },
+    {
+      "heading": "GPT ‑ 5.6ビルダーズガイド",
+      "body": "スタートアップがGPT-5.6を使用して、よりスマートなモデル選択と新しいレスポンスAPI機能を備えた、より高速でコスト効率の高いAIエージェントを構築する方法を学びます。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIを使うときの値段や条件が変わる、という話です。記事に出てくる「API」は、自分のアプリやサービスからAIを呼び出して使うための接続口のことです。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。普段使っているツールの請求や使える範囲に影響する可能性があります。",
+      "topic_index": 7
+    }
+  ],
+  "xPosts": [
+    "Google、「Gemini 3.7 Flash」公開 年内は半額の導入価格（3ソースで確認）",
+    "Google Geminiの可視透かしをオフにできるようになりました（2ソースで確認）",
+    "OpenAIは今週、2人目の幹部を失います（2ソースで確認）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Google、「Gemini 3.7 Flash」公開 年内は半額の導入価格",
+      "confidence": "high",
+      "domainCount": 3,
+      "socialCount": 0,
+      "sourceCount": 3,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "Google、「Gemini 3.7 Flash」公開 年内は半額の導入価格",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000534/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-13T21:25:13.000Z"
+        },
+        {
+          "n": 2,
+          "source": "DeepMind Blog",
+          "title": "Introducing Gemini 3.7 Flash",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+          "domain": "deepmind.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-13T17:04:18.000Z"
+        },
+        {
+          "n": 3,
+          "source": "Ars Technica AI",
+          "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+          "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+          "domain": "arstechnica.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-13T17:00:13.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "You can now turn off Google Gemini’s visible watermarks",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "The Verge AI",
+          "title": "You can now turn off Google Gemini’s visible watermarks",
+          "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-14T16:39:32.000Z"
+        },
+        {
+          "n": 2,
+          "source": "TechCrunch AI",
+          "title": "Google will now allow users to remove visible watermark from its AI generations",
+          "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-14T16:13:40.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "OpenAI is losing its second executive this week",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "The Verge AI",
+          "title": "OpenAI is losing its second executive this week",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-13T19:28:39.000Z"
+        },
+        {
+          "n": 2,
+          "source": "TechCrunch AI",
+          "title": "OpenAI hires new CRO as executive shake-up continues",
+          "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-13T17:07:13.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+          "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-13T19:22:40.000Z"
+        },
+        {
+          "n": 2,
+          "source": "OpenAI Blog",
+          "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+          "url": "https://openai.com/index/previewing-ultrafast",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-13T10:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+          "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-13T15:30:52.000Z"
+        },
+        {
+          "n": 2,
+          "source": "The Verge AI",
+          "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
+          "url": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-13T13:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-13T17:16:04.000Z"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "headline": "The builder’s guide to GPT‑5.6",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "The builder’s guide to GPT‑5.6",
+          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-13T11:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "マーク・ザッカーバーグは、AIが「すべての人のため」であると本当に信じていますか？",
+      "headlineOriginal": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "裁判所がAIを使用している疑いがあり、男は訴訟に勝利しようとするためにファイルにプロンプトを注入した",
+      "headlineOriginal": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "「Qwen3.8-27B」ウェイト公開 一部「Opus 4.6 Max」超えか ライセンスは商用可のApache 2.0",
+      "headlineOriginal": "「Qwen3.8-27B」ウェイト公開 一部「Opus 4.6 Max」超えか ライセンスは商用可のApache 2.0",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/15/2000000554/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "KOGは、GPUからより多くの推論を絞り出すために深化しています",
+      "headlineOriginal": "Kog is going deeper to squeeze more inference out of GPUs",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "OpenAIとAnthropicが価格戦争で中国のAIライバルが優位に立つ",
+      "headlineOriginal": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "ハイパースケーラーは、新しい予測が正しいことが証明された場合、天然ガスを受け入れることを後悔するかもしれません",
+      "headlineOriginal": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Qwen 3.8 27 Bがリリースされました！体験をシェアしてください",
+      "headlineOriginal": "Qwen 3.8 27B Released! Please Share Your Experience",
+      "source": "r/LocalLLaMA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voa3ch/qwen_38_27b_released_please_share_your_experience/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "ChatGPTがPC操作を自動で記録、コンテキストとして利用可能に Mac版デスクトップアプリで提供",
+      "headlineOriginal": "ChatGPTがPC操作を自動で記録、コンテキストとして利用可能に Mac版デスクトップアプリで提供",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000548/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 378,
+    "itemsInPool": 500,
+    "clusters": 364,
+    "verifiedTopics": 8,
+    "unverifiedTopics": 356,
+    "elapsedMs": 22194
+  }
+}
