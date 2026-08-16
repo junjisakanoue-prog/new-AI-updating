@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-08-17",
+      "title": "AI 最新まとめ 2026-08-17",
+      "threeLineSummary": [
+        "Google、「Gemini 3.7 Flash」公開 年内は半額の導入価格",
+        "Twitchコンテンツは長年にわたりAmazon AIをトレーニングしてきましたが、ユーザーは今すぐオプトアウトできます",
+        "Google Geminiの可視透かしをオフにできるようになりました"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-08-16T19:18:46.399Z"
+    },
+    {
       "date": "2026-08-16",
       "title": "AI 最新まとめ 2026-08-16",
       "threeLineSummary": [
@@ -309,5 +320,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-08-15T19:17:07.266Z"
+  "updatedAt": "2026-08-16T19:18:46.407Z"
 }
