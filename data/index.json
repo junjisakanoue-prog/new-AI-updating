@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-08-18",
+      "title": "AI 最新まとめ 2026-08-18",
+      "threeLineSummary": [
+        "GeminiとPixelでゲームに近づこう",
+        "防衛者の窓",
+        "OpenAIがPORTS - Pikeプロジェクトに参加"
+      ],
+      "topicCount": 4,
+      "generatedAt": "2026-08-17T19:22:59.958Z"
+    },
+    {
       "date": "2026-08-17",
       "title": "AI 最新まとめ 2026-08-17",
       "threeLineSummary": [
@@ -320,5 +331,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-08-16T19:18:46.407Z"
+  "updatedAt": "2026-08-17T19:22:59.966Z"
 }

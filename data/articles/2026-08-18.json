@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-18",
+  "generatedAt": "2026-08-17T19:22:59.958Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-08-18",
+  "threeLineSummary": [
+    "GeminiとPixelでゲームに近づこう",
+    "防衛者の窓",
+    "OpenAIがPORTS - Pikeプロジェクトに参加"
+  ],
+  "lead": "2026-08-18 時点で、複数ソースの裏取りが取れた AI 関連トピック 4 件をまとめた。",
+  "sections": [
+    {
+      "heading": "GeminiとPixelでゲームに近づこう",
+      "body": "Google GeminiとPixelは、5つの世界的なサッカークラブと提携し、AIとスマートフォンテクノロジーを通じてファンの試合日体験を向上させています。\n\n初出は Google AI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Google AI Blog）に基づく。",
+      "plain_explanation": "つまり、企業どうしのお金や提携の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。業界の力関係が変わると、使えるツールの選択肢にも影響してきます。",
+      "topic_index": 1
+    },
+    {
+      "heading": "防衛者の窓",
+      "body": "AIは、攻撃者と防御者の両方にとってサイバーセキュリティを再構築しています。OpenAIが防御を強化している方法と、セキュリティチームが今できることを学びましょう。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。記事に出てくる「API」は、自分のアプリやサービスからAIを呼び出して使うための接続口のことです。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 2
+    },
+    {
+      "heading": "OpenAIがPORTS - Pikeプロジェクトに参加",
+      "body": "OpenAIはPORTS - Pikeプロジェクトに参加し、コミュニティへの投資を拡大し、オハイオ州南部の何千もの雇用をサポートしています\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、企業どうしのお金や提携の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。業界の力関係が変わると、使えるツールの選択肢にも影響してきます。",
+      "topic_index": 3
+    },
+    {
+      "heading": "インテリジェンス時代の新しい政策アイデア",
+      "body": "OpenAIは、インテリジェンス時代に経済的機会を拡大し、社会的レジリエンスを強化するための新しいAI政策アイデアを探求する14の独立したプロジェクトに資金を提供しています。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 4
+    }
+  ],
+  "xPosts": [
+    "GeminiとPixelでゲームに近づこう（公式発表）",
+    "防衛者の窓（公式発表）",
+    "OpenAIがPORTS - Pikeプロジェクトに参加（公式発表）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Get closer to the game with Gemini and Pixel",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Google AI Blog",
+          "title": "Get closer to the game with Gemini and Pixel",
+          "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+          "domain": "blog.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-17T08:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "The Defender’s Window",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "The Defender’s Window",
+          "url": "https://openai.com/index/the-defenders-window",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-17T05:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "OpenAI joins PORTS-Pike project",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "OpenAI joins PORTS-Pike project",
+          "url": "https://openai.com/index/openai-joins-ports-pike-project",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-17T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "New policy ideas for the Intelligence Age",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "New policy ideas for the Intelligence Age",
+          "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-17T03:15:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "ローカルで動かせる「Qwen3.8-27B」が無償公開、一部ベンチマークでClaude Opus 4.6 Max超え",
+      "headlineOriginal": "ローカルで動かせる「Qwen3.8-27B」が無償公開、一部ベンチマークでClaude Opus 4.6 Max超え",
+      "source": "GIGAZINE",
+      "url": "https://gigazine.net/news/20260817-qwen3-8-27b/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "隠されたAirtagは、AmazonがAIを訓練するために希少な本をゴミ箱に捨てていることを明らかにし",
+      "headlineOriginal": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "本の販売を始めたアマゾンは、AIを訓練するために希少なテキストを破壊している",
+      "headlineOriginal": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "StripeがAIゲートウェイのスタートアップOpenRouterを$ 70億以上で買収",
+      "headlineOriginal": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Groqが3億5000万$を調達し、AIチップからネオクラウドへのピボットを促進",
+      "headlineOriginal": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "NVIDIA、OpenAIプロジェクトの背後にあるソフトバンクのデータセンター開発者に15億$を投資",
+      "headlineOriginal": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Qwen 3.8 27 Bは優れていますが、それは物事を大幅に考え過ぎることをデフォルトにします",
+      "headlineOriginal": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
+      "source": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "レア級の本の出荷を追跡しました。Amazon AIトレーニング施設で終了しました",
+      "headlineOriginal": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+      "source": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 374,
+    "itemsInPool": 430,
+    "clusters": 362,
+    "verifiedTopics": 4,
+    "unverifiedTopics": 358,
+    "elapsedMs": 33939
+  }
+}
