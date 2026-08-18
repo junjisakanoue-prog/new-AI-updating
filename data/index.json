@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-08-19",
+      "title": "AI 最新まとめ 2026-08-19",
+      "threeLineSummary": [
+        "OpenAI、顔のハグ違反後に新しいセーフガードを導入",
+        "NVIDIA、OpenAIのオハイオAIデータセンターに最大1050億ドルの債務保証──SB Energyと提携",
+        "エージェントは実際にどのくらいのメモリを必要としていますか？"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-08-18T19:22:58.124Z"
+    },
+    {
       "date": "2026-08-18",
       "title": "AI 最新まとめ 2026-08-18",
       "threeLineSummary": [
@@ -331,5 +342,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-08-17T19:22:59.966Z"
+  "updatedAt": "2026-08-18T19:22:58.132Z"
 }
