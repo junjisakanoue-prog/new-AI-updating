@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-08-20",
+      "title": "AI 最新まとめ 2026-08-20",
+      "threeLineSummary": [
+        "Claude Codeの週次制限枠「50％増」、8月31日まで延長 「恒久化したいものの……」",
+        "OpenAI、「ChatGPT for Teens」発表──宿題の“丸投げ”検知、自傷や摂食障害などの保護も強化",
+        "OpenAI、顔のハグ違反後に新しいセーフガードを導入"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-08-19T19:20:04.089Z"
+    },
+    {
       "date": "2026-08-19",
       "title": "AI 最新まとめ 2026-08-19",
       "threeLineSummary": [
@@ -342,5 +353,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-08-18T19:22:58.132Z"
+  "updatedAt": "2026-08-19T19:20:04.096Z"
 }
