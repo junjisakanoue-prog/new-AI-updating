@@ -1,0 +1,253 @@
+{
+  "date": "2026-08-21",
+  "generatedAt": "2026-08-20T19:25:31.983Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-08-21",
+  "threeLineSummary": [
+    "フロンティアモデルにゼロデータ保持を提供",
+    "Google、大学生向けに「Google AI Plus」を1年間無料提供 「Gemini」アプリに学生向け新機能も",
+    "CognitionのCEOは、SpaceXがスタートアップを買収しようとしたという報告を否定"
+  ],
+  "lead": "2026-08-21 時点で、複数ソースの裏取りが取れた AI 関連トピック 5 件をまとめた。",
+  "sections": [
+    {
+      "heading": "フロンティアモデルにゼロデータ保持を提供",
+      "body": "OpenAIは、適格なAPI顧客のためのゼロデータ保持を再確認し、データプライバシーを損なうことなく高度なAI安全性のためのプライベートセーフティプロセスをプレビューします。\n\n初出は OpenAI Blog [1]。GIGAZINE [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「API」は、自分のアプリやサービスからAIを呼び出して使うための接続口のことです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 1
+    },
+    {
+      "heading": "Google、大学生向けに「Google AI Plus」を1年間無料提供 「Gemini」アプリに学生向け新機能も",
+      "body": "Googleは米国の新学期に合わせ、大学生向けに「Google AI Plus」などを12カ月無料で提供するキャンペーンを発表した。あわせてGeminiアプリに学生向けハブを新設し、授業資料から学習プランを生成する学習ノートブックや、3Dモデルの表示、Gemini LiveでのDeep Researchなどの新機能の提供を開始した。\n\n初出は ITmedia AI+ [1]。CNET Japan [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 2
+    },
+    {
+      "heading": "CognitionのCEOは、SpaceXがスタートアップを買収しようとしたという報告を否定",
+      "body": "SpaceXは、AIコーディングのスタートアップCognitionを買収する交渉を行っていたと伝えられている。SpaceXはすでにCursorを買収しており、エンタープライズAIでOpenAIやAnthropicなどのライバルに追いつこうと競争している。\n\n初出は TechCrunch AI [1]。The Verge AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、企業どうしのお金や提携の動きに関する話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。業界の力関係が変わると、使えるツールの選択肢にも影響してきます。",
+      "topic_index": 3
+    },
+    {
+      "heading": "LFM2.5-DSparkで最大3.2倍高速な推論",
+      "body": "LFM2.5-DSparkで最大3.2倍高速な推論\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「推論（インファレンス）」は、AIが実際に考えて答えを出す処理のこと。ここが速い・安いほど実用しやすくなります。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 4
+    },
+    {
+      "heading": "エージェント検索。AIシステムからのより正確で効率的な結果。",
+      "body": "AIシステムが最も複雑なドキュメント内の情報をナビゲート、読み取り、検証するのに役立つ検索レイヤー\n\n初出は Mistral AI [1]。",
+      "why_it_matters": "開発元の公式発表（Mistral AI）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 5
+    }
+  ],
+  "xPosts": [
+    "フロンティアモデルにゼロデータ保持を提供（2ソースで確認）",
+    "Google、大学生向けに「Google AI Plus」を1年間無料提供 「Gemini」アプリに学生向け新機能も（2ソースで確認）",
+    "CognitionのCEOは、SpaceXがスタートアップを買収しようとしたという報告を否定（2ソースで確認）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Offering Zero Data Retention for frontier models",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Offering Zero Data Retention for frontier models",
+          "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-19T19:00:00.000Z"
+        },
+        {
+          "n": 2,
+          "source": "GIGAZINE",
+          "title": "OpenAIがゼロデータ保持を維持したまま安全性監視を強化する「Private Safety Processing」のプレビュー版を提供開始",
+          "url": "https://gigazine.net/news/20260820-openai-zero-data-retention-private-safety-processing/",
+          "domain": "gigazine.net",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-08-20T02:43:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Google、大学生向けに「Google AI Plus」を1年間無料提供 「Gemini」アプリに学生向け新機能も",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "Google、大学生向けに「Google AI Plus」を1年間無料提供 「Gemini」アプリに学生向け新機能も",
+          "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000634/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-19T22:58:36.000Z"
+        },
+        {
+          "n": 2,
+          "source": "CNET Japan",
+          "title": "グーグル、大学生に「Google AI Plus」1年間無料--Geminiの学習支援も強化",
+          "url": "https://japan.cnet.com/article/35251745/",
+          "domain": "japan.cnet.com",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-08-20T02:17:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+          "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-19T21:51:23.000Z"
+        },
+        {
+          "n": 2,
+          "source": "The Verge AI",
+          "title": "OpenAI hit the brakes. Now what?",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-19T17:10:09.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-20T16:52:57.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "Agentic Search. More accurate and efficient results from your AI systems.",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Mistral AI",
+          "title": "Agentic Search. More accurate and efficient results from your AI systems.",
+          "url": "https://mistral.ai/news/agentic-search/",
+          "domain": "mistral.ai",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-20T12:00:17.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "Googleは、パブリッシャーにAI主導のトラフィック損失と戦うための新しい方法を提供します",
+      "headlineOriginal": "Google gives publishers a new way to fight AI-driven traffic losses",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Linkdazeのスマートカレンダーは、スケジュールを追跡するだけでなく、世帯を運営するために構築されています",
+      "headlineOriginal": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Grokはユーザーに乱雑な返信を送信し続けています",
+      "headlineOriginal": "Grok keeps sending gibberish responses to users",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "ChatGPTの立ち上げ以来公開されたWebページの3分の1は、AIの著者であることの兆候を示していることが研究でわかりました",
+      "headlineOriginal": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "RAMPが独自のAIモデルルーター「Router」を発売",
+      "headlineOriginal": "Ramp launches its own AI model router, called Router",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Metaは、米国のユーザーにゲームのバイブコードと共有を可能にするアプリであるPocketを提供します",
+      "headlineOriginal": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Greg BrockmanのOpenAIです",
+      "headlineOriginal": "It’s Greg Brockman’s OpenAI now",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AI意識をめぐる議論は罠",
+      "headlineOriginal": "Debates over AI consciousness are a trap",
+      "source": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 390,
+    "itemsInPool": 460,
+    "clusters": 383,
+    "verifiedTopics": 5,
+    "unverifiedTopics": 378,
+    "elapsedMs": 21227
+  }
+}

@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-08-21",
+      "title": "AI 最新まとめ 2026-08-21",
+      "threeLineSummary": [
+        "フロンティアモデルにゼロデータ保持を提供",
+        "Google、大学生向けに「Google AI Plus」を1年間無料提供 「Gemini」アプリに学生向け新機能も",
+        "CognitionのCEOは、SpaceXがスタートアップを買収しようとしたという報告を否定"
+      ],
+      "topicCount": 5,
+      "generatedAt": "2026-08-20T19:25:31.983Z"
+    },
+    {
       "date": "2026-08-20",
       "title": "AI 最新まとめ 2026-08-20",
       "threeLineSummary": [
@@ -353,5 +364,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-08-19T19:20:04.096Z"
+  "updatedAt": "2026-08-20T19:25:31.991Z"
 }
