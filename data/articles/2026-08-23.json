@@ -1,0 +1,179 @@
+{
+  "date": "2026-08-23",
+  "generatedAt": "2026-08-22T19:18:13.403Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-08-23",
+  "threeLineSummary": [
+    "AtariからEVE Onlineへ：ゲームにおけるAI研究の15年を基に構築",
+    "ウェアラブルセンサーデータから候補バイオマーカーを優先するためのAIツール",
+    "音声認識におけるベンチマーク最適化の測定"
+  ],
+  "lead": "2026-08-23 時点で、複数ソースの裏取りが取れた AI 関連トピック 3 件をまとめた。",
+  "sections": [
+    {
+      "heading": "AtariからEVE Onlineへ：ゲームにおけるAI研究の15年を基に構築",
+      "body": "Google DeepMindはゲームスタジオと提携し、画期的なAIゲームプレイのプロトタイプを作成しています。\n\n初出は DeepMind Blog [1]。r/singularity [2] でも同内容が報じられている。",
+      "why_it_matters": "開発元の公式発表（DeepMind Blog）に基づく。",
+      "plain_explanation": "つまり、研究段階の成果で、すぐ製品になるとは限らない話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今すぐ影響はありませんが、今後の製品に反映されていく可能性があります。",
+      "topic_index": 1
+    },
+    {
+      "heading": "ウェアラブルセンサーデータから候補バイオマーカーを優先するためのAIツール",
+      "body": "生成AI\n\n初出は Google Research [1]。",
+      "why_it_matters": "開発元の公式発表（Google Research）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 2
+    },
+    {
+      "heading": "音声認識におけるベンチマーク最適化の測定",
+      "body": "音声認識におけるベンチマーク最適化の測定\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「ベンチマーク」は、AIの性能を測るための共通テスト。学力テストの偏差値のようなものです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 3
+    }
+  ],
+  "xPosts": [
+    "AtariからEVE Onlineへ：ゲームにおけるAI研究の15年を基に構築（公式発表）",
+    "ウェアラブルセンサーデータから候補バイオマーカーを優先するためのAIツール（公式発表）",
+    "音声認識におけるベンチマーク最適化の測定（公式発表）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 1,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "DeepMind Blog",
+          "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+          "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+          "domain": "deepmind.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-21T11:59:48.000Z"
+        },
+        {
+          "n": 2,
+          "source": "r/singularity",
+          "title": "Google Deepmind - SIMA 2 - From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+          "url": "https://www.reddit.com/r/singularity/comments/1vuxx91/google_deepmind_sima_2_from_atari_to_eve_online/",
+          "domain": "reddit.com",
+          "tier": 3,
+          "kind": "social",
+          "publishedAt": "2026-08-22T00:48:05.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Google Research",
+          "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
+          "url": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
+          "domain": "research.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-21T17:02:24.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "Measuring benchmark optimization in speech recognition",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "Measuring benchmark optimization in speech recognition",
+          "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-21T00:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "DeepMindの卒業生によって設立されたInherentは、そのAI「チームメイト」が研究の再現でAnthropicとOpenAIを上回ったと言います",
+      "headlineOriginal": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "OpenAIは、カリフォルニア州がAI安全法案を強化すべきだと述べている",
+      "headlineOriginal": "OpenAI says California should strengthen its AI safety bill",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "フロンティアのAIラボは、不正なモデルをどのように含んでいるかをまだ明らかにしていません",
+      "headlineOriginal": "Frontier AI labs still won’t say how they’d contain a rogue model",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AnthropicのOpus 4.6はスマットマシンです",
+      "headlineOriginal": "Anthropic’s Opus 4.6 is a smut-machine",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "NVIDIA、データセンター開発者Cloverleafと提携",
+      "headlineOriginal": "Nvidia partners with data center developer Cloverleaf",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Anthropic、「ミュトス 5」を脆弱性スキャンに開放──「Claude Security」経由でEnterprise顧客が利用可能に",
+      "headlineOriginal": "Anthropic、「ミュトス 5」を脆弱性スキャンに開放──「Claude Security」経由でEnterprise顧客が利用可能に",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/22/2000000697/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "100万人以上がLinkedInのAIスロップボタンをクリック",
+      "headlineOriginal": "Over 1 million people have clicked LinkedIn’s AI slop button",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "NVIDIAは、AIモデルではなくハーネスが今や真のヒーローであることを示した",
+      "headlineOriginal": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 48,
+    "itemsCollected": 101,
+    "itemsInPool": 148,
+    "clusters": 98,
+    "verifiedTopics": 3,
+    "unverifiedTopics": 95,
+    "elapsedMs": 18897
+  }
+}
