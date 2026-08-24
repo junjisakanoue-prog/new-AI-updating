@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-08-25",
+      "title": "AI 最新まとめ 2026-08-25",
+      "threeLineSummary": [
+        "AtariからEVE Onlineへ：ゲームにおけるAI研究の15年を基に構築",
+        "Anthropic、「ミュトス 5」を脆弱性スキャンに開放──「Claude Security」経由でEnterpri…",
+        "Mistral x HUMAIN"
+      ],
+      "topicCount": 5,
+      "generatedAt": "2026-08-24T19:24:08.731Z"
+    },
+    {
       "date": "2026-08-24",
       "title": "AI 最新まとめ 2026-08-24",
       "threeLineSummary": [
@@ -397,5 +408,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-08-23T19:18:33.869Z"
+  "updatedAt": "2026-08-24T19:24:08.738Z"
 }
