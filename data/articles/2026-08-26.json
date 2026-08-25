@@ -1,0 +1,287 @@
+{
+  "date": "2026-08-26",
+  "generatedAt": "2026-08-25T19:26:13.338Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-08-26",
+  "threeLineSummary": [
+    "Quantization - Aware Healing ：圧縮された4ビットモデルは、フルプレシジョンオリジナルより…",
+    "エージェントハンド： XRで空間的にアースされたエージェントの会話のためのインタラクティブなハンドジェスチャーを生成する",
+    "豊富な知性の背後にあるフルスタック"
+  ],
+  "lead": "2026-08-26 時点で、複数ソースの裏取りが取れた AI 関連トピック 7 件をまとめた。",
+  "sections": [
+    {
+      "heading": "Quantization - Aware Healing ：圧縮された4ビットモデルは、フルプレシジョンオリジナルよりも優れています",
+      "body": "Quantization - Aware Healing ：圧縮された4ビットモデルは、フルプレシジョンオリジナルよりも優れています\n\n初出は Hugging Face Blog [1]。r/LocalLLaMA [2] でも同内容が報じられている。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「量子化」は、AIのデータを軽く圧縮して、性能を大きく落とさずに普通のパソコンでも動くようにする技術です。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 1
+    },
+    {
+      "heading": "エージェントハンド： XRで空間的にアースされたエージェントの会話のためのインタラクティブなハンドジェスチャーを生成する",
+      "body": "ヒューマンコンピュータインタラクションと視覚化\n\n初出は Google Research [1]。",
+      "why_it_matters": "開発元の公式発表（Google Research）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 2
+    },
+    {
+      "heading": "豊富な知性の背後にあるフルスタック",
+      "body": "OpenAIのCFOであるSarah Friarは、チップ、コンピューティング、モデル、および製品全体の進歩が、より大きな規模と低コストでより有用なインテリジェンスを提供するためにどのように複合化されているかを説明します。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIを使うときの値段や条件が変わる、という話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。普段使っているツールの請求や使える範囲に影響する可能性があります。",
+      "topic_index": 3
+    },
+    {
+      "heading": "Jalapeñoの最初の結果は、AI推論における業界をリードするスピードと効率性を示しています",
+      "body": "Jalapeñoは、OpenAIのカスタム推論チップで、より高速で電力効率の高いAI推論を提供し、最新モデルのスループットとレイテンシを低減します。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「推論（インファレンス）」は、AIが実際に考えて答えを出す処理のこと。ここが速い・安いほど実用しやすくなります。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 4
+    },
+    {
+      "heading": "ロシアからの新しい秘密の影響力キャンペーンを妨害する",
+      "body": "OpenAIは、イスラエルに拠点を置く偽のシンクタンクと、ロシアを称賛し、西側を批判する「主権」指数を宣伝するために、AIを使用したロシア起源のアカウントを禁止した。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 5
+    },
+    {
+      "heading": "配線、実行、展開： GradioでのAIワークフロー",
+      "body": "配線、実行、展開： GradioでのAIワークフロー\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 6
+    },
+    {
+      "heading": "Mistral x HUMAIN",
+      "body": "Mistral x HUMAIN\n\n初出は Mistral AI [1]。",
+      "why_it_matters": "開発元の公式発表（Mistral AI）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 7
+    }
+  ],
+  "xPosts": [
+    "Quantization - Aware Healing ：圧縮された4ビットモデルは、フルプレシジョンオリジナルよりも優れています（公式発表）",
+    "エージェントハンド： XRで空間的にアースされたエージェントの会話のためのインタラクティブなハンドジェスチャーを生成する（公式発表）",
+    "豊富な知性の背後にあるフルスタック（公式発表）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 1,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-25T11:39:24.000Z"
+        },
+        {
+          "n": 2,
+          "source": "r/LocalLLaMA",
+          "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+          "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxyiko/quantizationaware_healing_a_compressed_4bit_model/",
+          "domain": "reddit.com",
+          "tier": 3,
+          "kind": "social",
+          "publishedAt": "2026-08-25T12:31:26.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Google Research",
+          "title": "AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR",
+          "url": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/",
+          "domain": "research.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-25T19:10:59.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "The full stack behind abundant intelligence",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "The full stack behind abundant intelligence",
+          "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-25T07:05:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+          "url": "https://openai.com/index/jalapeno-first-results",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-25T07:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "Disrupting a new covert influence campaign from Russia",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Disrupting a new covert influence campaign from Russia",
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-25T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+          "url": "https://huggingface.co/blog/gradio-workflow-guide",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-25T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "headline": "Mistral x HUMAIN",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Mistral AI",
+          "title": "Mistral x HUMAIN",
+          "url": "https://mistral.ai/news/mistral-x-humain/",
+          "domain": "mistral.ai",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-24T16:02:41.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "イメージジェネレータStable DiffusionのメーカーであるStability AIが、新たに7600万$の資金を調達",
+      "headlineOriginal": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Claude Coworkは、あなたがチャットでアプリに言ったことをついに思い出しました",
+      "headlineOriginal": "Claude Cowork finally remembers what you told the app in chat",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AIは放射線科医を置き換えることはありませんが、彼らの仕事を劇的に変えるでしょう",
+      "headlineOriginal": "AI won’t replace radiologists, but it will dramatically change their jobs",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "OpenAIのJalapeñoチップは、大規模な高速推論のために構築されています、ベンチマークは示しています",
+      "headlineOriginal": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "OpenAIは、Jalapeñoチップが競合他社よりも高速なAIレスポンスを実現できると述べている",
+      "headlineOriginal": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Appleの新しいデスクトップコンピュータは、ローカルAI開発のために特別に設計されています",
+      "headlineOriginal": "Apple's new desktop computers are designed specifically for local AI development",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Accelに裏打ちされたKeenableは、AIエージェントのためにウェブのインデックスを作成しています",
+      "headlineOriginal": "Accel-backed Keenable is indexing the web for AI agents",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "「世界は準備ができているようです」： OpenAIの製品責任者Thibault Sottiauxとのインタビュー",
+      "headlineOriginal": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 784,
+    "itemsInPool": 822,
+    "clusters": 774,
+    "verifiedTopics": 8,
+    "unverifiedTopics": 766,
+    "elapsedMs": 31994
+  }
+}
