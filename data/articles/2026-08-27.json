@@ -1,0 +1,297 @@
+{
+  "date": "2026-08-27",
+  "generatedAt": "2026-08-26T21:33:46.058Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-08-27",
+  "threeLineSummary": [
+    "GoogleがGemini 3.5 Transcribe for AI - powered speech - to -…",
+    "GlucoFM ：連続グルコースモニタリングのための基礎モデル",
+    "より多くの米国の学区に教師のためのChatGPTを導入"
+  ],
+  "lead": "2026-08-27 時点で、複数ソースの裏取りが取れた AI 関連トピック 7 件をまとめた。",
+  "sections": [
+    {
+      "heading": "GoogleがGemini 3.5 Transcribe for AI - powered speech - to - textを発表",
+      "body": "GboardのRamblerを支えるAIは、Chromeを含むより多くのGoogle製品に登場しています。\n\n初出は Ars Technica AI [1]。DeepMind Blog [2]、The Verge AI [3] でも同内容が報じられている。",
+      "why_it_matters": "独立した 3 ソースで確認済み（確度: 高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 1
+    },
+    {
+      "heading": "GlucoFM ：連続グルコースモニタリングのための基礎モデル",
+      "body": "健康とバイオサイエンス\n\n初出は Google Research [1]。",
+      "why_it_matters": "開発元の公式発表（Google Research）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 2
+    },
+    {
+      "heading": "より多くの米国の学区に教師のためのChatGPTを導入",
+      "body": "ChatGPT for Teachersは、米国の55の学校システムに拡大しており、10万人以上の教育者とスタッフに安全なAIツール、トレーニング、サポートを提供しています。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 3
+    },
+    {
+      "heading": "学習は決して止まらない： AIが学習を継続させる方法",
+      "body": "OpenAIの新しいレポートでは、生徒と教育者がChatGPTを使用して、教室を超えてサポートしながら、学習をより継続的にする方法を検討しています。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 4
+    },
+    {
+      "heading": "ハグフェイス事件と今後の道のり",
+      "body": "OpenAIは、Hugging Faceセキュリティインシデントの調査結果と、AIモデルのセキュリティ、監視、調整を強化するために講じている措置を共有しています。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIの安全性やリスクに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。自分が使っているサービスが該当するかどうかを確認しておくと安心です。",
+      "topic_index": 5
+    },
+    {
+      "heading": "コーデックスでラブホリデーがどのように皆をビルダーにしているか",
+      "body": "LoveholidaysがOpenAI Codexを使用して、ビジネス全体でソフトウェア開発にアクセスできるようにし、チームがアイデアを製品にすばやく変換できるようにする方法をご覧ください。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 6
+    },
+    {
+      "heading": "センテンストランスフォーマーを使用したマルチベクトル埋め込みモデルのトレーニングと微調整",
+      "body": "センテンストランスフォーマーを使用したマルチベクトル埋め込みモデルのトレーニングと微調整\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「ファインチューニング」は、出来上がったAIに追加で学習させて、特定の用途向けに調整すること。専門学校に通わせるようなイメージです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 7
+    }
+  ],
+  "xPosts": [
+    "GoogleがGemini 3.5 Transcribe for AI - powered speech - to - textを発表（3ソースで確認）",
+    "GlucoFM ：連続グルコースモニタリングのための基礎モデル（公式発表）",
+    "より多くの米国の学区に教師のためのChatGPTを導入（公式発表）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+      "confidence": "high",
+      "domainCount": 3,
+      "socialCount": 0,
+      "sourceCount": 3,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Ars Technica AI",
+          "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+          "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+          "domain": "arstechnica.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-26T19:19:22.000Z"
+        },
+        {
+          "n": 2,
+          "source": "DeepMind Blog",
+          "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+          "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+          "domain": "deepmind.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-26T17:01:00.000Z"
+        },
+        {
+          "n": 3,
+          "source": "The Verge AI",
+          "title": "Google’s new AI transcription edits out your ‘ums’ and ‘ahs’",
+          "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-26T17:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "GlucoFM: Foundation model for continuous glucose monitoring",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Google Research",
+          "title": "GlucoFM: Foundation model for continuous glucose monitoring",
+          "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/",
+          "domain": "research.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-26T18:42:43.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+          "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-26T10:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "Learning never stops: How AI makes learning continuous",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Learning never stops: How AI makes learning continuous",
+          "url": "https://openai.com/index/learning-never-stops",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-26T10:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "The Hugging Face incident and the road ahead",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "The Hugging Face incident and the road ahead",
+          "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-26T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "How loveholidays is making everyone a builder with Codex",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "How loveholidays is making everyone a builder with Codex",
+          "url": "https://openai.com/index/loveholidays",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-26T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "headline": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+          "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-26T00:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "Metaが中止した「AIネイティブ」への移行計画には、チームを60 ％削減することが含まれていました",
+      "headlineOriginal": "Meta’s scrapped plans to go “AI native” included slashing teams by 60 percent",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "GoogleのGeminiにはブランディングの問題があり、他のAIも同様です。",
+      "headlineOriginal": "Google’s Gemini has a branding problem, and so does the rest of AI",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "OpenAIのエグゼクティブエグゼクティブの脱出をどのように説明しますか？",
+      "headlineOriginal": "How do we explain OpenAI’s executive exodus?",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "OpenAI、ハグしている顔の違反に関する公式レポートを発表",
+      "headlineOriginal": "OpenAI releases its official report on the Hugging Face breach",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "OpenAIエージェントがHugging Faceをハッキングした理由に関するインサイドストーリー",
+      "headlineOriginal": "The inside story on why OpenAI agents hacked Hugging Face",
+      "source": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "レーダーはポッドキャストを検索可能にし、AIエージェントが使用できるようにします",
+      "headlineOriginal": "Radar makes podcasts searchable — and usable by AI agents",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "元メタの科学者は、工場の現場にビジュアルAIを導入したいと考えています",
+      "headlineOriginal": "Ex-Meta scientists want to bring visual AI to the factory floor",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "ビル・ゲイツは、AIからの害を軽減するために、ロボット税と「人間が予約した」仕事を見たいと考えています",
+      "headlineOriginal": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 519,
+    "itemsInPool": 565,
+    "clusters": 508,
+    "verifiedTopics": 9,
+    "unverifiedTopics": 499,
+    "elapsedMs": 31185
+  }
+}
