@@ -1,0 +1,357 @@
+{
+  "date": "2026-08-28",
+  "generatedAt": "2026-08-28T02:24:09.692Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-08-28",
+  "threeLineSummary": [
+    "GoogleがGemini 3.5 Transcribe for AI - powered speech - to -…",
+    "Google、動画生成AI「Gemini Omni 1.1 Flash」公開 10秒分の文脈を参照して最長40秒まで延長",
+    "AnthropicとOpenAIがTechCrunch Disrupt 2026のAIステージに参加"
+  ],
+  "lead": "2026-08-28 時点で、複数ソースの裏取りが取れた AI 関連トピック 7 件をまとめた。",
+  "sections": [
+    {
+      "heading": "GoogleがGemini 3.5 Transcribe for AI - powered speech - to - textを発表",
+      "body": "GboardのRamblerを支えるAIは、Chromeを含むより多くのGoogle製品に登場しています。\n\n初出は Ars Technica AI [1]。DeepMind Blog [2]、The Verge AI [3]、GIGAZINE [4] でも同内容が報じられている。",
+      "why_it_matters": "独立した 4 ソースで確認済み（確度: 高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 1
+    },
+    {
+      "heading": "Google、動画生成AI「Gemini Omni 1.1 Flash」公開 10秒分の文脈を参照して最長40秒まで延長",
+      "body": "Googleは、動画の生成や編集に対応するマルチモーダルAI「Gemini Omni 1.1 Flash」を発表した。直前10秒の文脈を参照した最大40秒のシーン延長や、開始・終了フレームの指定生成に対応。360pの高速プレビューから4Kアップスケールまでをカバーし、APIやツール経由で提供する。\n\n初出は ITmedia AI+ [1]。DeepMind Blog [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「拡散モデル（画像生成）」は、ノイズから少しずつ絵を描き起こしていく仕組みで、画像や動画を生成するAIの主流方式です。記事に出てくる「マルチモーダル」は、文章だけでなく画像・音声・動画もまとめて扱えることです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 2
+    },
+    {
+      "heading": "AnthropicとOpenAIがTechCrunch Disrupt 2026のAIステージに参加",
+      "body": "TechCrunch Disrupt 2026では、Google for Startupsが発表した、過去数年間のコミュニティで最もホットなトピックをAI Stageが再び掘り下げています。\n\n初出は TechCrunch AI [1]。ITmedia AI+ [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 3
+    },
+    {
+      "heading": "検索で旅行を計画して予約する3つの新しい方法",
+      "body": "ホテルを予約して航空券を追跡し、Google検索のAIモードでマイルと特典を表示します。\n\n初出は Google AI Blog [1]。TechCrunch AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 4
+    },
+    {
+      "heading": "中国製AIチップのクラスタで「Opus 4.8並み性能」モデルを提供 話題のステルスモデルの正体は「GLM-5.3-Flash」",
+      "body": "中国Z.aiが「GLM-5.3-Flash」をMITライセンスで公開。「Ox Alpha」として匿名検証していたマルチモーダルモデルで、「Claude Opus 4.8」に迫る性能を安価で提供するとうたう。\n\n初出は ITmedia AI+ [1]。GIGAZINE [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「マルチモーダル」は、文章だけでなく画像・音声・動画もまとめて扱えることです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 5
+    },
+    {
+      "heading": "MCPの新たなロードマップ公開 今後はAIエージェント対応、HTTP通信への統一などに注力",
+      "body": "Linux Foundation傘下でMCP（Model Context Protocol）の仕様策定を行っている「Agentic AI Foundation（AAIF）」は、今後のMCPの進化について、その方向性を示す新たなロードマップを発表しました。\n\n初出は ITmedia AI+ [1]。Publickey [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 6
+    },
+    {
+      "heading": "惑星予測エンジン： Earth AIによるグローバルモデルの自動化",
+      "body": "Earth AI\n\n初出は Google Research [1]。",
+      "why_it_matters": "開発元の公式発表（Google Research）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 7
+    }
+  ],
+  "xPosts": [
+    "GoogleがGemini 3.5 Transcribe for AI - powered speech - to - textを発表（4ソースで確認）",
+    "Google、動画生成AI「Gemini Omni 1.1 Flash」公開 10秒分の文脈を参照して最長40秒まで延長（2ソースで確認）",
+    "AnthropicとOpenAIがTechCrunch Disrupt 2026のAIステージに参加（2ソースで確認）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+      "confidence": "high",
+      "domainCount": 4,
+      "socialCount": 0,
+      "sourceCount": 4,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Ars Technica AI",
+          "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+          "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+          "domain": "arstechnica.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-26T19:19:22.000Z"
+        },
+        {
+          "n": 2,
+          "source": "DeepMind Blog",
+          "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+          "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+          "domain": "deepmind.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-26T17:01:00.000Z"
+        },
+        {
+          "n": 3,
+          "source": "The Verge AI",
+          "title": "Google’s new AI transcription edits out your ‘ums’ and ‘ahs’",
+          "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-26T17:00:00.000Z"
+        },
+        {
+          "n": 4,
+          "source": "GIGAZINE",
+          "title": "「あー」「えー」などを自動削除しつつリアルタイムで文字起こししできる音声認識モデル「Gemini 3.5 Transcribe」をGoogleが発表",
+          "url": "https://gigazine.net/news/20260827-gemini-3-5-transcribe/",
+          "domain": "gigazine.net",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-08-27T04:15:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Google、動画生成AI「Gemini Omni 1.1 Flash」公開 10秒分の文脈を参照して最長40秒まで延長",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "Google、動画生成AI「Gemini Omni 1.1 Flash」公開 10秒分の文脈を参照して最長40秒まで延長",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000878/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-28T00:07:14.000Z"
+        },
+        {
+          "n": 2,
+          "source": "DeepMind Blog",
+          "title": "Gemini Omni 1.1 Flash lets you build with more control",
+          "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+          "domain": "deepmind.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-27T16:11:32.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-27T23:16:45.000Z"
+        },
+        {
+          "n": 2,
+          "source": "ITmedia AI+",
+          "title": "OpenAI、AIサイバー攻撃への「集団的対応」を訴える公開書簡 Anthropic、Google、Microsoftなど100以上の組織が署名",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000876/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-27T22:56:31.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "3 new ways to plan and book travel in Search",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Google AI Blog",
+          "title": "3 new ways to plan and book travel in Search",
+          "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+          "domain": "blog.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-27T16:00:00.000Z"
+        },
+        {
+          "n": 2,
+          "source": "TechCrunch AI",
+          "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+          "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-27T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "中国製AIチップのクラスタで「Opus 4.8並み性能」モデルを提供 話題のステルスモデルの正体は「GLM-5.3-Flash」",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "中国製AIチップのクラスタで「Opus 4.8並み性能」モデルを提供 話題のステルスモデルの正体は「GLM-5.3-Flash」",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2608/27/2000000840/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-27T04:15:18.000Z"
+        },
+        {
+          "n": 2,
+          "source": "GIGAZINE",
+          "title": "謎の高性能AI「Ox Alpha」の正体は「GLM-5.3-Flash」だったことが判明、Claude Opus 4.8と同等性能のオープンモデル＆中国製チップで運用可能",
+          "url": "https://gigazine.net/news/20260827-glm-5-3-flash/",
+          "domain": "gigazine.net",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-08-27T02:41:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "MCPの新たなロードマップ公開 今後はAIエージェント対応、HTTP通信への統一などに注力",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "MCPの新たなロードマップ公開 今後はAIエージェント対応、HTTP通信への統一などに注力",
+          "url": "https://www.itmedia.co.jp/news/article/2608/27/2000000831/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-27T01:25:36.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Publickey",
+          "title": "MCPの新ロードマップ公開、今後はAIエージェント対応、HTTP通信への統一、アイデンティティ、よりよいデベロッパー体験などに注力",
+          "url": "https://www.publickey1.jp/blog/26/mcpaihttp.html",
+          "domain": "publickey1.jp",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-08-26T15:29:13.000Z"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "headline": "Planetary prediction engine: Automating global models via Earth AI",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Google Research",
+          "title": "Planetary prediction engine: Automating global models via Earth AI",
+          "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
+          "domain": "research.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-27T17:37:20.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "“AI離れ”こそ重要？ AIで成果を出す人の共通点 「差がつくスキルと思考法」を専門家に聞いた",
+      "headlineOriginal": "“AI離れ”こそ重要？ AIで成果を出す人の共通点 「差がつくスキルと思考法」を専門家に聞いた",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000873/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "ヒューマノイドを育てるバイト!? タイミーとジールスが現場データ収集で協業",
+      "headlineOriginal": "ヒューマノイドを育てるバイト!? タイミーとジールスが現場データ収集で協業",
+      "source": "ITmedia AI+",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2608/28/news061.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "「情シスはまだ実力の1割しか発揮していない」 AIリストラ時代のキャリアを考える",
+      "headlineOriginal": "「情シスはまだ実力の1割しか発揮していない」 AIリストラ時代のキャリアを考える",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2608/27/news042.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "「全従業員がAIを使っているか」はもう成功の物差しじゃない AI投資、どう評価すべきか？",
+      "headlineOriginal": "「全従業員がAIを使っているか」はもう成功の物差しじゃない AI投資、どう評価すべきか？",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2608/28/news029.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Anthropicの新しいハードウェア標準により、AIエージェントは物理的な世界を制御できます",
+      "headlineOriginal": "Anthropic's new hardware standard lets AI agents control the physical world",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "「新幹線料金と同じ」 ラピダス小池社長が明かす、2ナノ半導体“短納期”の勝算",
+      "headlineOriginal": "「新幹線料金と同じ」 ラピダス小池社長が明かす、2ナノ半導体“短納期”の勝算",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/business/articles/2608/28/news065.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "OpenAIのAIエージェント、約700体の群れで企業を襲撃 ハッキングの痕跡隠蔽を試みる――事件の裏で何が？",
+      "headlineOriginal": "OpenAIのAIエージェント、約700体の群れで企業を襲撃 ハッキングの痕跡隠蔽を試みる――事件の裏で何が？",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/business/articles/2608/28/news067.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "OpenAI、Anthropic、Google、および他の100社は、不正なAIに対して防御するための行動を呼びかけています",
+      "headlineOriginal": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 537,
+    "itemsInPool": 593,
+    "clusters": 513,
+    "verifiedTopics": 10,
+    "unverifiedTopics": 503,
+    "elapsedMs": 19588
+  }
+}

@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-08-28",
+      "title": "AI 最新まとめ 2026-08-28",
+      "threeLineSummary": [
+        "GoogleがGemini 3.5 Transcribe for AI - powered speech - to -…",
+        "Google、動画生成AI「Gemini Omni 1.1 Flash」公開 10秒分の文脈を参照して最長40秒まで延長",
+        "AnthropicとOpenAIがTechCrunch Disrupt 2026のAIステージに参加"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-08-28T02:24:09.692Z"
+    },
+    {
       "date": "2026-08-27",
       "title": "AI 最新まとめ 2026-08-27",
       "threeLineSummary": [
@@ -430,5 +441,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-08-26T21:33:46.066Z"
+  "updatedAt": "2026-08-28T02:24:09.701Z"
 }
