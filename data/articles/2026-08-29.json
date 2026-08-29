@@ -1,0 +1,337 @@
+{
+  "date": "2026-08-29",
+  "generatedAt": "2026-08-29T01:58:21.093Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-08-29",
+  "threeLineSummary": [
+    "Google、「Gemini Notebook」に購入済み電子書籍を追加できる「Expert Intelligence」",
+    "Anthropic、ペンタゴンのサプライチェーンリスクラベルを初めて上訴",
+    "Google、動画生成AI「Gemini Omni 1.1 Flash」公開 10秒分の文脈を参照して最長40秒まで延長"
+  ],
+  "lead": "2026-08-29 時点で、複数ソースの裏取りが取れた AI 関連トピック 7 件をまとめた。",
+  "sections": [
+    {
+      "heading": "Google、「Gemini Notebook」に購入済み電子書籍を追加できる「Expert Intelligence」",
+      "body": "Googleは、信頼できる情報源をAI製品で活用する取り組み「Expert Intelligence」を発表した。第1弾として「Google Playブックス」の対象電子書籍を「Gemini Notebook」のソースに追加可能にした。大手出版社の10万冊以上が対象で、今後は他サービスにも拡大する。\n\n初出は ITmedia AI+ [1]。The Verge AI [2]、GIGAZINE [3] でも同内容が報じられている。",
+      "why_it_matters": "独立した 3 ソースで確認済み（確度: 高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 1
+    },
+    {
+      "heading": "Anthropic、ペンタゴンのサプライチェーンリスクラベルを初めて上訴",
+      "body": "連邦裁判所の判事は、トランプ政権が違法にAnthropicをサプライチェーンリスクとレッテルを貼ったと裁定し、ワシントンで2度目のペンタゴン訴訟が続いているため、AI企業に勝利をもたらした。\n\n初出は TechCrunch AI [1]。The Verge AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 2
+    },
+    {
+      "heading": "Google、動画生成AI「Gemini Omni 1.1 Flash」公開 10秒分の文脈を参照して最長40秒まで延長",
+      "body": "Googleは、動画の生成や編集に対応するマルチモーダルAI「Gemini Omni 1.1 Flash」を発表した。直前10秒の文脈を参照した最大40秒のシーン延長や、開始・終了フレームの指定生成に対応。360pの高速プレビューから4Kアップスケールまでをカバーし、APIやツール経由で提供する。\n\n初出は ITmedia AI+ [1]。GIGAZINE [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「拡散モデル（画像生成）」は、ノイズから少しずつ絵を描き起こしていく仕組みで、画像や動画を生成するAIの主流方式です。記事に出てくる「マルチモーダル」は、文章だけでなく画像・音声・動画もまとめて扱えることです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 3
+    },
+    {
+      "heading": "OpenAI、AIサイバー攻撃への「集団的対応」を訴える公開書簡 Anthropic、Google、Microsoftなど100以上の組織が署名",
+      "body": "OpenAIは、AIを悪用したサイバー攻撃への備えを産業界と政府に訴える公開書簡を発表した。モデルの能力向上によりサイバー攻撃の高度化が懸念される中、現状のセキュリティの不備を指摘し、防御用AIの普及と国際連携を要請。AnthropicやGoogleなど、100以上の企業や団体が署名している。\n\n初出は ITmedia AI+ [1]。GIGAZINE [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 4
+    },
+    {
+      "heading": "検索で旅行を計画して予約する3つの新しい方法",
+      "body": "ホテルを予約して航空券を追跡し、Google検索のAIモードでマイルと特典を表示します。\n\n初出は Google AI Blog [1]。TechCrunch AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 5
+    },
+    {
+      "heading": "SpaceXによる買収後のカーソルに関する当社の決定",
+      "body": "SpaceXによるCursorの買収を受け、当社がCursorにOpenAIモデルを提供する契約を終了することを決定しました。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、企業どうしのお金や提携の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。業界の力関係が変わると、使えるツールの選択肢にも影響してきます。",
+      "topic_index": 6
+    },
+    {
+      "heading": "タイの次世代AIスタートアップをサポート",
+      "body": "OpenAIとタイのMHESIは、10の健康、ウェルネス、教育スタートアップがAIプロトタイプを信頼できる製品に変えるのを支援する8週間のアクセラレーターを立ち上げました。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 7
+    }
+  ],
+  "xPosts": [
+    "Google、「Gemini Notebook」に購入済み電子書籍を追加できる「Expert Intelligence」（3ソースで確認）",
+    "Anthropic、ペンタゴンのサプライチェーンリスクラベルを初めて上訴（2ソースで確認）",
+    "Google、動画生成AI「Gemini Omni 1.1 Flash」公開 10秒分の文脈を参照して最長40秒まで延長（2ソースで確認）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Google、「Gemini Notebook」に購入済み電子書籍を追加できる「Expert Intelligence」",
+      "confidence": "high",
+      "domainCount": 3,
+      "socialCount": 0,
+      "sourceCount": 3,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "Google、「Gemini Notebook」に購入済み電子書籍を追加できる「Expert Intelligence」",
+          "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000893/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-28T04:25:21.000Z"
+        },
+        {
+          "n": 2,
+          "source": "The Verge AI",
+          "title": "Google’s AI note-taking app now allows you to interact with books",
+          "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-27T19:30:00.000Z"
+        },
+        {
+          "n": 3,
+          "source": "GIGAZINE",
+          "title": "購入した電子書籍をGeminiに読ませて質問できる「Expert Intelligence」が登場、10万冊超に対応",
+          "url": "https://gigazine.net/news/20260828-expert-intelligence-gemini/",
+          "domain": "gigazine.net",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-08-28T05:15:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+          "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-28T12:46:12.000Z"
+        },
+        {
+          "n": 2,
+          "source": "The Verge AI",
+          "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-28T03:14:06.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "Google、動画生成AI「Gemini Omni 1.1 Flash」公開 10秒分の文脈を参照して最長40秒まで延長",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "Google、動画生成AI「Gemini Omni 1.1 Flash」公開 10秒分の文脈を参照して最長40秒まで延長",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000878/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-28T00:07:14.000Z"
+        },
+        {
+          "n": 2,
+          "source": "GIGAZINE",
+          "title": "Googleが動画生成AI「Gemini Omni 1.1 Flash」をリリース、「最大4Kアップスケール」「動画の続きを生成」「低解像度で高速プレビュー」など",
+          "url": "https://gigazine.net/news/20260828-gemini-omni-1-1-flash/",
+          "domain": "gigazine.net",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-08-28T03:12:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "OpenAI、AIサイバー攻撃への「集団的対応」を訴える公開書簡 Anthropic、Google、Microsoftなど100以上の組織が署名",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "OpenAI、AIサイバー攻撃への「集団的対応」を訴える公開書簡 Anthropic、Google、Microsoftなど100以上の組織が署名",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000876/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-27T22:56:31.000Z"
+        },
+        {
+          "n": 2,
+          "source": "GIGAZINE",
+          "title": "OpenAI・Anthropic・GoogleなどがAIによるサイバー攻撃の防御に関する共同声明を発表",
+          "url": "https://gigazine.net/news/20260828-ai-frontier-companies-signed-cyber-defense/",
+          "domain": "gigazine.net",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-08-28T02:24:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "3 new ways to plan and book travel in Search",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Google AI Blog",
+          "title": "3 new ways to plan and book travel in Search",
+          "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+          "domain": "blog.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-27T16:00:00.000Z"
+        },
+        {
+          "n": 2,
+          "source": "TechCrunch AI",
+          "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+          "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-27T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "Our decision on Cursor following its acquisition by SpaceX",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Our decision on Cursor following its acquisition by SpaceX",
+          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-28T06:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "headline": "Supporting Thailand’s next generation of AI startups",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Supporting Thailand’s next generation of AI startups",
+          "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-28T02:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "Neocloud Lambdaは、より多くのチップを購入するために10億$の負債を確保",
+      "headlineOriginal": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Anthropicの研究者が自己改善AIを覗いてみました",
+      "headlineOriginal": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "オープンウェイトAI企業は、バレーで最もホットな買収ターゲットです",
+      "headlineOriginal": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "連邦判事が違法と判断した「目覚めた」Anthropicのトランプのブラックリスト",
+      "headlineOriginal": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "OpenAI、Anthropic、Google、および他の100社は、不正なAIに対して防御するための行動を呼びかけています",
+      "headlineOriginal": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Metaは、合意のない録画を制限することで、AIメガネの不気味さをわずかに軽減します",
+      "headlineOriginal": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "ソーシャルメディアの巨人であるOpenAIは、インドでますます厳しい監視に直面しているため、メタエグゼクティブはOpenAIを離れる",
+      "headlineOriginal": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "チームみらい安野氏「高市総理へのAI家庭教師」を実施 総理が音声入力で作成したのは……",
+      "headlineOriginal": "チームみらい安野氏「高市総理へのAI家庭教師」を実施 総理が音声入力で作成したのは……",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000919/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 528,
+    "itemsInPool": 594,
+    "clusters": 512,
+    "verifiedTopics": 9,
+    "unverifiedTopics": 503,
+    "elapsedMs": 50902
+  }
+}

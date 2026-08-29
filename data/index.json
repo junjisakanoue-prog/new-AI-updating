@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-08-29",
+      "title": "AI 最新まとめ 2026-08-29",
+      "threeLineSummary": [
+        "Google、「Gemini Notebook」に購入済み電子書籍を追加できる「Expert Intelligence」",
+        "Anthropic、ペンタゴンのサプライチェーンリスクラベルを初めて上訴",
+        "Google、動画生成AI「Gemini Omni 1.1 Flash」公開 10秒分の文脈を参照して最長40秒まで延長"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-08-29T01:58:21.093Z"
+    },
+    {
       "date": "2026-08-28",
       "title": "AI 最新まとめ 2026-08-28",
       "threeLineSummary": [
@@ -441,5 +452,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-08-28T02:24:09.701Z"
+  "updatedAt": "2026-08-29T01:58:21.102Z"
 }
