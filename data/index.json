@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-08-31",
+      "title": "AI 最新まとめ 2026-08-31",
+      "threeLineSummary": [
+        "OpenAI、Cursorへのモデル提供を11月12日に終了 SpaceXによる買収が理由",
+        "Anthropic gets its first court win over the Pentagon’s supp…",
+        "Anthropic and OpenAI are joining the AI stage at TechCrunch…"
+      ],
+      "topicCount": 4,
+      "generatedAt": "2026-08-30T21:48:01.828Z"
+    },
+    {
       "date": "2026-08-30",
       "title": "AI 最新まとめ 2026-08-30",
       "threeLineSummary": [
@@ -463,5 +474,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-08-29T21:28:38.270Z"
+  "updatedAt": "2026-08-30T21:48:01.837Z"
 }

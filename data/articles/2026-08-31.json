@@ -1,0 +1,226 @@
+{
+  "date": "2026-08-31",
+  "generatedAt": "2026-08-30T21:48:01.828Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-08-31",
+  "threeLineSummary": [
+    "OpenAI、Cursorへのモデル提供を11月12日に終了 SpaceXによる買収が理由",
+    "Anthropic gets its first court win over the Pentagon’s supp…",
+    "Anthropic and OpenAI are joining the AI stage at TechCrunch…"
+  ],
+  "lead": "2026-08-31 時点で、複数ソースの裏取りが取れた AI 関連トピック 4 件をまとめた。",
+  "sections": [
+    {
+      "heading": "OpenAI、Cursorへのモデル提供を11月12日に終了 SpaceXによる買収が理由",
+      "body": "OpenAIは、AIコードエディタ「Cursor」へのモデル提供契約を11月12日に終了すると発表した。SpaceXによるCursor買収を受け、イーロン・マスク氏の過去の契約違反実績から規約順守を確信できないことを理由に挙げている。Cursor側は影響が限定的としつつ協議継続を表明、Anthropicは支援継続を示した。\n\n初出は ITmedia AI+ [1]。OpenAI Blog [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 1
+    },
+    {
+      "heading": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "body": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.\n\n初出は TechCrunch AI [1]。The Verge AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 2
+    },
+    {
+      "heading": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+      "body": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.\n\n初出は TechCrunch AI [1]。ITmedia AI+ [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 3
+    },
+    {
+      "heading": "Supporting Thailand’s next generation of AI startups",
+      "body": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 4
+    }
+  ],
+  "xPosts": [
+    "OpenAI、Cursorへのモデル提供を11月12日に終了 SpaceXによる買収が理由（2ソースで確認）",
+    "Anthropic gets its first court win over the Pentagon’s supply-chain risk label（2ソースで確認）",
+    "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026（2ソースで確認）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "OpenAI、Cursorへのモデル提供を11月12日に終了 SpaceXによる買収が理由",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "OpenAI、Cursorへのモデル提供を11月12日に終了 SpaceXによる買収が理由",
+          "url": "https://www.itmedia.co.jp/news/article/2608/30/2000000945/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-29T23:12:23.000Z"
+        },
+        {
+          "n": 2,
+          "source": "OpenAI Blog",
+          "title": "Our decision on Cursor following its acquisition by SpaceX",
+          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-28T06:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+          "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-28T12:46:12.000Z"
+        },
+        {
+          "n": 2,
+          "source": "The Verge AI",
+          "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-28T03:14:06.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-27T23:16:45.000Z"
+        },
+        {
+          "n": 2,
+          "source": "ITmedia AI+",
+          "title": "OpenAI、AIサイバー攻撃への「集団的対応」を訴える公開書簡 Anthropic、Google、Microsoftなど100以上の組織が署名",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000876/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-27T22:56:31.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "Supporting Thailand’s next generation of AI startups",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Supporting Thailand’s next generation of AI startups",
+          "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-28T02:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "パナソニックHDがAI・ロボティクス研究開発本部を新設、CAIOの榊原氏がトップに",
+      "headlineOriginal": "パナソニックHDがAI・ロボティクス研究開発本部を新設、CAIOの榊原氏がトップに",
+      "source": "ITmedia AI+",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2608/31/news057.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Texas Governor Abbott blocks funding for more Flock cameras",
+      "headlineOriginal": "Texas Governor Abbott blocks funding for more Flock cameras",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "headlineOriginal": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Google、「Gemini Notebook」に購入済み電子書籍を追加できる「Expert Intelligence」",
+      "headlineOriginal": "Google、「Gemini Notebook」に購入済み電子書籍を追加できる「Expert Intelligence」",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000893/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加",
+      "headlineOriginal": "Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/news/article/2608/30/2000000949/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "headlineOriginal": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Sony Music Publishing and Warner Chappell are suing Anthropic",
+      "headlineOriginal": "Sony Music Publishing and Warner Chappell are suing Anthropic",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+      "headlineOriginal": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+      "source": "TechCrunch AI (tag)",
+      "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 72,
+    "itemsCollected": 104,
+    "itemsInPool": 147,
+    "clusters": 96,
+    "verifiedTopics": 4,
+    "unverifiedTopics": 92,
+    "elapsedMs": 12032
+  }
+}
