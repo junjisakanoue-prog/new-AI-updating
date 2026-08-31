@@ -1,0 +1,243 @@
+{
+  "date": "2026-09-01",
+  "generatedAt": "2026-08-31T23:05:27.849Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-09-01",
+  "threeLineSummary": [
+    "OpenAI、Cursorへのモデル提供を11月12日に終了 SpaceXによる買収が理由",
+    "Anthropic、ペンタゴンのサプライチェーンリスクラベルを初めて上訴",
+    "TimesFM -3 ：多変量予測のためのゼロショット基盤モデル"
+  ],
+  "lead": "2026-09-01 時点で、複数ソースの裏取りが取れた AI 関連トピック 5 件をまとめた。",
+  "sections": [
+    {
+      "heading": "OpenAI、Cursorへのモデル提供を11月12日に終了 SpaceXによる買収が理由",
+      "body": "OpenAIは、AIコードエディタ「Cursor」へのモデル提供契約を11月12日に終了すると発表した。SpaceXによるCursor買収を受け、イーロン・マスク氏の過去の契約違反実績から規約順守を確信できないことを理由に挙げている。Cursor側は影響が限定的としつつ協議継続を表明、Anthropicは支援継続を示した。\n\n初出は ITmedia AI+ [1]。OpenAI Blog [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 1
+    },
+    {
+      "heading": "Anthropic、ペンタゴンのサプライチェーンリスクラベルを初めて上訴",
+      "body": "連邦裁判所の判事は、トランプ政権が違法にAnthropicをサプライチェーンリスクとレッテルを貼ったと裁定し、ワシントンで2度目のペンタゴン訴訟が続いているため、AI企業に勝利をもたらした。\n\n初出は TechCrunch AI [1]。The Verge AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 2
+    },
+    {
+      "heading": "TimesFM -3 ：多変量予測のためのゼロショット基盤モデル",
+      "body": "データ管理\n\n初出は Google Research [1]。",
+      "why_it_matters": "開発元の公式発表（Google Research）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 3
+    },
+    {
+      "heading": "AIへのアクセス拡大のマイルストーン",
+      "body": "ChatGPT Adsの年間収益率は10億$に達し、世界的に拡大し、無料で手頃な価格のオプションを通じてAIへの幅広いアクセスをサポートしています。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIを使うときの値段や条件が変わる、という話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。普段使っているツールの請求や使える範囲に影響する可能性があります。",
+      "topic_index": 4
+    },
+    {
+      "heading": "タイの次世代AIスタートアップをサポート",
+      "body": "OpenAIとタイのMHESIは、10の健康、ウェルネス、教育スタートアップがAIプロトタイプを信頼できる製品に変えるのを支援する8週間のアクセラレーターを立ち上げました。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 5
+    }
+  ],
+  "xPosts": [
+    "OpenAI、Cursorへのモデル提供を11月12日に終了 SpaceXによる買収が理由（2ソースで確認）",
+    "Anthropic、ペンタゴンのサプライチェーンリスクラベルを初めて上訴（2ソースで確認）",
+    "TimesFM -3 ：多変量予測のためのゼロショット基盤モデル（公式発表）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "OpenAI、Cursorへのモデル提供を11月12日に終了 SpaceXによる買収が理由",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "OpenAI、Cursorへのモデル提供を11月12日に終了 SpaceXによる買収が理由",
+          "url": "https://www.itmedia.co.jp/news/article/2608/30/2000000945/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-29T23:12:23.000Z"
+        },
+        {
+          "n": 2,
+          "source": "OpenAI Blog",
+          "title": "Our decision on Cursor following its acquisition by SpaceX",
+          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-28T06:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+          "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-28T12:46:12.000Z"
+        },
+        {
+          "n": 2,
+          "source": "The Verge AI",
+          "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-08-28T03:14:06.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "TimesFM-3: A zero-shot foundation model for multivariate forecasting",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Google Research",
+          "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting",
+          "url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/",
+          "domain": "research.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-31T17:19:40.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "A milestone in expanding access to AI",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "A milestone in expanding access to AI",
+          "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-31T04:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "Supporting Thailand’s next generation of AI startups",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Supporting Thailand’s next generation of AI startups",
+          "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-08-28T02:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "CoRe - MoE ：継続的なマルチモーダル命令チューニングのためのコンパクトで再利用可能なMoE",
+      "headlineOriginal": "CoRe-MoE: Compact Reusable MoE for Continual Multimodal Instruction Tuning",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.27867",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "三菱ケミカル、半導体向けに「温めると縮む新材料」開発 AI時代の課題に光明、何がすごいのか？",
+      "headlineOriginal": "三菱ケミカル、半導体向けに「温めると縮む新材料」開発 AI時代の課題に光明、何がすごいのか？",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/business/articles/2609/01/news039.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "ペンタゴンは現在、独自のバージョンのChatGPTとGrokを持っています",
+      "headlineOriginal": "The Pentagon now has its own version of ChatGPT and Grok",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AI開発はプロンプトからコンテキスト、ハーネスへと向かう ハーネス成熟度を測る3つのチェックリスト",
+      "headlineOriginal": "AI開発はプロンプトからコンテキスト、ハーネスへと向かう ハーネス成熟度を測る3つのチェックリスト",
+      "source": "ITmedia AI+",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news012.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AIをよく使う社員だけ5倍に Claude、ChatGPT／Codex、Cursorで企業がAIを本格運用できる時代へ",
+      "headlineOriginal": "AIをよく使う社員だけ5倍に Claude、ChatGPT／Codex、Cursorで企業がAIを本格運用できる時代へ",
+      "source": "ITmedia AI+",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news009.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Instagramは、開示されていないAIプロファイルに新しい制限を設けています",
+      "headlineOriginal": "Instagram puts new limits on undisclosed AI profiles",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "ハーバード法退学者がブルーボイスのために600万$を調達し、「警察官のためのハービー」を構築",
+      "headlineOriginal": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "「Zlibrary my beloved」：ソニーの訴訟で引用された海賊行為を称賛するAnthropicスタッフのチャット",
+      "headlineOriginal": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 96,
+    "itemsCollected": 496,
+    "itemsInPool": 496,
+    "clusters": 484,
+    "verifiedTopics": 5,
+    "unverifiedTopics": 479,
+    "elapsedMs": 26979
+  }
+}

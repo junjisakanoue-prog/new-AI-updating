@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-09-01",
+      "title": "AI 最新まとめ 2026-09-01",
+      "threeLineSummary": [
+        "OpenAI、Cursorへのモデル提供を11月12日に終了 SpaceXによる買収が理由",
+        "Anthropic、ペンタゴンのサプライチェーンリスクラベルを初めて上訴",
+        "TimesFM -3 ：多変量予測のためのゼロショット基盤モデル"
+      ],
+      "topicCount": 5,
+      "generatedAt": "2026-08-31T23:05:27.849Z"
+    },
+    {
       "date": "2026-08-31",
       "title": "AI 最新まとめ 2026-08-31",
       "threeLineSummary": [
@@ -474,5 +485,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-08-30T21:48:01.837Z"
+  "updatedAt": "2026-08-31T23:05:27.858Z"
 }
