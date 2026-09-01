@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-09-02",
+      "title": "AI 最新まとめ 2026-09-02",
+      "threeLineSummary": [
+        "“軍事向けChatGPT”導入、米国防総省 「Gemini」「Grok」の計3モデルが利用可能に",
+        "「ChatGPT」広告、年換算の売上高10億ドルに 開始200日足らずで達成",
+        "2026年8月に発表した最新のAIニュース"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-09-01T21:32:06.963Z"
+    },
+    {
       "date": "2026-09-01",
       "title": "AI 最新まとめ 2026-09-01",
       "threeLineSummary": [
@@ -485,5 +496,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-08-31T23:05:27.858Z"
+  "updatedAt": "2026-09-01T21:32:06.971Z"
 }
