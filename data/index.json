@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-09-05",
+      "title": "AI 最新まとめ 2026-09-05",
+      "threeLineSummary": [
+        "4つの主要なAIモデルがまれに重複するダウンタイムを被る",
+        "NVIDIA、アイドル状態のコンピューターを個人のAIデータセンターにリンクする無料ツールを発表",
+        "OpenAI、「GPT-6 Astra」を一部組織向けに公開 サイバー能力が初の「Critical」に"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-09-04T21:10:39.732Z"
+    },
+    {
       "date": "2026-09-04",
       "title": "AI 最新まとめ 2026-09-04",
       "threeLineSummary": [
@@ -518,5 +529,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-09-03T21:32:53.583Z"
+  "updatedAt": "2026-09-04T21:10:39.740Z"
 }
