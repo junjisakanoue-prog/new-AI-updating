@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-09-06",
+      "title": "AI 最新まとめ 2026-09-06",
+      "threeLineSummary": [
+        "4つの主要なAIモデルがまれに重複するダウンタイムを被る",
+        "OpenAIの次の大きなAIモデルは「AGI時代に入った」",
+        "OpenAI、「GPT-6 Astra」を一部組織向けに公開 サイバー能力が初の「Critical」に"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-09-05T20:53:13.475Z"
+    },
+    {
       "date": "2026-09-05",
       "title": "AI 最新まとめ 2026-09-05",
       "threeLineSummary": [
@@ -529,5 +540,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-09-04T21:10:39.740Z"
+  "updatedAt": "2026-09-05T20:53:13.483Z"
 }
