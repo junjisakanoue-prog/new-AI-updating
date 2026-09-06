@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-09-07",
+      "title": "AI 最新まとめ 2026-09-07",
+      "threeLineSummary": [
+        "OpenAI、「GPT-6 Astra」を一部組織向けに公開 サイバー能力が初の「Critical」に",
+        "ChatGPT・Claude・Grokがほぼ同時刻にダウン",
+        "異星人の心"
+      ],
+      "topicCount": 4,
+      "generatedAt": "2026-09-06T20:59:47.187Z"
+    },
+    {
       "date": "2026-09-06",
       "title": "AI 最新まとめ 2026-09-06",
       "threeLineSummary": [
@@ -540,5 +551,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-09-05T20:53:13.483Z"
+  "updatedAt": "2026-09-06T20:59:47.195Z"
 }
