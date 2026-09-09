@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-09-10",
+      "title": "AI 最新まとめ 2026-09-10",
+      "threeLineSummary": [
+        "OpenAIの狡猾な数学的ブレークスルーは、学界に寒気を送ります",
+        "ChatGPT Sketchは、悪い図面を詳細なAI画像に変換します",
+        "ポール・クリスティアーノがOpenAI Foundation理事会に加わりました"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-09-09T21:27:23.254Z"
+    },
+    {
       "date": "2026-09-09",
       "title": "AI 最新まとめ 2026-09-09",
       "threeLineSummary": [
@@ -573,5 +584,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-09-08T21:32:11.917Z"
+  "updatedAt": "2026-09-09T21:27:23.262Z"
 }
