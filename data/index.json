@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-09-12",
+      "title": "AI 最新まとめ 2026-09-12",
+      "threeLineSummary": [
+        "ChatGPT、最上位プランの新規受付を一時停止 「Astra」需要対応のため 既存加入者には影響なし",
+        "ChatGPT Work、質問するだけで社内データ分析・グラフやダッシュボードも作る「Data agent」",
+        "オンラインストレージを急速に拡張し、10億人以上のChatGPTユーザーにサービスを提供"
+      ],
+      "topicCount": 4,
+      "generatedAt": "2026-09-11T21:30:12.734Z"
+    },
+    {
       "date": "2026-09-11",
       "title": "AI 最新まとめ 2026-09-11",
       "threeLineSummary": [
@@ -595,5 +606,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-09-10T21:20:15.688Z"
+  "updatedAt": "2026-09-11T21:30:12.743Z"
 }
