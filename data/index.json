@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-09-13",
+      "title": "AI 最新まとめ 2026-09-13",
+      "threeLineSummary": [
+        "PerplexityはGPT -6 Astraをエンドツーエンドシステムで信頼しています",
+        "AnthropicのCEOは、AI開発を遅らせる計画を概説しています",
+        "コグニションは、DevinがGPT ‑ 6 Astraで独自の作業をテストするのに役立ちます"
+      ],
+      "topicCount": 4,
+      "generatedAt": "2026-09-12T21:08:34.448Z"
+    },
+    {
       "date": "2026-09-12",
       "title": "AI 最新まとめ 2026-09-12",
       "threeLineSummary": [
@@ -606,5 +617,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-09-11T21:30:12.743Z"
+  "updatedAt": "2026-09-12T21:08:34.456Z"
 }
