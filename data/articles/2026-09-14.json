@@ -1,0 +1,189 @@
+{
+  "date": "2026-09-14",
+  "generatedAt": "2026-09-13T21:13:52.840Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-09-14",
+  "threeLineSummary": [
+    "トランプ氏とマイク・ジョンソン氏は、AI業界が過剰反応していると考えている",
+    "サム・アルトマンは、2026年にOpenAIが上場することは「不適切」であると述べている",
+    "PerplexityはGPT -6 Astraをエンドツーエンドシステムで信頼しています"
+  ],
+  "lead": "2026-09-14 時点で、複数ソースの裏取りが取れた AI 関連トピック 3 件をまとめた。",
+  "sections": [
+    {
+      "heading": "トランプ氏とマイク・ジョンソン氏は、AI業界が過剰反応していると考えている",
+      "body": "昨日、Anthropicの最高経営責任者（ CEO ）であるDario Amodei氏は、「フロンティアをペースで進め、AI開発を遅らせる時が来た」との長い公開書簡を発表した。OpenAIのサム・アルトマン（ Sam Altman ）氏とイーロン・マスク（ Elon Musk ）氏は共に同意し、Xへの支持を公に表明した。アルファベットのデミス・ハサビス（ Demis Hassabis ）氏でさえ、アモデイ氏の提案を暫定的に支持した。\n\n初出は The Verge AI [1]。TechCrunch AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 1
+    },
+    {
+      "heading": "サム・アルトマンは、2026年にOpenAIが上場することは「不適切」であると述べている",
+      "body": "OpenAIのサム・アルトマン最高経営責任者（ CEO ）は、Fortuneとのインタビューで、2026年にOpenAIのIPOは行われないことを確認した。45分間にわたって、アルトマンはハグフェイスハッキング事件、再帰的自己改善、人間のコントロールを超えたAIを構築する可能性など、さまざまなテーマについて話し合いました。後者では、彼は[…]\n\n初出は The Verge AI [1]。TechCrunch AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AIの安全性やリスクに関する話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。自分が使っているサービスが該当するかどうかを確認しておくと安心です。",
+      "topic_index": 2
+    },
+    {
+      "heading": "PerplexityはGPT -6 Astraをエンドツーエンドシステムで信頼しています",
+      "body": "Perplexityは、Astraを使用して通信を作成し、ソフトウェアを変更し、本番システムを監視し、以前のモデルよりもはるかに少ない頻度でチェックインします。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 3
+    }
+  ],
+  "xPosts": [
+    "トランプ氏とマイク・ジョンソン氏は、AI業界が過剰反応していると考えている（2ソースで確認）",
+    "サム・アルトマンは、2026年にOpenAIが上場することは「不適切」であると述べている（2ソースで確認）",
+    "PerplexityはGPT -6 Astraをエンドツーエンドシステムで信頼しています（公式発表）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Trump and Mike Johnson think the AI industry is overreacting",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "The Verge AI",
+          "title": "Trump and Mike Johnson think the AI industry is overreacting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-09-13T19:41:48.000Z"
+        },
+        {
+          "n": 2,
+          "source": "TechCrunch AI",
+          "title": "Anthropic CEO outlines plan to slow AI development",
+          "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-09-12T19:34:44.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "The Verge AI",
+          "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-09-12T21:16:28.000Z"
+        },
+        {
+          "n": 2,
+          "source": "TechCrunch AI",
+          "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-09-12T20:19:16.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+          "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-14T00:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "AnthropicのCEOは、AIにブレーキをかける時が来たと述べています",
+      "headlineOriginal": "Anthropic CEO says it’s time to pump the brakes on AI",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AI業界の最新の運命の警告の背後にあるものは何ですか？",
+      "headlineOriginal": "What’s behind the AI industry’s latest warnings of doom?",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "オバマ大統領、民主党にAIセーフガードの「明確な計画」を策定するよう要請",
+      "headlineOriginal": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AnthropicのアモデイCEO、AI開発の「ペース調整」訴えるエッセイ公開 アルトマン氏とマスク氏も賛同",
+      "headlineOriginal": "AnthropicのアモデイCEO、AI開発の「ペース調整」訴えるエッセイ公開 アルトマン氏とマスク氏も賛同",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/news/article/2609/13/2000001432/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "「AIコーディングより人を雇う方が安い」時代が来る？ 生成AIの予算超過を防ぐトークン浪費対策の全て",
+      "headlineOriginal": "「AIコーディングより人を雇う方が安い」時代が来る？ 生成AIの予算超過を防ぐトークン浪費対策の全て",
+      "source": "ITmedia AI+",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/13/news005.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "OpenAIの不正AIが5月に別の会社をハッキングしようとした",
+      "headlineOriginal": "OpenAI’s rogue AI tried to hack another company in May",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "トランプ氏はデータセンターに汚染の許可を与えている",
+      "headlineOriginal": "Trump is giving data centers a pass to pollute",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "OpenAIはただ勝ちたいだけです",
+      "headlineOriginal": "OpenAI just wants to win",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 65,
+    "itemsInPool": 168,
+    "clusters": 58,
+    "verifiedTopics": 3,
+    "unverifiedTopics": 55,
+    "elapsedMs": 31781
+  }
+}
