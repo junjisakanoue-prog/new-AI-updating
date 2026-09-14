@@ -1,0 +1,206 @@
+{
+  "date": "2026-09-15",
+  "generatedAt": "2026-09-14T22:14:14.285Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-09-15",
+  "threeLineSummary": [
+    "トランプ氏とマイク・ジョンソン氏は、AI業界が過剰反応していると考えている",
+    "DevFestが帰ってきました",
+    "FyxerがAIエグゼクティブアシスタントの信頼を築いた方法"
+  ],
+  "lead": "2026-09-15 時点で、複数ソースの裏取りが取れた AI 関連トピック 4 件をまとめた。",
+  "sections": [
+    {
+      "heading": "トランプ氏とマイク・ジョンソン氏は、AI業界が過剰反応していると考えている",
+      "body": "昨日、Anthropicの最高経営責任者（ CEO ）であるDario Amodei氏は、「フロンティアをペースで進め、AI開発を遅らせる時が来た」との長い公開書簡を発表した。OpenAIのサム・アルトマン（ Sam Altman ）氏とイーロン・マスク（ Elon Musk ）氏は共に同意し、Xへの支持を公に表明した。アルファベットのデミス・ハサビス（ Demis Hassabis ）氏でさえ、アモデイ氏の提案を暫定的に支持した。\n\n初出は The Verge AI [1]。Wired AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 1
+    },
+    {
+      "heading": "DevFestが帰ってきました",
+      "body": "DevFest 2026が帰ってきました。ここでは、800を超えるグローバルイベントの1つに接続して、エージェントAI時代に構築、保護、拡張する方法をご紹介します。\n\n初出は Google AI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Google AI Blog）に基づく。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 2
+    },
+    {
+      "heading": "FyxerがAIエグゼクティブアシスタントの信頼を築いた方法",
+      "body": "Fyxerは、OpenAIモデル、微調整、メモリ、および実際のユーザーフィードバックを使用して、受信トレイを整理し、各ユーザーの声でメールを下書きします。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。記事に出てくる「ファインチューニング」は、出来上がったAIに追加で学習させて、特定の用途向けに調整すること。専門学校に通わせるようなイメージです。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 3
+    },
+    {
+      "heading": "PerplexityはGPT -6 Astraをエンドツーエンドシステムで信頼しています",
+      "body": "Perplexityは、Astraを使用して通信を作成し、ソフトウェアを変更し、本番システムを監視し、以前のモデルよりもはるかに少ない頻度でチェックインします。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 4
+    }
+  ],
+  "xPosts": [
+    "トランプ氏とマイク・ジョンソン氏は、AI業界が過剰反応していると考えている（2ソースで確認）",
+    "DevFestが帰ってきました（公式発表）",
+    "FyxerがAIエグゼクティブアシスタントの信頼を築いた方法（公式発表）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Trump and Mike Johnson think the AI industry is overreacting",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "The Verge AI",
+          "title": "Trump and Mike Johnson think the AI industry is overreacting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-09-13T19:41:48.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Wired AI",
+          "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
+          "url": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
+          "domain": "wired.com",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-09-14T11:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "DevFest is back",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Google AI Blog",
+          "title": "DevFest is back",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+          "domain": "blog.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-14T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "How Fyxer built an AI executive assistant people trust",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "How Fyxer built an AI executive assistant people trust",
+          "url": "https://openai.com/index/fyxer",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-14T12:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+          "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-14T00:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "Appleが解決策を見つけた後、OpenAIはMuskの独占禁止法訴訟との戦いにとどまった",
+      "headlineOriginal": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "NVIDIAのジェンセン・フアン最高経営責任者（ CEO ）はトランプ氏に「（ AIの速度低下を）起こさせるつもりはない」と語った",
+      "headlineOriginal": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "中国外務省、AI開発「減速論」に反応 「恐怖をあおることや対立、悪性の競争は誰の利益にもならない」",
+      "headlineOriginal": "中国外務省、AI開発「減速論」に反応 「恐怖をあおることや対立、悪性の競争は誰の利益にもならない」",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001469/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "幹部や政治家がAI開発を遅らせると言っていること",
+      "headlineOriginal": "What execs and politicians are saying about slowing down AI development",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AIボット「ティミー」「レン」「ジャッキー」がソーシャルメディアをスロップであふれさせている",
+      "headlineOriginal": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "OpenAI、スマートフォンのカメラメーカーGlass Imagingを3億$で買収",
+      "headlineOriginal": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "ジェンセンフアンは、ロボットが世界を乗っ取らないことを発表するために、トランプをスピーカーフォンに置く",
+      "headlineOriginal": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "その.envのAPIキーが、AIエージェントを「内通者」に変える――“人間前提のやり方”は破綻した",
+      "headlineOriginal": "その.envのAPIキーが、AIエージェントを「内通者」に変える――“人間前提のやり方”は破綻した",
+      "source": "ITmedia AI+",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/16/news013.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 409,
+    "itemsInPool": 479,
+    "clusters": 403,
+    "verifiedTopics": 4,
+    "unverifiedTopics": 399,
+    "elapsedMs": 23756
+  }
+}
