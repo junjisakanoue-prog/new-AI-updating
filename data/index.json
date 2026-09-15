@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-09-16",
+      "title": "AI 最新まとめ 2026-09-16",
+      "threeLineSummary": [
+        "OpenAI、Anthropic、Googleは、AIの安全性について何週間も話し合ってきました",
+        "Big TechのAIの減速は安全協定なのか、それともカルテルなのか？",
+        "推論のボトルネックを回避： Retrieve - for - Trainで複雑なAI検索を加速"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-09-15T21:53:04.329Z"
+    },
+    {
       "date": "2026-09-15",
       "title": "AI 最新まとめ 2026-09-15",
       "threeLineSummary": [
@@ -639,5 +650,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-09-14T22:14:14.295Z"
+  "updatedAt": "2026-09-15T21:53:04.338Z"
 }
