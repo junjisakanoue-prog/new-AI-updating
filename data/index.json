@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-09-17",
+      "title": "AI 最新まとめ 2026-09-17",
+      "threeLineSummary": [
+        "Google、会話を止めずに裏でタスクを実行する音声モデル「Gemini 3.8 Live」公開 推論強化の上位版も",
+        "AIエージェントがGoogle Homeデバイスを制御できるようになりました",
+        "OpenAI、Anthropic、Googleは、AIの安全性について何週間も話し合ってきました"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-09-16T21:50:35.131Z"
+    },
+    {
       "date": "2026-09-16",
       "title": "AI 最新まとめ 2026-09-16",
       "threeLineSummary": [
@@ -650,5 +661,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-09-15T21:53:04.338Z"
+  "updatedAt": "2026-09-16T21:50:35.139Z"
 }
