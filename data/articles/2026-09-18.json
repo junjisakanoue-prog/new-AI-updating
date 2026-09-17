@@ -1,0 +1,317 @@
+{
+  "date": "2026-09-18",
+  "generatedAt": "2026-09-17T21:52:13.125Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-09-18",
+  "threeLineSummary": [
+    "モデルの不整合を報告するための当社のフレームワーク",
+    "マイクロソフトの幹部は、AIスクレイピングを「人類史上最大の労働窃盗」と呼んだ",
+    "Google DeepMind、AGIの影響を議論する「DeepMind Institute」設立 「AGIに近づいて…"
+  ],
+  "lead": "2026-09-18 時点で、複数ソースの裏取りが取れた AI 関連トピック 7 件をまとめた。",
+  "sections": [
+    {
+      "heading": "モデルの不整合を報告するための当社のフレームワーク",
+      "body": "OpenAIは、モデルの不一致を追跡、調査、開示するためのフレームワークと、予期しないまたは関連するモデルの行動に関する6つのレポートを共有しています。\n\n初出は OpenAI Blog [1]。Simon Willison [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 1
+    },
+    {
+      "heading": "マイクロソフトの幹部は、AIスクレイピングを「人類史上最大の労働窃盗」と呼んだ",
+      "body": "マイクロソフト、OpenAIの電子メールは、AIの「運命のループ」がニュース組織を殺すことへの恐怖を明らかにしている。\n\n初出は Ars Technica AI [1]。TechCrunch AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「API」は、自分のアプリやサービスからAIを呼び出して使うための接続口のことです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 2
+    },
+    {
+      "heading": "Google DeepMind、AGIの影響を議論する「DeepMind Institute」設立 「AGIに近づいている」",
+      "body": "Google DeepMindは、AGIが社会にもたらす恩恵やリスクを分野横断で議論するプラットフォーム「DeepMind Institute」を立ち上げた。デミス・ハサビス会長らが主導し、社内外の研究者によるエッセイを公開。政策や安全性、透明性などを巡り、社会全体での建設的な議論を促す場を目指す。\n\n初出は ITmedia AI+ [1]。GIGAZINE [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 3
+    },
+    {
+      "heading": "AIエージェントがGoogle Homeデバイスを制御できるようになりました",
+      "body": "Googleは、Google Home用の新しいMCPサーバーへの早期アクセスを開始し、Claude、ChatGPTなどのAIエージェントが接続されたデバイスを制御し、カメラの概要を確認し、自然言語を使用してスマートホームのアクティビティにアクセスできるようにします。\n\n初出は TechCrunch AI [1]。The Verge AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 4
+    },
+    {
+      "heading": "Astra for Lawのご紹介",
+      "body": "OpenAI for Lawは、法律のための最先端のインテリジェンス、カスタム企業のワークフロー、接続された法的データソース、機密のクライアント作業のための法的レベルのコントロールを提供します。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 5
+    },
+    {
+      "heading": "高齢者が日常生活でAIを使用するのを支援する",
+      "body": "OpenAIとAARPは、実用的なAIスキルを安全に構築するために、米国10都市の1,000人の高齢者に無料の実践的なChatGPTワークショップを提供しています。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIを使うときの値段や条件が変わる、という話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。普段使っているツールの請求や使える範囲に影響する可能性があります。",
+      "topic_index": 6
+    },
+    {
+      "heading": "AIによる広告の再考",
+      "body": "スポンサーエージェント、マーケティング担当者向けツール、HubSpotやShopifyとの統合など、OpenAIの新しいAI搭載広告エクスペリエンスをご覧ください。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 7
+    }
+  ],
+  "xPosts": [
+    "モデルの不整合を報告するための当社のフレームワーク（2ソースで確認）",
+    "マイクロソフトの幹部は、AIスクレイピングを「人類史上最大の労働窃盗」と呼んだ（2ソースで確認）",
+    "Google DeepMind、AGIの影響を議論する「DeepMind Institute」設立 「AGIに近づいている」（2ソースで確認）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Our framework for reporting model misalignment",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Our framework for reporting model misalignment",
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-16T17:00:00.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Simon Willison",
+          "title": "Self-generated prompt injections in compaction summaries",
+          "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
+          "domain": "simonwillison.net",
+          "tier": 2,
+          "kind": "blog",
+          "publishedAt": "2026-09-17T20:57:55.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Ars Technica AI",
+          "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
+          "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+          "domain": "arstechnica.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-09-17T20:10:41.000Z"
+        },
+        {
+          "n": 2,
+          "source": "TechCrunch AI",
+          "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-09-17T19:46:08.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "Google DeepMind、AGIの影響を議論する「DeepMind Institute」設立 「AGIに近づいている」",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "Google DeepMind、AGIの影響を議論する「DeepMind Institute」設立 「AGIに近づいている」",
+          "url": "https://www.itmedia.co.jp/news/article/2609/17/2000001573/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-09-17T02:38:20.000Z"
+        },
+        {
+          "n": 2,
+          "source": "GIGAZINE",
+          "title": "AGIの技術的・社会的課題を解決するための組織「DeepMind Institute」をGoogle DeepMindが設立",
+          "url": "https://gigazine.net/news/20260917-deepmind-institute/",
+          "domain": "gigazine.net",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-09-17T03:42:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "Your AI agents can now control your Google Home devices",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "Your AI agents can now control your Google Home devices",
+          "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-09-16T17:00:00.000Z"
+        },
+        {
+          "n": 2,
+          "source": "The Verge AI",
+          "title": "Google will now let any AI agent run your smart home",
+          "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-09-16T17:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "Introducing Astra for Law",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Introducing Astra for Law",
+          "url": "https://openai.com/index/astra-for-law",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-17T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "Helping older adults use AI in everyday life",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Helping older adults use AI in everyday life",
+          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-16T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "headline": "Reimagining advertising with AI",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Reimagining advertising with AI",
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-16T13:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "ファーウェイ、2027年第1四半期にNVIDIAに対応した新しいAIチップの発売を計画",
+      "headlineOriginal": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "不正なAIエージェントの修正は、より多くのAIになる可能性があります",
+      "headlineOriginal": "The fix for rogue AI agents could be more AI",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "OpenAIは、後継者に悪い行動を隠すためのメモを残すモデルをキャッチしました",
+      "headlineOriginal": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Google、家族向けの新しい実験的な「CC」AIエージェントを発表",
+      "headlineOriginal": "Google announces new experimental \"CC\" AI agent for families",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AIの安全性に関する議論は、安全性または制御に関するものですか？",
+      "headlineOriginal": "Is the AI safety debate about safety or control?",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "国連はAIエージェントのためにグローバルデータを準備するためにGoogleに目を向けます",
+      "headlineOriginal": "UN turns to Google to make its global data ready for AI agents",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AIスーパーインテリジェンスのスローダウン",
+      "headlineOriginal": "The AI Superintelligence Slowdown",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Claude Code、クラウドで複数のAIエージェントを管理するプロジェクトを再開",
+      "headlineOriginal": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 503,
+    "itemsInPool": 570,
+    "clusters": 491,
+    "verifiedTopics": 9,
+    "unverifiedTopics": 482,
+    "elapsedMs": 28749
+  }
+}

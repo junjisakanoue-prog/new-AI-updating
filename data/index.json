@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-09-18",
+      "title": "AI 最新まとめ 2026-09-18",
+      "threeLineSummary": [
+        "モデルの不整合を報告するための当社のフレームワーク",
+        "マイクロソフトの幹部は、AIスクレイピングを「人類史上最大の労働窃盗」と呼んだ",
+        "Google DeepMind、AGIの影響を議論する「DeepMind Institute」設立 「AGIに近づいて…"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-09-17T21:52:13.125Z"
+    },
+    {
       "date": "2026-09-17",
       "title": "AI 最新まとめ 2026-09-17",
       "threeLineSummary": [
@@ -661,5 +672,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-09-16T21:50:35.139Z"
+  "updatedAt": "2026-09-17T21:52:13.133Z"
 }
