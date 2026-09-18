@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-09-19",
+      "title": "AI 最新まとめ 2026-09-19",
+      "threeLineSummary": [
+        "セキュリティ研究者は、OpenAIへのハッキングを支援するためにClaudeを使用しました",
+        "Googleの新しい「CC」は、家族の世帯運営を支援するAIエージェントです",
+        "GoogleのAI & Economyチームに新しいエキスパートが加わりました"
+      ],
+      "topicCount": 3,
+      "generatedAt": "2026-09-18T21:23:00.017Z"
+    },
+    {
       "date": "2026-09-18",
       "title": "AI 最新まとめ 2026-09-18",
       "threeLineSummary": [
@@ -672,5 +683,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-09-17T21:52:13.133Z"
+  "updatedAt": "2026-09-18T21:23:00.023Z"
 }
