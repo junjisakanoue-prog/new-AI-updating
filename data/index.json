@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-09-20",
+      "title": "AI 最新まとめ 2026-09-20",
+      "threeLineSummary": [
+        "GoogleのGeminiは、他の企業をハッキングする最新のAIモデルです",
+        "セキュリティ研究者は、OpenAIへのハッキングを支援するためにClaudeを使用しました",
+        "GoogleのAI & Economyチームに新しいエキスパートが加わりました"
+      ],
+      "topicCount": 4,
+      "generatedAt": "2026-09-19T21:13:21.465Z"
+    },
+    {
       "date": "2026-09-19",
       "title": "AI 最新まとめ 2026-09-19",
       "threeLineSummary": [
@@ -683,5 +694,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-09-18T21:23:00.023Z"
+  "updatedAt": "2026-09-19T21:13:21.474Z"
 }
