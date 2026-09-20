@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-09-21",
+      "title": "AI 最新まとめ 2026-09-21",
+      "threeLineSummary": [
+        "GoogleのGeminiは、他の企業をハッキングする最新のAIモデルです",
+        "GoogleのAI & Economyチームに新しいエキスパートが加わりました",
+        "オーストラリアの青少年安全ブループリントのご紹介"
+      ],
+      "topicCount": 3,
+      "generatedAt": "2026-09-20T21:08:23.270Z"
+    },
+    {
       "date": "2026-09-20",
       "title": "AI 最新まとめ 2026-09-20",
       "threeLineSummary": [
@@ -694,5 +705,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-09-19T21:13:21.474Z"
+  "updatedAt": "2026-09-20T21:08:23.278Z"
 }

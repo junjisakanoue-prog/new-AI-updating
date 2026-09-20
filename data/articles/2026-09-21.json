@@ -1,0 +1,189 @@
+{
+  "date": "2026-09-21",
+  "generatedAt": "2026-09-20T21:08:23.270Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-09-21",
+  "threeLineSummary": [
+    "GoogleのGeminiは、他の企業をハッキングする最新のAIモデルです",
+    "GoogleのAI & Economyチームに新しいエキスパートが加わりました",
+    "オーストラリアの青少年安全ブループリントのご紹介"
+  ],
+  "lead": "2026-09-21 時点で、複数ソースの裏取りが取れた AI 関連トピック 3 件をまとめた。",
+  "sections": [
+    {
+      "heading": "GoogleのGeminiは、他の企業をハッキングする最新のAIモデルです",
+      "body": "Googleは、Geminiが各ハッキングを直ちに終了することで「適切に行動した」と述べた。\n\n初出は TechCrunch AI [1]。Simon Willison [2]、Hacker News (AI) [3] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 1
+    },
+    {
+      "heading": "GoogleのAI & Economyチームに新しいエキスパートが加わりました",
+      "body": "当社は、世界クラスのアカデミックアドバイザー、フェロー、中核的な社内研究者を擁し、AI ＆エコノミーチームを拡大しています。\n\n初出は Google AI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Google AI Blog）に基づく。",
+      "plain_explanation": "つまり、研究段階の成果で、すぐ製品になるとは限らない話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今すぐ影響はありませんが、今後の製品に反映されていく可能性があります。",
+      "topic_index": 2
+    },
+    {
+      "heading": "オーストラリアの青少年安全ブループリントのご紹介",
+      "body": "OpenAIは、若者を保護し、力を与えるより安全なAI体験のための6つの柱のロードマップであるオーストラリアの青少年安全ブループリントを紹介します。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 3
+    }
+  ],
+  "xPosts": [
+    "GoogleのGeminiは、他の企業をハッキングする最新のAIモデルです（2ソースで確認）",
+    "GoogleのAI & Economyチームに新しいエキスパートが加わりました（公式発表）",
+    "オーストラリアの青少年安全ブループリントのご紹介（公式発表）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Google’s Gemini is the latest AI model to hack other companies",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 1,
+      "sourceCount": 3,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "Google’s Gemini is the latest AI model to hack other companies",
+          "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-09-19T17:30:00.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Simon Willison",
+          "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+          "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+          "domain": "simonwillison.net",
+          "tier": 2,
+          "kind": "blog",
+          "publishedAt": "2026-09-18T23:57:57.000Z"
+        },
+        {
+          "n": 3,
+          "source": "Hacker News (AI)",
+          "title": "Gemini hacked three companies in first known breakout by Google's AI",
+          "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
+          "domain": "reuters.com",
+          "tier": 3,
+          "kind": "social",
+          "publishedAt": "2026-09-19T01:40:35.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "New experts join Google’s AI & Economy team",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Google AI Blog",
+          "title": "New experts join Google’s AI & Economy team",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+          "domain": "blog.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-18T14:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "Introducing the Australian Youth Safety Blueprint",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Introducing the Australian Youth Safety Blueprint",
+          "url": "https://openai.com/index/australian-youth-safety-blueprint",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-18T12:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "世界のモデル企業は多くの秘密を守っています",
+      "headlineOriginal": "World model companies are keeping a lot of secrets",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AI業界は本当に減速する準備ができていますか？",
+      "headlineOriginal": "Is the AI industry really ready to slow down?",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "NVIDIAのJensen Huang氏が、AIの恐怖が誇張されていると考えていることに誰も驚かない。",
+      "headlineOriginal": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "トランプ氏、「AIフォース」を結成したいと語る",
+      "headlineOriginal": "Trump now says he wants to form an ‘AI Force’",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "不正なAIではなく、人間が依然としてエネルギーシステムにとって最大のサイバーセキュリティリスクです",
+      "headlineOriginal": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "「Jev」とは “文章を書かないAI”がなぜ話題に？ 元OpenAI研究者が開発、「“スマートなif文”と考えてみて」",
+      "headlineOriginal": "「Jev」とは “文章を書かないAI”がなぜ話題に？ 元OpenAI研究者が開発、「“スマートなif文”と考えてみて」",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2609/20/2000001664/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AI人材を採用できない中小企業、専門家を「必要な時だけ」活用する支援サービス",
+      "headlineOriginal": "AI人材を採用できない中小企業、専門家を「必要な時だけ」活用する支援サービス",
+      "source": "ITmedia AI+",
+      "url": "https://kn.itmedia.co.jp/kn/article/2609/20/2000001626/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AIを入れても仕事は変わらない？ アビームとNotionが「企業ナレッジ」に注目する理由",
+      "headlineOriginal": "AIを入れても仕事は変わらない？ アビームとNotionが「企業ナレッジ」に注目する理由",
+      "source": "ITmedia AI+",
+      "url": "https://kn.itmedia.co.jp/kn/article/2609/20/2000001660/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 72,
+    "itemsCollected": 138,
+    "itemsInPool": 152,
+    "clusters": 128,
+    "verifiedTopics": 3,
+    "unverifiedTopics": 125,
+    "elapsedMs": 31611
+  }
+}
