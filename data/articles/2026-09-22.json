@@ -1,0 +1,270 @@
+{
+  "date": "2026-09-22",
+  "generatedAt": "2026-09-21T22:23:58.658Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-09-22",
+  "threeLineSummary": [
+    "MetaのAIエージェントがAmazon.comの使用をブロックされました",
+    "数学と人工知能に関する諮問グループ",
+    "Higgsfield AIがGPT -6 Astraで新しいビデオ機能を1日で出荷"
+  ],
+  "lead": "2026-09-22 時点で、複数ソースの裏取りが取れた AI 関連トピック 6 件をまとめた。",
+  "sections": [
+    {
+      "heading": "MetaのAIエージェントがAmazon.comの使用をブロックされました",
+      "body": "Amazonは、インターネット上で最も人気のある推論プラットフォームの1つとともに、独自の基礎モデルのコホートを持っています。彼らがミューズへの扉を開く法的義務を負っていない限り、なぜ彼らはそうするのでしょうか？\n\n初出は TechCrunch AI [1]。The Verge AI [2]、Hacker News (AI) [3] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。記事に出てくる「推論（インファレンス）」は、AIが実際に考えて答えを出す処理のこと。ここが速い・安いほど実用しやすくなります。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 1
+    },
+    {
+      "heading": "数学と人工知能に関する諮問グループ",
+      "body": "OpenAIは、独立した数学と人工知能に関する諮問グループと協力して、新しいAIの結果のレビューとコミュニケーションを指導しています。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 2
+    },
+    {
+      "heading": "Higgsfield AIがGPT -6 Astraで新しいビデオ機能を1日で出荷",
+      "body": "GPT -6 Astraにより、Higgsfield AIは中小企業のビデオ広告制作をより簡単にし、新しいクリエイティブツールをより迅速に市場に投入します。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 3
+    },
+    {
+      "heading": "AIの次の段階のための基準の構築",
+      "body": "OpenAIは、共有されたグローバルAI標準への道筋を概説し、安全性を向上させるための調整された評価、報告、ガバナンスを求めています。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 4
+    },
+    {
+      "heading": "新しい学習パスでOpenAIアカデミーを拡大",
+      "body": "従業員、開発者、リーダー、教育者、学生向けの新しいOpenAIアカデミーの学習パスを探索して、実用的なAIスキルを構築し、実証します。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 5
+    },
+    {
+      "heading": "V 7がAIエージェントに機関メモリを提供する方法",
+      "body": "GPT-5.6を使用すると、V 7は分散した会社のファイルをコンテキストエージェントに変換し、複雑でソースにリンクされた作業を完了できます。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。記事に出てくる「コンテキストウィンドウ」は、AIが一度に読み込んで覚えていられる文章の量。大きいほど長い資料を丸ごと渡せます。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 6
+    }
+  ],
+  "xPosts": [
+    "MetaのAIエージェントがAmazon.comの使用をブロックされました（2ソースで確認）",
+    "数学と人工知能に関する諮問グループ（公式発表）",
+    "Higgsfield AIがGPT -6 Astraで新しいビデオ機能を1日で出荷（公式発表）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Meta’s AI agent has been blocked from using Amazon.com",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 1,
+      "sourceCount": 3,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "Meta’s AI agent has been blocked from using Amazon.com",
+          "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-09-21T17:55:18.000Z"
+        },
+        {
+          "n": 2,
+          "source": "The Verge AI",
+          "title": "Amazon blocks Meta’s Muse AI agent",
+          "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-09-21T09:21:47.000Z"
+        },
+        {
+          "n": 3,
+          "source": "Hacker News (AI)",
+          "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+          "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
+          "domain": "forbes.com",
+          "tier": 3,
+          "kind": "social",
+          "publishedAt": "2026-09-21T17:00:23.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Advisory Group on Mathematics and Artificial Intelligence",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Advisory Group on Mathematics and Artificial Intelligence",
+          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-21T12:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+          "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-21T12:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "Building standards for the next phase of AI",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Building standards for the next phase of AI",
+          "url": "https://openai.com/index/building-standards-next-phase-ai",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-21T10:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "Expanding OpenAI Academy with new learning paths",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Expanding OpenAI Academy with new learning paths",
+          "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-21T07:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "How V7 gives AI agents institutional memory",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "How V7 gives AI agents institutional memory",
+          "url": "https://openai.com/index/v7",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-21T00:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "カリフォルニア州、AIデータセンターのエネルギーと水の使用に関する規制を強化",
+      "headlineOriginal": "California tightens rules on AI data center energy and water use",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "OpenAIは、AIが100以上の未解決の問題を解決するため、数学アドバイザリーグループを結成",
+      "headlineOriginal": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "MetaのMuseは、ChatGPTの初期のモバイルローンチを上回っています",
+      "headlineOriginal": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Google、ジェミニモデルが2026年5月に3社をハッキングしたことを確認",
+      "headlineOriginal": "Google confirms Gemini models hacked three companies in May 2026",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Tabbyでは、元会計士がAIを使用して会計士を時代遅れにしています",
+      "headlineOriginal": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "トランプ大統領はAIの減速要請を拒否し、代わりに「AI Force」を立ち上げる",
+      "headlineOriginal": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "次のブレイクアウトスタートアップはどこから来ますか？ベンチマークの完全なパートナーシップがTechCrunch Disrupt 2026に加わる",
+      "headlineOriginal": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Googleの$ 899 Googlebookは、Gemini用の新しいノートパソコンを購入することを賭けています",
+      "headlineOriginal": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 353,
+    "itemsInPool": 417,
+    "clusters": 344,
+    "verifiedTopics": 6,
+    "unverifiedTopics": 338,
+    "elapsedMs": 42878
+  }
+}

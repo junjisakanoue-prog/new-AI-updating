@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-09-22",
+      "title": "AI 最新まとめ 2026-09-22",
+      "threeLineSummary": [
+        "MetaのAIエージェントがAmazon.comの使用をブロックされました",
+        "数学と人工知能に関する諮問グループ",
+        "Higgsfield AIがGPT -6 Astraで新しいビデオ機能を1日で出荷"
+      ],
+      "topicCount": 6,
+      "generatedAt": "2026-09-21T22:23:58.658Z"
+    },
+    {
       "date": "2026-09-21",
       "title": "AI 最新まとめ 2026-09-21",
       "threeLineSummary": [
@@ -705,5 +716,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-09-20T21:08:23.278Z"
+  "updatedAt": "2026-09-21T22:23:58.666Z"
 }
