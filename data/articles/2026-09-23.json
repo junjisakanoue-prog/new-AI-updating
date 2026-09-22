@@ -1,0 +1,287 @@
+{
+  "date": "2026-09-23",
+  "generatedAt": "2026-09-22T21:44:56.088Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-09-23",
+  "threeLineSummary": [
+    "GPT -6 SolとLunaのご紹介",
+    "GPT -6のより良いプロンプトキャッシング",
+    "効果的な第三者評価の優先順位と原則"
+  ],
+  "lead": "2026-09-23 時点で、複数ソースの裏取りが取れた AI 関連トピック 7 件をまとめた。",
+  "sections": [
+    {
+      "heading": "GPT -6 SolとLunaのご紹介",
+      "body": "GPT -6 SolとLunaの2つのモデルは、機能とコストのバランスが異なり、日々の仕事にフロンティアインテリジェンスをもたらします。\n\n初出は OpenAI Blog [1]。TechCrunch AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 1
+    },
+    {
+      "heading": "GPT -6のより良いプロンプトキャッシング",
+      "body": "GPT -6が、より高いキャッシュヒット率、新しい診断、明示的なブレークポイント、およびレイテンシとコストを削減するコントロールを使用して、プロンプトキャッシュを改善する方法について説明します。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIを使うときの値段や条件が変わる、という話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。普段使っているツールの請求や使える範囲に影響する可能性があります。",
+      "topic_index": 2
+    },
+    {
+      "heading": "効果的な第三者評価の優先順位と原則",
+      "body": "OpenAIは、フロンティアモデルとセーフガードの厳格で安全で独立したサードパーティのAI安全性評価の優先順位と原則を概説しています。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 3
+    },
+    {
+      "heading": "UK AISIとEvalEvalがベンチマーク結果を再現可能にする方法",
+      "body": "UK AISIとEvalEvalがベンチマーク結果を再現可能にする方法\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。記事に出てくる「ベンチマーク」は、AIの性能を測るための共通テスト。学力テストの偏差値のようなものです。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 4
+    },
+    {
+      "heading": "トランスフォーマーがllama.cpp quantsを実行するようになりました",
+      "body": "トランスフォーマーがllama.cpp quantsを実行するようになりました\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 5
+    },
+    {
+      "heading": "OMLXのクリエイター兼メンテナーであるJun KimがHugging Faceに参加し、MLXコミュニティをサポート",
+      "body": "OMLXのクリエイター兼メンテナーであるJun KimがHugging Faceに参加し、MLXコミュニティをサポート\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 6
+    },
+    {
+      "heading": "数学と人工知能に関する諮問グループ",
+      "body": "OpenAIは、独立した数学と人工知能に関する諮問グループと協力して、新しいAIの結果のレビューとコミュニケーションを指導しています。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 7
+    }
+  ],
+  "xPosts": [
+    "GPT -6 SolとLunaのご紹介（2ソースで確認）",
+    "GPT -6のより良いプロンプトキャッシング（公式発表）",
+    "効果的な第三者評価の優先順位と原則（公式発表）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Introducing GPT-6 Sol and Luna",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Introducing GPT-6 Sol and Luna",
+          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-22T18:00:00.000Z"
+        },
+        {
+          "n": 2,
+          "source": "TechCrunch AI",
+          "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+          "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-09-22T18:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Better prompt caching for GPT-6",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Better prompt caching for GPT-6",
+          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-22T21:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "Priorities and principles for effective third party assessments",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Priorities and principles for effective third party assessments",
+          "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-22T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+          "url": "https://huggingface.co/blog/evaleval-aisi",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-22T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "Transformers now runs llama.cpp quants",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "Transformers now runs llama.cpp quants",
+          "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-22T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+          "url": "https://huggingface.co/blog/omlx",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-22T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "headline": "Advisory Group on Mathematics and Artificial Intelligence",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Advisory Group on Mathematics and Artificial Intelligence",
+          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-21T12:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "新しいAnthropic、OpenAIモデルは同じ約束をします：より少ないお金でもう少し",
+      "headlineOriginal": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "ウサギの新しいAIエージェントは、R 1を実行する必要はありません",
+      "headlineOriginal": "Rabbit’s new AI agent doesn’t need an R1 to run",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "クアルコム、AIに重点を置いた2つの新しいスマートフォンチップを発売",
+      "headlineOriginal": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "マイクロソフト、12,000のアカウントを侵害したAI支援プラットフォームを破壊",
+      "headlineOriginal": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "訴訟は、撮影で使用されたChatGPTの後、OpenAIが新しい学校の代金を支払うことを要求しています",
+      "headlineOriginal": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "MuseがOpenClawに似ているのは偶然ではないことをMetaは認めている",
+      "headlineOriginal": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "MetaのAIエージェントがAmazon.comの使用をブロックされました",
+      "headlineOriginal": "Meta’s AI agent has been blocked from using Amazon.com",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Andreessen Horowitzは、宿題なしで、Palantir、Google、Metaと提携する「アカデミー」を立ち上げます",
+      "headlineOriginal": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 634,
+    "itemsInPool": 677,
+    "clusters": 622,
+    "verifiedTopics": 9,
+    "unverifiedTopics": 613,
+    "elapsedMs": 25773
+  }
+}
