@@ -1,0 +1,317 @@
+{
+  "date": "2026-09-24",
+  "generatedAt": "2026-09-23T21:57:21.137Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-09-24",
+  "threeLineSummary": [
+    "OpenAI、「GPT-6 Sol」と「GPT-6 Luna」公開 API料金は前世代の半額に",
+    "Anthropic、「Claude Opus 5.5」公開 Fable 5.1並みの性能で利用コスト4割減",
+    "GPT -6 SolとLunaのご紹介"
+  ],
+  "lead": "2026-09-24 時点で、複数ソースの裏取りが取れた AI 関連トピック 7 件をまとめた。",
+  "sections": [
+    {
+      "heading": "OpenAI、「GPT-6 Sol」と「GPT-6 Luna」公開 API料金は前世代の半額に",
+      "body": "OpenAIは新モデル「GPT-6 Sol」と「GPT-6 Luna」を公開した。最上位のAstraと同様の手法で訓練し、前世代からAPI料金を半額に引き下げた。ChatGPTやCodexで順次提供する。アライメント改善が進む一方、思考過程で評価を察知する兆候が増加するなど監視上の課題も残る。\n\n初出は ITmedia AI+ [1]。GIGAZINE [2]、Simon Willison [3] でも同内容が報じられている。",
+      "why_it_matters": "独立した 3 ソースで確認済み（確度: 高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「API」は、自分のアプリやサービスからAIを呼び出して使うための接続口のことです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 1
+    },
+    {
+      "heading": "Anthropic、「Claude Opus 5.5」公開 Fable 5.1並みの性能で利用コスト4割減",
+      "body": "Anthropicは「Claude Opus 5.5」を発表した。多くの作業で「Fable 5.1」並みの性能を持ち、利用コストは「Opus 5」より約40％低い。Pro以上の有料プランとAPIで即日提供を始めた。アモデイCEOの「ペース調整」エッセイ後初のモデルで、METRなど外部機関による事前評価を経て、Fable 5.1と同等クラスのセーフガードを適用した。\n\n初出は ITmedia AI+ [1]。Simon Willison [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「API」は、自分のアプリやサービスからAIを呼び出して使うための接続口のことです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 2
+    },
+    {
+      "heading": "GPT -6 SolとLunaのご紹介",
+      "body": "GPT -6 SolとLunaの2つのモデルは、機能とコストのバランスが異なり、日々の仕事にフロンティアインテリジェンスをもたらします。\n\n初出は OpenAI Blog [1]。TechCrunch AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 3
+    },
+    {
+      "heading": "NVIDIA WarpとMjWarpを使用してロボットシミュレーションと学習ワークフローを加速する方法",
+      "body": "NVIDIA WarpとMjWarpを使用してロボットシミュレーションと学習ワークフローを加速する方法\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。記事に出てくる「GPU」は、AIの計算に使う高性能な半導体。AI開発ではこれの確保がコストと速度を左右します。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 4
+    },
+    {
+      "heading": "安全なサーバー側メモリを備えたプライベートAIコンピューティングの進化",
+      "body": "パーソナルAIのためのプライベートAIコンピューティングに、サーバー側のプライベートメモリを導入します。\n\n初出は DeepMind Blog [1]。",
+      "why_it_matters": "開発元の公式発表（DeepMind Blog）に基づく。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 5
+    },
+    {
+      "heading": "OpenAIアカデミーの2年間",
+      "body": "OpenAIアカデミーの2年目を迎え、AIスキルをさらに多くのコミュニティにもたらしました。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 6
+    },
+    {
+      "heading": "Gemini 3.8のテキスト読み上げ機能が挨拶",
+      "body": "Gemini 3.8のテキスト読み上げ機能が挨拶\n\n初出は DeepMind Blog [1]。",
+      "why_it_matters": "開発元の公式発表（DeepMind Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 7
+    }
+  ],
+  "xPosts": [
+    "OpenAI、「GPT-6 Sol」と「GPT-6 Luna」公開 API料金は前世代の半額に（3ソースで確認）",
+    "Anthropic、「Claude Opus 5.5」公開 Fable 5.1並みの性能で利用コスト4割減（2ソースで確認）",
+    "GPT -6 SolとLunaのご紹介（2ソースで確認）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "OpenAI、「GPT-6 Sol」と「GPT-6 Luna」公開 API料金は前世代の半額に",
+      "confidence": "high",
+      "domainCount": 3,
+      "socialCount": 0,
+      "sourceCount": 3,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "OpenAI、「GPT-6 Sol」と「GPT-6 Luna」公開 API料金は前世代の半額に",
+          "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001674/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-09-23T00:12:02.000Z"
+        },
+        {
+          "n": 2,
+          "source": "GIGAZINE",
+          "title": "「GPT-6 Sol」と「GPT-6 Luna」が登場、API料金は前世代の半額でコスト効率が大幅に向上",
+          "url": "https://gigazine.net/news/20260923-gpt-6-sol-luna/",
+          "domain": "gigazine.net",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-09-23T06:30:00.000Z"
+        },
+        {
+          "n": 3,
+          "source": "Simon Willison",
+          "title": "llm 0.36",
+          "url": "https://simonwillison.net/2026/Sep/22/llm/",
+          "domain": "simonwillison.net",
+          "tier": 2,
+          "kind": "blog",
+          "publishedAt": "2026-09-22T18:48:37.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Anthropic、「Claude Opus 5.5」公開 Fable 5.1並みの性能で利用コスト4割減",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "Anthropic、「Claude Opus 5.5」公開 Fable 5.1並みの性能で利用コスト4割減",
+          "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001673/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-09-22T21:57:43.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Simon Willison",
+          "title": "llm-anthropic 0.29",
+          "url": "https://simonwillison.net/2026/Sep/22/llm-anthropic/",
+          "domain": "simonwillison.net",
+          "tier": 2,
+          "kind": "blog",
+          "publishedAt": "2026-09-22T17:14:55.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "Introducing GPT-6 Sol and Luna",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Introducing GPT-6 Sol and Luna",
+          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-22T18:00:00.000Z"
+        },
+        {
+          "n": 2,
+          "source": "TechCrunch AI",
+          "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+          "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-09-22T18:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-23T18:41:40.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "Advancing Private AI Compute with secure, server-side memory",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "DeepMind Blog",
+          "title": "Advancing Private AI Compute with secure, server-side memory",
+          "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+          "domain": "deepmind.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-23T16:00:57.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "Two years of OpenAI Academy",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Two years of OpenAI Academy",
+          "url": "https://openai.com/index/two-years-of-openai-academy",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-23T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "headline": "Gemini 3.8 text-to-speech says hello",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "DeepMind Blog",
+          "title": "Gemini 3.8 text-to-speech says hello",
+          "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+          "domain": "deepmind.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-23T15:25:14.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "専門家によると、トランプ氏の中国とのライバル関係と「AIレース」の妄想は米国を危険にさらす可能性がある",
+      "headlineOriginal": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "YouTubeは、今年後半にカスタムフィードとより多くのAIを約束します",
+      "headlineOriginal": "YouTube promises custom feeds and a lot more AI later this year",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Envedaは、より多くの自然由来のAI薬を臨床試験に導入するために3億1100万$を確保",
+      "headlineOriginal": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "MetaのAIエージェントは、私のお金を使うのに優れたかわいい小さな男です",
+      "headlineOriginal": "Meta’s AI agent is a cute little guy who’s great at spending my money",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "データセンターはブラックボックスですが、カリフォルニア州はそれを変えたいと考えています",
+      "headlineOriginal": "Data centers are black boxes, but California wants to change that",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Anthropicのバイオラボは、CRISPRと比較して発見しました",
+      "headlineOriginal": "Anthropic’s biolab made a discovery it’s comparing to Crispr",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "毎日AIを使っているアメリカ人でさえ、それを心配している",
+      "headlineOriginal": "Even Americans who use AI every day are worried about it",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "ジェミニ3.8 TTSプレイグラウンド",
+      "headlineOriginal": "Gemini 3.8 TTS Playground",
+      "source": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 539,
+    "itemsInPool": 602,
+    "clusters": 529,
+    "verifiedTopics": 17,
+    "unverifiedTopics": 512,
+    "elapsedMs": 28000
+  }
+}
