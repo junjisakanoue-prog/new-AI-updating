@@ -1,0 +1,347 @@
+{
+  "date": "2026-09-25",
+  "generatedAt": "2026-09-24T21:55:18.963Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-09-25",
+  "threeLineSummary": [
+    "Gemini 3.8 Live with Live Avatarは、GoogleのAIに顔を与えます",
+    "オーストラリア、OpenAIによる政府の医療ウェブサイトのハッキングが法律に違反しているかどうかを調査",
+    "ゼロから声を作れる音声生成モデル「Gemini 3.8 Flash TTS」公開 「Gemini Notebook」で…"
+  ],
+  "lead": "2026-09-25 時点で、複数ソースの裏取りが取れた AI 関連トピック 7 件をまとめた。",
+  "sections": [
+    {
+      "heading": "Gemini 3.8 Live with Live Avatarは、GoogleのAIに顔を与えます",
+      "body": "Googleの新しいGemini 3.8ライブアップデートにより、ユーザーはアニメーションAIペルソナがリアルタイムで応答するのを見ながらモデルと会話することができます。「ライブアバター」は会話中にリップシンクし、さまざまな表情を表示しますが、現在はGemini Enterpriseの顧客のみが利用できます。Googleが指摘したように、ライブアバターは97 […]\n\n初出は The Verge AI [1]。DeepMind Blog [2]、TechCrunch AI [4]、Wired AI [5] でも同内容が報じられている。",
+      "why_it_matters": "独立した 4 ソースで確認済み（確度: 高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 1
+    },
+    {
+      "heading": "オーストラリア、OpenAIによる政府の医療ウェブサイトのハッキングが法律に違反しているかどうかを調査",
+      "body": "この事件は、政府機関に影響を及ぼした最初の既知の違反であり、オーストラリアの首相はOpenAIに責任を負わせることを誓った。\n\n初出は TechCrunch AI [1]。Wired AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 2
+    },
+    {
+      "heading": "ゼロから声を作れる音声生成モデル「Gemini 3.8 Flash TTS」公開 「Gemini Notebook」でも利用可能に",
+      "body": "Googleは、テキストから音声を生成する「Gemini 3.8 Flash TTS」とその軽量版を公開した。従来の選択式から進化し、自然言語による声のゼロからの生成や演技・感情の細かな制御に対応する。日本語を含む多言語をサポートし、透かし技術「SynthID」も埋め込む。開発者向けAPIや各種サービスで順次提供する。\n\n初出は ITmedia AI+ [1]。GIGAZINE [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「API」は、自分のアプリやサービスからAIを呼び出して使うための接続口のことです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 3
+    },
+    {
+      "heading": "MetaのザッカーバーグCEO、「ワンモアシング」としてたまごっちのような「Muse Charm」披露",
+      "body": "Metaは年次イベント「Meta Connect 2026」で、AIエージェントを持ち歩ける小型ガジェット「Muse Charm」をサプライズ発表した。指紋センサーのタップで音声会話を開始できるポケットサイズ端末で、12月の出荷を目指して開発中。日本の公式サイトでは現時点で利用不可と案内されている。\n\n初出は ITmedia AI+ [1]。GIGAZINE [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 4
+    },
+    {
+      "heading": "コヒーレントな長編ビデオ生成の自動化",
+      "body": "生成AI\n\n初出は Google Research [1]。",
+      "why_it_matters": "開発元の公式発表（Google Research）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 5
+    },
+    {
+      "heading": "NVIDIA WarpとMjWarpを使用してロボットシミュレーションと学習ワークフローを加速する方法",
+      "body": "NVIDIA WarpとMjWarpを使用してロボットシミュレーションと学習ワークフローを加速する方法\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。記事に出てくる「GPU」は、AIの計算に使う高性能な半導体。AI開発ではこれの確保がコストと速度を左右します。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 6
+    },
+    {
+      "heading": "安全なサーバー側メモリを備えたプライベートAIコンピューティングの進化",
+      "body": "パーソナルAIのためのプライベートAIコンピューティングに、サーバー側のプライベートメモリを導入します。\n\n初出は DeepMind Blog [1]。",
+      "why_it_matters": "開発元の公式発表（DeepMind Blog）に基づく。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 7
+    }
+  ],
+  "xPosts": [
+    "Gemini 3.8 Live with Live Avatarは、GoogleのAIに顔を与えます（4ソースで確認）",
+    "オーストラリア、OpenAIによる政府の医療ウェブサイトのハッキングが法律に違反しているかどうかを調査（2ソースで確認）",
+    "ゼロから声を作れる音声生成モデル「Gemini 3.8 Flash TTS」公開 「Gemini Notebook」でも利用可能に（2ソースで確認）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+      "confidence": "high",
+      "domainCount": 4,
+      "socialCount": 0,
+      "sourceCount": 5,
+      "sources": [
+        {
+          "n": 1,
+          "source": "The Verge AI",
+          "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+          "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-09-24T19:59:26.000Z"
+        },
+        {
+          "n": 2,
+          "source": "DeepMind Blog",
+          "title": "Introducing Gemini 3.8 Live with Live Avatar",
+          "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+          "domain": "deepmind.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-24T16:20:39.000Z"
+        },
+        {
+          "n": 3,
+          "source": "The Verge AI",
+          "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-09-24T16:04:31.000Z"
+        },
+        {
+          "n": 4,
+          "source": "TechCrunch AI",
+          "title": "Google tests letting Gemini call businesses for you",
+          "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-09-24T16:00:00.000Z"
+        },
+        {
+          "n": 5,
+          "source": "Wired AI",
+          "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
+          "url": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
+          "domain": "wired.com",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-09-24T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Australia to investigate if OpenAI hack of government health website broke the law",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "Australia to investigate if OpenAI hack of government health website broke the law",
+          "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-09-24T12:54:19.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Wired AI",
+          "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
+          "url": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
+          "domain": "wired.com",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-09-24T10:46:56.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "ゼロから声を作れる音声生成モデル「Gemini 3.8 Flash TTS」公開 「Gemini Notebook」でも利用可能に",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "ゼロから声を作れる音声生成モデル「Gemini 3.8 Flash TTS」公開 「Gemini Notebook」でも利用可能に",
+          "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001703/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-09-24T07:46:40.000Z"
+        },
+        {
+          "n": 2,
+          "source": "GIGAZINE",
+          "title": "Googleが音声合成AI「Gemini 3.8 Flash TTS」と「Gemini 3.8 Flash-Lite TTS」をリリース",
+          "url": "https://gigazine.net/news/20260924-gemini-3-8-flash-tts/",
+          "domain": "gigazine.net",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-09-24T03:12:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "MetaのザッカーバーグCEO、「ワンモアシング」としてたまごっちのような「Muse Charm」披露",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "MetaのザッカーバーグCEO、「ワンモアシング」としてたまごっちのような「Muse Charm」披露",
+          "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001688/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-09-24T02:37:24.000Z"
+        },
+        {
+          "n": 2,
+          "source": "GIGAZINE",
+          "title": "Metaが手のひらサイズのたまごっちっぽいAIデバイス「Muse Charm」発表、Museがローカル動作・約2インチのOLEDスクリーンやカメラを搭載で2026年末までに発売予定",
+          "url": "https://gigazine.net/news/20260924-meta-muse-charm/",
+          "domain": "gigazine.net",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-09-24T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "Automating coherent long-form video generation",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Google Research",
+          "title": "Automating coherent long-form video generation",
+          "url": "https://research.google/blog/coherent-long-form-video-generation/",
+          "domain": "research.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-24T19:40:29.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-23T18:41:40.000Z"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "headline": "Advancing Private AI Compute with secure, server-side memory",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "DeepMind Blog",
+          "title": "Advancing Private AI Compute with secure, server-side memory",
+          "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+          "domain": "deepmind.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-23T16:00:57.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "AIと人の共創で進化する「G-SHOCK」 デザイナーが語る製品化の舞台裏",
+      "headlineOriginal": "AIと人の共創で進化する「G-SHOCK」 デザイナーが語る製品化の舞台裏",
+      "source": "ITmedia AI+",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2609/25/news009.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "PrismMLは、クアルコム駆動のスマートグラスにその小さなLLMをもたらします",
+      "headlineOriginal": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Jensen HuangがスーパーヴィランのようにAIと気候変動について語る",
+      "headlineOriginal": "Jensen Huang talks about AI and climate change like a supervillain",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Metaを使用すると、スマートフォンでAIを使用してゲームを構築できます",
+      "headlineOriginal": "Meta is going to let you build games with AI right on your phone",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "MetaのMuse CharmはTamagotchiのように見えますが、はるかに新しいトレンドに乗り出しています",
+      "headlineOriginal": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Museは確かにOpenClawによく似ています",
+      "headlineOriginal": "Muse sure looks a lot like OpenClaw",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Googleフォトの「Clueless」にインスパイアされたバーチャルクローゼットがAndroidとiOSで利用できるようになりました",
+      "headlineOriginal": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "メタのMuse AIマスコットが可愛いのは不吉",
+      "headlineOriginal": "It’s sinister that Meta’s Muse AI mascot is so cute",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 595,
+    "itemsInPool": 661,
+    "clusters": 582,
+    "verifiedTopics": 15,
+    "unverifiedTopics": 567,
+    "elapsedMs": 22892
+  }
+}
