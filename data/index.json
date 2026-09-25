@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-09-26",
+      "title": "AI 最新まとめ 2026-09-26",
+      "threeLineSummary": [
+        "Google、リアルタイムで表情豊かに話すAIアバター「Gemini 3.8 Live with Live Avata…",
+        "Gemini 3.8 Live with Live Avatarのご紹介",
+        "ProactionはCodexで売上を60%増やし、75時間以上を節約"
+      ],
+      "topicCount": 4,
+      "generatedAt": "2026-09-25T21:56:11.535Z"
+    },
+    {
       "date": "2026-09-25",
       "title": "AI 最新まとめ 2026-09-25",
       "threeLineSummary": [
@@ -749,5 +760,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-09-24T21:55:18.972Z"
+  "updatedAt": "2026-09-25T21:56:11.544Z"
 }
