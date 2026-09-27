@@ -1,0 +1,243 @@
+{
+  "date": "2026-09-28",
+  "generatedAt": "2026-09-27T21:48:51.279Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-09-28",
+  "threeLineSummary": [
+    "マイクロソフトは、「Copilot + PC」が必要だと主張するのをやめます",
+    "Google、リアルタイムで表情豊かに話すAIアバター「Gemini 3.8 Live with Live Avata…",
+    "ProactionはCodexで売上を60%増やし、75時間以上を節約"
+  ],
+  "lead": "2026-09-28 時点で、複数ソースの裏取りが取れた AI 関連トピック 5 件をまとめた。",
+  "sections": [
+    {
+      "heading": "マイクロソフトは、「Copilot + PC」が必要だと主張するのをやめます",
+      "body": "マイクロソフトの新しいSurfaceノートパソコンは、Copilot + PCのブランディングを廃止しました。\n\n初出は Ars Technica AI [1]。Publickey [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 1
+    },
+    {
+      "heading": "Google、リアルタイムで表情豊かに話すAIアバター「Gemini 3.8 Live with Live Avatar」提供開始 画像1枚で独自アバターも",
+      "body": "Googleは、リアルタイム音声対話と動画生成アバターを組み合わせた「Gemini 3.8 Live with Live Avatar」をGemini Enterpriseで提供を開始した。写真1枚から自然に応答するアバターを生成し、多言語や非同期ツール実行に対応。顧客対応や店頭端末などの商用展開を見込む。\n\n初出は ITmedia AI+ [1]。The Verge AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「拡散モデル（画像生成）」は、ノイズから少しずつ絵を描き起こしていく仕組みで、画像や動画を生成するAIの主流方式です。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 2
+    },
+    {
+      "heading": "ProactionはCodexで売上を60%増やし、75時間以上を節約",
+      "body": "Codex、GPT - Live -1、GPT -6 Astraにより、Proactionは最新のフリート管理をより迅速に構築、運用、販売します。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 3
+    },
+    {
+      "heading": "コヒーレントな長編ビデオ生成の自動化",
+      "body": "生成AI\n\n初出は Google Research [1]。",
+      "why_it_matters": "開発元の公式発表（Google Research）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 4
+    },
+    {
+      "heading": "Gemini 3.8 Live with Live Avatarのご紹介",
+      "body": "Gemini 3.8 Live with Live Avatarのご紹介\n\n初出は DeepMind Blog [1]。",
+      "why_it_matters": "開発元の公式発表（DeepMind Blog）に基づく。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 5
+    }
+  ],
+  "xPosts": [
+    "マイクロソフトは、「Copilot + PC」が必要だと主張するのをやめます（2ソースで確認）",
+    "Google、リアルタイムで表情豊かに話すAIアバター「Gemini 3.8 Live with Live Avatar」提供開始 画像1枚で独自アバターも（2ソースで確認）",
+    "ProactionはCodexで売上を60%増やし、75時間以上を節約（公式発表）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Ars Technica AI",
+          "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+          "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+          "domain": "arstechnica.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-09-25T17:57:37.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Publickey",
+          "title": "マイクロソフト、企業内アプリの実行基盤「Copilot Managed Runtime」プレビュー公開。Microsoft 365と同じテナント内でコード実行、管理者による集中管理も",
+          "url": "https://www.publickey1.jp/blog/26/copilot_managed_runtimemicrosoft_365.html",
+          "domain": "publickey1.jp",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-09-27T15:59:50.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Google、リアルタイムで表情豊かに話すAIアバター「Gemini 3.8 Live with Live Avatar」提供開始 画像1枚で独自アバターも",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "Google、リアルタイムで表情豊かに話すAIアバター「Gemini 3.8 Live with Live Avatar」提供開始 画像1枚で独自アバターも",
+          "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001730/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-09-25T00:10:33.000Z"
+        },
+        {
+          "n": 2,
+          "source": "The Verge AI",
+          "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+          "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-09-24T19:59:26.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+          "url": "https://openai.com/index/proaction",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-25T19:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "Automating coherent long-form video generation",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Google Research",
+          "title": "Automating coherent long-form video generation",
+          "url": "https://research.google/blog/coherent-long-form-video-generation/",
+          "domain": "research.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-24T19:40:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "Introducing Gemini 3.8 Live with Live Avatar",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "DeepMind Blog",
+          "title": "Introducing Gemini 3.8 Live with Live Avatar",
+          "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+          "domain": "deepmind.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-24T16:20:39.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "MuseはMetaの信頼の問題を克服できますか？",
+      "headlineOriginal": "Can Muse overcome Meta’s trust issues?",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "ファナックがAI溶接エージェント実演 ロボット制御装置が安全PLCに",
+      "headlineOriginal": "ファナックがAI溶接エージェント実演 ロボット制御装置が安全PLCに",
+      "source": "ITmedia AI+",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2609/28/news038.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Engramは、壊れたAIの幻覚を音楽に変換するサンプラーです",
+      "headlineOriginal": "Engram is a sampler that turns broken AI hallucinations into music",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AnthropicのCEOがトランプ大統領と夕食を共にしようとしている",
+      "headlineOriginal": "Anthropic’s CEO is about to have dinner with President Trump",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "OpenAIエージェントが国連のウェブサイトを「ブルートフォース」しようとした",
+      "headlineOriginal": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AnthropicのDario AmodeiがSNL治療を受ける",
+      "headlineOriginal": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Google、インドでウォルマートが所有するFlipkartからGeminiとAI Modeを通じた購入をテスト",
+      "headlineOriginal": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "NTTドコモ、「正しく質問させる」をやめ、“聞き返すAI”で変える顧客対応",
+      "headlineOriginal": "NTTドコモ、「正しく質問させる」をやめ、“聞き返すAI”で変える顧客対応",
+      "source": "ITmedia AI+",
+      "url": "https://kn.itmedia.co.jp/kn/article/2609/27/2000001764/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 96,
+    "itemsCollected": 144,
+    "itemsInPool": 144,
+    "clusters": 137,
+    "verifiedTopics": 5,
+    "unverifiedTopics": 132,
+    "elapsedMs": 46014
+  }
+}
