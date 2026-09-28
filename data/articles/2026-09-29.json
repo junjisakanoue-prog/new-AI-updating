@@ -1,0 +1,206 @@
+{
+  "date": "2026-09-29",
+  "generatedAt": "2026-09-28T23:37:06.054Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-09-29",
+  "threeLineSummary": [
+    "Anthropic、「Claude Sonnet 5.5」公開 料金据え置きで30％以上高速化、タスク当たりコスト最大…",
+    "こんにちは、ドイツ！",
+    "Lenfest Instituteは、OpenAIのサポートを拡大して、画期的なプログラムを成長させます"
+  ],
+  "lead": "2026-09-29 時点で、複数ソースの裏取りが取れた AI 関連トピック 4 件をまとめた。",
+  "sections": [
+    {
+      "heading": "Anthropic、「Claude Sonnet 5.5」公開 料金据え置きで30％以上高速化、タスク当たりコスト最大3割減",
+      "body": "Anthropicは、新モデル「Claude Sonnet 5.5」を発表した。料金を据え置きつつ出力速度を30％以上高速化し、トークン効率向上でタスク当たり最大30％のコスト削減を実現した。コーディング評価で大幅にスコアを伸ばし、最上位モデル級のサイバー対策を初適用。無料枠を含む全プランとAPIで即日提供する。\n\n初出は ITmedia AI+ [1]。Simon Willison [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「トークン」は、AIが文章を扱うときの文字のかたまり。利用料金はたいていこのトークン数で決まります。記事に出てくる「ベンチマーク」は、AIの性能を測るための共通テスト。学力テストの偏差値のようなものです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 1
+    },
+    {
+      "heading": "こんにちは、ドイツ！",
+      "body": "Mistralは、ドイツの産業界と提携して、物理AIと産業AI研究のためのミュンヘンハブを開設しました。\n\n初出は Mistral AI [1]。",
+      "why_it_matters": "開発元の公式発表（Mistral AI）に基づく。",
+      "plain_explanation": "つまり、研究段階の成果で、すぐ製品になるとは限らない話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今すぐ影響はありませんが、今後の製品に反映されていく可能性があります。",
+      "topic_index": 2
+    },
+    {
+      "heading": "Lenfest Instituteは、OpenAIのサポートを拡大して、画期的なプログラムを成長させます",
+      "body": "OpenAIは、Lenfest AI Collaborative and Fellowship Programを500万$の資金と最大500万$のソフトウェアクレジットとエンジニアリングサポートで拡大しています。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、企業どうしのお金や提携の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。業界の力関係が変わると、使えるツールの選択肢にも影響してきます。",
+      "topic_index": 3
+    },
+    {
+      "heading": "BasisはGPT -6 Astraで税務ワークブックを2倍高速に完了",
+      "body": "GPT -6 ASTRAは、GPT-5.6 SOLの2倍の速度で50タブの税務ワークブックを完了し、ユーザーの意図をより深く理解することで、Basisは実際の使用に自信を持っています。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 4
+    }
+  ],
+  "xPosts": [
+    "Anthropic、「Claude Sonnet 5.5」公開 料金据え置きで30％以上高速化、タスク当たりコスト最大3割減（2ソースで確認）",
+    "こんにちは、ドイツ！（公式発表）",
+    "Lenfest Instituteは、OpenAIのサポートを拡大して、画期的なプログラムを成長させます（公式発表）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Anthropic、「Claude Sonnet 5.5」公開 料金据え置きで30％以上高速化、タスク当たりコスト最大3割減",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "Anthropic、「Claude Sonnet 5.5」公開 料金据え置きで30％以上高速化、タスク当たりコスト最大3割減",
+          "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001823/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-09-28T21:55:33.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Simon Willison",
+          "title": "Claude Sonnet 5.5",
+          "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
+          "domain": "simonwillison.net",
+          "tier": 2,
+          "kind": "blog",
+          "publishedAt": "2026-09-28T22:07:38.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Hallo, Deutschland!",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Mistral AI",
+          "title": "Hallo, Deutschland!",
+          "url": "https://mistral.ai/news/hallo-deutschland/",
+          "domain": "mistral.ai",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-28T15:57:59.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+          "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-28T07:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+          "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-28T00:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "MuseはMetaの信頼の問題を克服できますか？",
+      "headlineOriginal": "Can Muse overcome Meta’s trust issues?",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "最も人気のAIユースケース、投資成果では“いまいち”だった Gartner調査",
+      "headlineOriginal": "最も人気のAIユースケース、投資成果では“いまいち”だった Gartner調査",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2609/19/news009.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "「デジタルの言葉が聞こえない」と言われた電源開発が、DX開始4年でフィジカルAIに挑むまで",
+      "headlineOriginal": "「デジタルの言葉が聞こえない」と言われた電源開発が、DX開始4年でフィジカルAIに挑むまで",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2609/25/news014.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "限界性能はどこか？ パナソニックの「設計AI」が導く勘と経験を超えた設計解",
+      "headlineOriginal": "限界性能はどこか？ パナソニックの「設計AI」が導く勘と経験を超えた設計解",
+      "source": "ITmedia AI+",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2609/29/news009.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "電通、20万件超の会計承認をGeminiでAI化 精度99％でもAIだけに任せなかった理由",
+      "headlineOriginal": "電通、20万件超の会計承認をGeminiでAI化 精度99％でもAIだけに任せなかった理由",
+      "source": "ITmedia AI+",
+      "url": "https://kn.itmedia.co.jp/kn/article/2609/29/2000001781/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AI議事録、「作った後」が課題に 個人に埋もれる記録をどう会社の資産に変える？",
+      "headlineOriginal": "AI議事録、「作った後」が課題に 個人に埋もれる記録をどう会社の資産に変える？",
+      "source": "ITmedia AI+",
+      "url": "https://kn.itmedia.co.jp/kn/article/2609/29/2000001796/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "NVIDIAですら1社では半導体は作れない――それでもAI時代の“勝者”になれたワケ",
+      "headlineOriginal": "NVIDIAですら1社では半導体は作れない――それでもAI時代の“勝者”になれたワケ",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/business/articles/2609/29/news027.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "国産AIのノエトラ・丹波社長「今からでも1位を取れる」 挑むは“母艦モデル”開発、国内基盤での提供 勝ち筋は",
+      "headlineOriginal": "国産AIのノエトラ・丹波社長「今からでも1位を取れる」 挑むは“母艦モデル”開発、国内基盤での提供 勝ち筋は",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/business/articles/2609/29/news058.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 506,
+    "itemsInPool": 538,
+    "clusters": 501,
+    "verifiedTopics": 4,
+    "unverifiedTopics": 497,
+    "elapsedMs": 22662
+  }
+}

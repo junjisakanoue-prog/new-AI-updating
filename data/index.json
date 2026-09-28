@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-09-29",
+      "title": "AI 最新まとめ 2026-09-29",
+      "threeLineSummary": [
+        "Anthropic、「Claude Sonnet 5.5」公開 料金据え置きで30％以上高速化、タスク当たりコスト最大…",
+        "こんにちは、ドイツ！",
+        "Lenfest Instituteは、OpenAIのサポートを拡大して、画期的なプログラムを成長させます"
+      ],
+      "topicCount": 4,
+      "generatedAt": "2026-09-28T23:37:06.054Z"
+    },
+    {
       "date": "2026-09-28",
       "title": "AI 最新まとめ 2026-09-28",
       "threeLineSummary": [
@@ -782,5 +793,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-09-27T21:48:51.288Z"
+  "updatedAt": "2026-09-28T23:37:06.062Z"
 }
