@@ -1,0 +1,317 @@
+{
+  "date": "2026-09-30",
+  "generatedAt": "2026-09-29T22:47:55.245Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-09-30",
+  "threeLineSummary": [
+    "OpenAIはGPT-6.1 Solを発売し、GPT -6 Astraとほぼ一致し、コストを削減すると述べています",
+    "OpenAIがMuseの競合他社であるDotsを発表",
+    "AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開 特定のLLMに依存せず入れ…"
+  ],
+  "lead": "2026-09-30 時点で、複数ソースの裏取りが取れた AI 関連トピック 7 件をまとめた。",
+  "sections": [
+    {
+      "heading": "OpenAIはGPT-6.1 Solを発売し、GPT -6 Astraとほぼ一致し、コストを削減すると述べています",
+      "body": "OpenAIによると、GPT-6.1 SOLは、コードの作成とデバッグ、ドキュメントの理解、マルチステップビジネスワークフローの実行など、複雑なプロフェッショナルタスクでGPT -6 SOLよりも大幅に改善されています。\n\n初出は TechCrunch AI [1]。OpenAI Blog [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 1
+    },
+    {
+      "heading": "OpenAIがMuseの競合他社であるDotsを発表",
+      "body": "OpenAIは、Metaの賑やかなMuse AIに、独自のエージェントヘルパーであるDotsで対応しています。OpenAIは、火曜日のDevDay基調講演で、Dotsは、時間の経過とともに好みを学習しながら、バックグラウンドで接続されたアプリ間で「ほぼ何でも行う」ことができる常時稼働のAIアシスタントとして機能することを発表しました。同社の有能なGPT -6 Astraモデルは、[…]\n\n初出は The Verge AI [1]。Wired AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 2
+    },
+    {
+      "heading": "AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開 特定のLLMに依存せず入れ替え可能",
+      "body": "Amazon Web Services（AWS）は、GPTやClaude、Gemini、Ollamaなど主要なLLMやLLMランタイムを基にした高性能なAIエージェントを簡単に自作できるツール「Strandsハーネス」をオープンソースで公開しました。\n\n初出は ITmedia AI+ [1]。Publickey [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 3
+    },
+    {
+      "heading": "NVIDIA、AIエージェントをハードウェアでも監視する「Open Agent Safety Platform」発表 Anthropicなど100以上の組織が参加",
+      "body": "NVIDIAは、AIエージェントの安全対策基盤「Open Agent Safety Platform」を発表した。評価環境からの自律的な「脱走」事案が相次ぐ中、オープンソースの隔離ソフトと監視用DPUを組み合わせ、エージェントの暴走を防ぐ。AnthropicやMicrosoftなど100以上の組織が参加する。\n\n初出は ITmedia AI+ [1]。GIGAZINE [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「GPU」は、AIの計算に使う高性能な半導体。AI開発ではこれの確保がコストと速度を左右します。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 4
+    },
+    {
+      "heading": "拡散コントローラがAI画像生成を統一して簡素化する方法",
+      "body": "アルゴリズムと理論\n\n初出は Google Research [1]。",
+      "why_it_matters": "開発元の公式発表（Google Research）に基づく。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。記事に出てくる「拡散モデル（画像生成）」は、ノイズから少しずつ絵を描き起こしていく仕組みで、画像や動画を生成するAIの主流方式です。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 5
+    },
+    {
+      "heading": "NVIDIA Kumo表形式は、表形式予測のための新しい精度効率のフロンティアを設定します",
+      "body": "NVIDIA Kumo表形式は、表形式予測のための新しい精度効率のフロンティアを設定します\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「GPU」は、AIの計算に使う高性能な半導体。AI開発ではこれの確保がコストと速度を左右します。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 6
+    },
+    {
+      "heading": "GPT-6.1 Solのご紹介",
+      "body": "GPT-6.1 SOLを満たす： Astraの標準API入出力トークン価格の5分の1で、コーディング、コンピューター使用、プロフェッショナルな作業のためのニアアストラインテリジェンス。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「API」は、自分のアプリやサービスからAIを呼び出して使うための接続口のことです。記事に出てくる「トークン」は、AIが文章を扱うときの文字のかたまり。利用料金はたいていこのトークン数で決まります。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 7
+    }
+  ],
+  "xPosts": [
+    "OpenAIはGPT-6.1 Solを発売し、GPT -6 Astraとほぼ一致し、コストを削減すると述べています（2ソースで確認）",
+    "OpenAIがMuseの競合他社であるDotsを発表（2ソースで確認）",
+    "AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開 特定のLLMに依存せず入れ替え可能（2ソースで確認）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+          "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-09-29T17:15:00.000Z"
+        },
+        {
+          "n": 2,
+          "source": "OpenAI Blog",
+          "title": "DevDay 2026 Recap",
+          "url": "https://openai.com/index/devday-2026-recap",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-29T10:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "OpenAI launches Dots, its Muse competitor",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "The Verge AI",
+          "title": "OpenAI launches Dots, its Muse competitor",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-09-29T17:15:00.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Wired AI",
+          "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
+          "url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
+          "domain": "wired.com",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-09-29T17:15:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開 特定のLLMに依存せず入れ替え可能",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開 特定のLLMに依存せず入れ替え可能",
+          "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001837/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-09-29T05:56:39.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Publickey",
+          "title": "AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開。特定のLLMに依存せず入れ替え可能、任意のコンテナ環境にデプロイ",
+          "url": "https://www.publickey1.jp/blog/26/awsaistrandsllm.html",
+          "domain": "publickey1.jp",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-09-28T15:01:25.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "NVIDIA、AIエージェントをハードウェアでも監視する「Open Agent Safety Platform」発表 Anthropicなど100以上の組織が参加",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "NVIDIA、AIエージェントをハードウェアでも監視する「Open Agent Safety Platform」発表 Anthropicなど100以上の組織が参加",
+          "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001824/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-09-28T23:59:11.000Z"
+        },
+        {
+          "n": 2,
+          "source": "GIGAZINE",
+          "title": "NVIDIAがAIの安全を強化する枠組み「Open Agent Safety Platform」を発表",
+          "url": "https://gigazine.net/news/20260929-nvidia-open-agent-safety-platform/",
+          "domain": "gigazine.net",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-09-29T04:02:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "How Diffusion Controller unifies and simplifies AI image generation",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Google Research",
+          "title": "How Diffusion Controller unifies and simplifies AI image generation",
+          "url": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/",
+          "domain": "research.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-29T18:38:27.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+          "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-29T15:30:38.000Z"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "headline": "Introducing GPT-6.1 Sol",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Introducing GPT-6.1 Sol",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-09-29T10:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "OpenAI DevDay 2026 ：最大のニュースと発表",
+      "headlineOriginal": "OpenAI DevDay 2026: The biggest news and announcements",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "OpenAIの最新機能は、アプリストアモデルを直接狙います",
+      "headlineOriginal": "OpenAI’s latest features take direct aim at the app store model",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "「GPT-6.1 Sol」登場 「一部Astra並み」性能をコスト5分の1で提供 先代モデルからわずか1週間で公開",
+      "headlineOriginal": "「GPT-6.1 Sol」登場 「一部Astra並み」性能をコスト5分の1で提供 先代モデルからわずか1週間で公開",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2609/30/2000001867/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "トランプ大統領、米政府にAIを「スーパーインテリジェンス」と呼ぶよう命じる",
+      "headlineOriginal": "Trump orders US government to call AI ‘Super Intelligence’",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "インターネットは、イーロン・マスクのxAIがOpenAIの「Dots」の立ち上げをトロールしたことを確信している",
+      "headlineOriginal": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "マネーフォワード、2800人の情報をNotionに集約 「AIに聞けば分かる」環境へ",
+      "headlineOriginal": "マネーフォワード、2800人の情報をNotionに集約 「AIに聞けば分かる」環境へ",
+      "source": "ITmedia AI+",
+      "url": "https://kn.itmedia.co.jp/kn/article/2609/30/2000001856/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AIがもたらした「半導体」の進化 光電融合、HBM、新トランジスタ――果てなき性能向上、どうかなえる？",
+      "headlineOriginal": "AIがもたらした「半導体」の進化 光電融合、HBM、新トランジスタ――果てなき性能向上、どうかなえる？",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/business/articles/2609/30/news021.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "SlackやTeamsで「辞めそうな社員」が分かる？ 退職予兆を探るAI登場",
+      "headlineOriginal": "SlackやTeamsで「辞めそうな社員」が分かる？ 退職予兆を探るAI登場",
+      "source": "ITmedia AI+",
+      "url": "https://kn.itmedia.co.jp/kn/article/2609/30/2000001811/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 1777,
+    "itemsInPool": 1809,
+    "clusters": 1719,
+    "verifiedTopics": 11,
+    "unverifiedTopics": 1708,
+    "elapsedMs": 21910
+  }
+}

@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-09-30",
+      "title": "AI 最新まとめ 2026-09-30",
+      "threeLineSummary": [
+        "OpenAIはGPT-6.1 Solを発売し、GPT -6 Astraとほぼ一致し、コストを削減すると述べています",
+        "OpenAIがMuseの競合他社であるDotsを発表",
+        "AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開 特定のLLMに依存せず入れ…"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-09-29T22:47:55.245Z"
+    },
+    {
       "date": "2026-09-29",
       "title": "AI 最新まとめ 2026-09-29",
       "threeLineSummary": [
@@ -793,5 +804,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-09-28T23:37:06.062Z"
+  "updatedAt": "2026-09-29T22:47:55.254Z"
 }
