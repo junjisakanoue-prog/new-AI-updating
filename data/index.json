@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-10-01",
+      "title": "AI 最新まとめ 2026-10-01",
+      "threeLineSummary": [
+        "Google、「Gemini 4 Pro」ではなく「Gemini 4 Agron」発表 まずはサイバー防御組織に限定提…",
+        "GoogleはGemini 4を発表し、「信頼できるサイバーディフェンダー」だけが今それを手に入れることができるほどの…",
+        "「AIがやった」は防御ではない、と非営利団体はHugging FaceハッキングでOpenAIを訴える"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-09-30T22:45:54.481Z"
+    },
+    {
       "date": "2026-09-30",
       "title": "AI 最新まとめ 2026-09-30",
       "threeLineSummary": [
@@ -804,5 +815,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-09-29T22:47:55.254Z"
+  "updatedAt": "2026-09-30T22:45:54.489Z"
 }
