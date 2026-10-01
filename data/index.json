@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-10-02",
+      "title": "AI 最新まとめ 2026-10-02",
+      "threeLineSummary": [
+        "Google、「Gemini 4 Pro」ではなく「Gemini 4 Argon」発表 まずはサイバー防御組織に限定提…",
+        "裁判官は、Google AI検索を対象としたCheggとPenskeの独占禁止法訴訟を棄却",
+        "ChatGPTがバーチャルで服を試着できるようになりました"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-10-01T22:58:07.463Z"
+    },
+    {
       "date": "2026-10-01",
       "title": "AI 最新まとめ 2026-10-01",
       "threeLineSummary": [
@@ -815,5 +826,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-09-30T22:45:54.489Z"
+  "updatedAt": "2026-10-01T22:58:07.471Z"
 }
