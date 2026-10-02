@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-10-03",
+      "title": "AI 最新まとめ 2026-10-03",
+      "threeLineSummary": [
+        "Appleは、AIエージェントが「実質的に」リスクを増加させるため、Macディスクへのアクセスを制限する",
+        "裁判官は、Google AI検索を対象としたCheggとPenskeの独占禁止法訴訟を棄却",
+        "ChatGPTがバーチャルで服を試着できるようになりました"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-10-02T22:44:56.182Z"
+    },
+    {
       "date": "2026-10-02",
       "title": "AI 最新まとめ 2026-10-02",
       "threeLineSummary": [
@@ -826,5 +837,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-10-01T22:58:07.471Z"
+  "updatedAt": "2026-10-02T22:44:56.190Z"
 }
