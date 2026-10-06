@@ -1,0 +1,199 @@
+{
+  "date": "2026-10-06",
+  "generatedAt": "2026-10-06T00:32:00.038Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-10-06",
+  "threeLineSummary": [
+    "OpenAIは、画像生成結果と一緒に表示されるビジュアル広告を立ち上げます",
+    "OpenAIは、EUでChatGPTのテキストに透かしを入れ始めます",
+    "EUテキスト出所規則への当社のアプローチ"
+  ],
+  "lead": "2026-10-06 時点で、複数ソースの裏取りが取れた AI 関連トピック 3 件をまとめた。",
+  "sections": [
+    {
+      "heading": "OpenAIは、画像生成結果と一緒に表示されるビジュアル広告を立ち上げます",
+      "body": "新しい広告は今月後半に米国でのみ表示され始め、広告主の最初のテストグループからの製品とサービスが紹介されます。\n\n初出は TechCrunch AI [1]。The Verge AI [2]、OpenAI Blog [3] でも同内容が報じられている。",
+      "why_it_matters": "独立した 3 ソースで確認済み（確度: 高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「拡散モデル（画像生成）」は、ノイズから少しずつ絵を描き起こしていく仕組みで、画像や動画を生成するAIの主流方式です。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 1
+    },
+    {
+      "heading": "OpenAIは、EUでChatGPTのテキストに透かしを入れ始めます",
+      "body": "OpenAIは、AI法に準拠するために、EU内のChatGPTおよびCodexテキストに透かしを付けます。編集すると、目に見えないマークを検出するのが難しくなる可能性があります。\n\n初出は TechCrunch AI [1]。The Verge AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 2
+    },
+    {
+      "heading": "EUテキスト出所規則への当社のアプローチ",
+      "body": "OpenAIがEU規則の下でテキスト透かし処理にどのようにアプローチしているか。ウォーターマークが適用される場所、検出の仕組み、アクセスが研究者から始まる理由を学びましょう。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、研究段階の成果で、すぐ製品になるとは限らない話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今すぐ影響はありませんが、今後の製品に反映されていく可能性があります。",
+      "topic_index": 3
+    }
+  ],
+  "xPosts": [
+    "OpenAIは、画像生成結果と一緒に表示されるビジュアル広告を立ち上げます（3ソースで確認）",
+    "OpenAIは、EUでChatGPTのテキストに透かしを入れ始めます（2ソースで確認）",
+    "EUテキスト出所規則への当社のアプローチ（公式発表）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "OpenAI launches visual ads that appear alongside image generation results",
+      "confidence": "high",
+      "domainCount": 3,
+      "socialCount": 0,
+      "sourceCount": 3,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "OpenAI launches visual ads that appear alongside image generation results",
+          "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-10-05T15:14:24.000Z"
+        },
+        {
+          "n": 2,
+          "source": "The Verge AI",
+          "title": "OpenAI is sticking more ads in ChatGPT",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-10-05T13:09:48.000Z"
+        },
+        {
+          "n": 3,
+          "source": "OpenAI Blog",
+          "title": "Building advertising for the way people use AI",
+          "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-05T10:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+          "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-10-05T20:36:48.000Z"
+        },
+        {
+          "n": 2,
+          "source": "The Verge AI",
+          "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-10-05T18:08:39.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "Our approach to EU text provenance rules",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Our approach to EU text provenance rules",
+          "url": "https://openai.com/index/eu-text-provenance",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-05T15:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "“ツダケンAI裁判”の論点 「声優そっくりAI音声は合法」……にはならない？ 弁護士が解説",
+      "headlineOriginal": "“ツダケンAI裁判”の論点 「声優そっくりAI音声は合法」……にはならない？ 弁護士が解説",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002010/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "ジェミニ私のための呼び出しは、あなたが遅刻していることをあなたのお母さんに伝えるかもしれません",
+      "headlineOriginal": "Gemini Call for Me might tell your mom you’re running late",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "【レベル16】3D CADモデルを魅力的に見せよ！",
+      "headlineOriginal": "【レベル16】3D CADモデルを魅力的に見せよ！",
+      "source": "ITmedia AI+",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2610/06/news003.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "現場データだけあってもダメ フィジカルAIにありがちな“10の誤解”",
+      "headlineOriginal": "現場データだけあってもダメ フィジカルAIにありがちな“10の誤解”",
+      "source": "ITmedia AI+",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/06/news026.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "エージェント間のコミュニケーションのためのMCPは、聞いたことのない最もリスクの高いプロトコルかもしれません",
+      "headlineOriginal": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "このスタートアップは、AIが生成したにきびの処方箋を発行しています",
+      "headlineOriginal": "This startup is issuing AI-generated acne prescriptions",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "「トークン単価は8割下がった。なのに請求額は増えた」――その“見えないAI浪費”の正体",
+      "headlineOriginal": "「トークン単価は8割下がった。なのに請求額は増えた」――その“見えないAI浪費”の正体",
+      "source": "ITmedia AI+",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/06/news004.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "リフレクションは、より低い計算コストで中国モデルに匹敵するオープンウェイトAIモデルであるBeamをデビューさせます",
+      "headlineOriginal": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 566,
+    "itemsInPool": 609,
+    "clusters": 555,
+    "verifiedTopics": 3,
+    "unverifiedTopics": 552,
+    "elapsedMs": 25006
+  }
+}

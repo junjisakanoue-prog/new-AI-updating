@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-10-06",
+      "title": "AI 最新まとめ 2026-10-06",
+      "threeLineSummary": [
+        "OpenAIは、画像生成結果と一緒に表示されるビジュアル広告を立ち上げます",
+        "OpenAIは、EUでChatGPTのテキストに透かしを入れ始めます",
+        "EUテキスト出所規則への当社のアプローチ"
+      ],
+      "topicCount": 3,
+      "generatedAt": "2026-10-06T00:32:00.038Z"
+    },
+    {
       "date": "2026-10-05",
       "title": "AI 最新まとめ 2026-10-05",
       "threeLineSummary": [
@@ -859,5 +870,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-10-04T22:09:34.182Z"
+  "updatedAt": "2026-10-06T00:32:00.047Z"
 }
