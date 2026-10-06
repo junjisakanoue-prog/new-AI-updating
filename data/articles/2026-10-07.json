@@ -1,0 +1,347 @@
+{
+  "date": "2026-10-07",
+  "generatedAt": "2026-10-06T22:51:47.753Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-10-07",
+  "threeLineSummary": [
+    "OpenAIはデフォルトでChatGPT出力に透かしを入れますが、EUのみです",
+    "EmbeddingGemma 2 ：オープンで軽量なマルチモーダル埋め込みモデル",
+    "ミストラルラージのご紹介4"
+  ],
+  "lead": "2026-10-07 時点で、複数ソースの裏取りが取れた AI 関連トピック 7 件をまとめた。",
+  "sections": [
+    {
+      "heading": "OpenAIはデフォルトでChatGPT出力に透かしを入れますが、EUのみです",
+      "body": "他のソリューションと同様に、特に信頼性が高くなく、回避するのは簡単です。\n\n初出は Ars Technica AI [1]。TechCrunch AI [2]、The Verge AI [3] でも同内容が報じられている。",
+      "why_it_matters": "独立した 3 ソースで確認済み（確度: 高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 1
+    },
+    {
+      "heading": "EmbeddingGemma 2 ：オープンで軽量なマルチモーダル埋め込みモデル",
+      "body": "EmbeddingGemma 2 ：オープンで軽量なマルチモーダル埋め込みモデル\n\n初出は DeepMind Blog [1]。r/LocalLLaMA [2] でも同内容が報じられている。",
+      "why_it_matters": "開発元の公式発表（DeepMind Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「マルチモーダル」は、文章だけでなく画像・音声・動画もまとめて扱えることです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 2
+    },
+    {
+      "heading": "ミストラルラージのご紹介4",
+      "body": "ミストラルラージのご紹介4\n\n初出は Mistral AI [1]。Simon Willison [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 3
+    },
+    {
+      "heading": "数学におけるAIの進歩を共有する",
+      "body": "OpenAIは、内部フロンティアモデルからの数学の未解決問題に関する新しい結果を公開し、リーン証明の形式化と研究の詳細をGitHubで共有します。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 4
+    },
+    {
+      "heading": "AtlassianとOpenAIはパートナーシップを拡大し、企業の知識を行動に移す",
+      "body": "AtlassianとOpenAIは、最先端のモデルとエンタープライズの知識を結びつけ、チームが仕事を計画、構築、提供するのを支援するためにパートナーシップを拡大しています。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、企業どうしのお金や提携の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。業界の力関係が変わると、使えるツールの選択肢にも影響してきます。",
+      "topic_index": 5
+    },
+    {
+      "heading": "グローバルな公衆衛生のためのEarth AIの惑星地理空間基盤モデルのロックを解除する",
+      "body": "Earth AI\n\n初出は Google Research [1]。",
+      "why_it_matters": "開発元の公式発表（Google Research）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 6
+    },
+    {
+      "heading": "Ironcladでコンピューターの使用を促進",
+      "body": "OpenAIとIroncladが、複雑な契約ワークフローでAIエージェントをトレーニングおよび評価し、プロフェッショナルな仕事のためのコンピューター使用を促進する方法を学びます。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 7
+    }
+  ],
+  "xPosts": [
+    "OpenAIはデフォルトでChatGPT出力に透かしを入れますが、EUのみです（3ソースで確認）",
+    "EmbeddingGemma 2 ：オープンで軽量なマルチモーダル埋め込みモデル（公式発表）",
+    "ミストラルラージのご紹介4（2ソースで確認）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+      "confidence": "high",
+      "domainCount": 3,
+      "socialCount": 0,
+      "sourceCount": 3,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Ars Technica AI",
+          "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+          "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+          "domain": "arstechnica.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-10-06T20:50:32.000Z"
+        },
+        {
+          "n": 2,
+          "source": "TechCrunch AI",
+          "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+          "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-10-05T20:36:48.000Z"
+        },
+        {
+          "n": 3,
+          "source": "The Verge AI",
+          "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-10-05T18:08:39.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 3,
+      "sourceCount": 4,
+      "sources": [
+        {
+          "n": 1,
+          "source": "DeepMind Blog",
+          "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+          "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+          "domain": "deepmind.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-06T19:57:04.000Z"
+        },
+        {
+          "n": 2,
+          "source": "r/LocalLLaMA",
+          "title": "EmbeddingGemma 2 is a best-in-class open model for natively multimodal embeddings",
+          "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz9jvx/embeddinggemma_2_is_a_bestinclass_open_model_for/",
+          "domain": "reddit.com",
+          "tier": 3,
+          "kind": "social",
+          "publishedAt": "2026-10-06T18:03:13.000Z"
+        },
+        {
+          "n": 3,
+          "source": "r/LocalLLaMA",
+          "title": "Introducing EmbeddingGemma 2: A best-in-class open model for natively multimodal embeddings | Google",
+          "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz7faa/introducing_embeddinggemma_2_a_bestinclass_open/",
+          "domain": "reddit.com",
+          "tier": 3,
+          "kind": "social",
+          "publishedAt": "2026-10-06T16:42:13.000Z"
+        },
+        {
+          "n": 4,
+          "source": "r/LocalLLaMA",
+          "title": "google/embeddinggemma-2 · Hugging Face",
+          "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz5va3/googleembeddinggemma2_hugging_face/",
+          "domain": "reddit.com",
+          "tier": 3,
+          "kind": "social",
+          "publishedAt": "2026-10-06T15:41:20.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "Introducing Mistral Large 4",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Mistral AI",
+          "title": "Introducing Mistral Large 4",
+          "url": "https://mistral.ai/news/mistral-large-4/",
+          "domain": "mistral.ai",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-06T12:00:27.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Simon Willison",
+          "title": "Introducing Mistral Large 4: Le chonk",
+          "url": "https://simonwillison.net/2026/Oct/6/le-chonk/",
+          "domain": "simonwillison.net",
+          "tier": 2,
+          "kind": "blog",
+          "publishedAt": "2026-10-06T20:18:19.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "Sharing AI progress in mathematics",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 1,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Sharing AI progress in mathematics",
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-06T12:00:00.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Hacker News (AI)",
+          "title": "Sharing AI Progress in Mathematics",
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+          "domain": "openai.com",
+          "tier": 3,
+          "kind": "social",
+          "publishedAt": "2026-10-06T22:17:21.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "url": "https://openai.com/index/atlassian-partnership",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-06T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Google Research",
+          "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
+          "url": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
+          "domain": "research.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-06T15:05:11.000Z"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "headline": "Advancing computer use with Ironclad",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Advancing computer use with Ironclad",
+          "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-06T10:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "「AIの多少の悪影響は許容すべき」 OpenAIアルトマン氏、“AIが暴走”してなおAnthropicと主張がズレる訳",
+      "headlineOriginal": "「AIの多少の悪影響は許容すべき」 OpenAIアルトマン氏、“AIが暴走”してなおAnthropicと主張がズレる訳",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/business/articles/2610/07/news042.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AI時代のOTセキュリティ、「盾と矛」勝つのはどちらか？",
+      "headlineOriginal": "AI時代のOTセキュリティ、「盾と矛」勝つのはどちらか？",
+      "source": "ITmedia AI+",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2610/07/news040.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AI意思決定モデルがコンテンツモデレーションをどのように変えるか",
+      "headlineOriginal": "How AI decision models could change content moderation",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AIコンピューティングスタートアップLambda、計画されたIPOに先立ち40億$を調達",
+      "headlineOriginal": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AIエージェントの次のハードルは、Webサイトを許可することです",
+      "headlineOriginal": "The next hurdle for AI agents: getting websites to let them in",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Harkがプライバシーに焦点を当てたAIパーソナルアシスタントをリリース",
+      "headlineOriginal": "Hark releases an AI personal assistant with a focus on privacy",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "ミラー粒子は、人間の行動の「世界モデル」を構築しています",
+      "headlineOriginal": "Mirror Particle is building a ‘world model’ of human behavior",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "「録音」の定義を変えることはできません",
+      "headlineOriginal": "We can’t just change the definition of ‘recording’",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 1124,
+    "itemsInPool": 1162,
+    "clusters": 1108,
+    "verifiedTopics": 10,
+    "unverifiedTopics": 1098,
+    "elapsedMs": 27462
+  }
+}

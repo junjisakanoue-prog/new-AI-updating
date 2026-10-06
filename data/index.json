@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-10-07",
+      "title": "AI 最新まとめ 2026-10-07",
+      "threeLineSummary": [
+        "OpenAIはデフォルトでChatGPT出力に透かしを入れますが、EUのみです",
+        "EmbeddingGemma 2 ：オープンで軽量なマルチモーダル埋め込みモデル",
+        "ミストラルラージのご紹介4"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-10-06T22:51:47.753Z"
+    },
+    {
       "date": "2026-10-06",
       "title": "AI 最新まとめ 2026-10-06",
       "threeLineSummary": [
@@ -870,5 +881,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-10-06T00:32:00.047Z"
+  "updatedAt": "2026-10-06T22:51:47.761Z"
 }
