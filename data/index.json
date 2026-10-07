@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-10-08",
+      "title": "AI 最新まとめ 2026-10-08",
+      "threeLineSummary": [
+        "ChatGPTの「インテリジェントUI」アップデートは、画像、チャート、ボタンで応答を埋めます",
+        "マイクロソフト、改良されたWindows 11を搭載した新しいNVIDIAチップAI PCをリリース",
+        "Anthropic、「Claude Haiku 5.5」公開 「Haiku 4.5」から大幅性能向上で利用コスト約75…"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-10-07T23:25:38.617Z"
+    },
+    {
       "date": "2026-10-07",
       "title": "AI 最新まとめ 2026-10-07",
       "threeLineSummary": [
@@ -881,5 +892,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-10-06T22:51:47.761Z"
+  "updatedAt": "2026-10-07T23:25:38.623Z"
 }
