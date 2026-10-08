@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-10-09",
+      "title": "AI 最新まとめ 2026-10-09",
+      "threeLineSummary": [
+        "Google、AI生成物の判定ツールを一般公開 OpenAIやNVIDIA製サービスも対象に",
+        "ChatGPTの「インテリジェントUI」アップデートは、画像、チャート、ボタンで応答を埋めます",
+        "Googleは、ビジネスから始まるエージェントAIをGeminiにもたらします"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-10-08T23:37:01.371Z"
+    },
+    {
       "date": "2026-10-08",
       "title": "AI 最新まとめ 2026-10-08",
       "threeLineSummary": [
@@ -892,5 +903,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-10-07T23:25:38.623Z"
+  "updatedAt": "2026-10-08T23:37:01.378Z"
 }
