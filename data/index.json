@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-10-12",
+      "title": "AI 最新まとめ 2026-10-12",
+      "threeLineSummary": [
+        "Anthropicはインターネットから内部評価を遮断しています",
+        "GPUクラスタのインパクトのあるスケジューリング",
+        "Sophos、OpenAI Daybreakで脅威調査時間を96%短縮"
+      ],
+      "topicCount": 4,
+      "generatedAt": "2026-10-11T22:38:30.208Z"
+    },
+    {
       "date": "2026-10-11",
       "title": "AI 最新まとめ 2026-10-11",
       "threeLineSummary": [
@@ -925,5 +936,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-10-10T22:08:47.267Z"
+  "updatedAt": "2026-10-11T22:38:30.216Z"
 }
