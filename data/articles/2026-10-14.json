@@ -1,0 +1,320 @@
+{
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-13T23:10:37.291Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-10-14",
+  "threeLineSummary": [
+    "ジェミニ4アルゴンを責任を持って安全に開発する",
+    "Googleは、Playストアであなたの個人的なバイブコードアプリをホストしたいと考えています",
+    "SpaceXSIはX Premium、Grok、Cursorを1つのサブスクリプションにバンドル"
+  ],
+  "lead": "2026-10-14 時点で、複数ソースの裏取りが取れた AI 関連トピック 6 件をまとめた。",
+  "sections": [
+    {
+      "heading": "ジェミニ4アルゴンを責任を持って安全に開発する",
+      "body": "ジェミニ4アルゴンを責任を持って安全に開発する\n\n初出は DeepMind Blog [1]。Google AI Blog [4] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 1
+    },
+    {
+      "heading": "Googleは、Playストアであなたの個人的なバイブコードアプリをホストしたいと考えています",
+      "body": "Googleは、これらの個人的なAI生成アプリを幅広いリリースに変える手助けをする予定だ。\n\n初出は Ars Technica AI [1]。TechCrunch AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 2
+    },
+    {
+      "heading": "SpaceXSIはX Premium、Grok、Cursorを1つのサブスクリプションにバンドル",
+      "body": "新しいXサブスクリプションは、Xの有料機能とGrokやCursorなどのAIツールを組み合わせたもので、月額8ドルから200ドルのプランを提供しています。\n\n初出は TechCrunch AI [1]。GIGAZINE [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AIを使うときの値段や条件が変わる、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。普段使っているツールの請求や使える範囲に影響する可能性があります。",
+      "topic_index": 3
+    },
+    {
+      "heading": "Microsoft、Copilotなどを自社開発チップで稼働 新チップでNVIDIA依存から脱却狙いか",
+      "body": "Microsoftが自社AIアクセラレータの第3世代「Maia 300」を発表。本番配備は2027年開始で、Maiaファミリーをマルチギガワット規模に拡大する計画。GPUベース比で電力当たり生成トークン数40％増を見込むという。\n\n初出は ITmedia AI+ [1]。GIGAZINE [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「GPU」は、AIの計算に使う高性能な半導体。AI開発ではこれの確保がコストと速度を左右します。記事に出てくる「トークン」は、AIが文章を扱うときの文字のかたまり。利用料金はたいていこのトークン数で決まります。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 4
+    },
+    {
+      "heading": "Meta、初のフロンティアモデル「Muse Wonder」を発売",
+      "body": "Muse Sparkは低レイテンシで実行できる軽量モデルを目指していましたが、Wonderモデルはより大きく、ベンチマークスコアが高く、コーディングなどの複雑なタスクでより良い結果が得られると言われています。\n\n初出は TechCrunch AI [1]。Simon Willison [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「ベンチマーク」は、AIの性能を測るための共通テスト。学力テストの偏差値のようなものです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 5
+    },
+    {
+      "heading": "Higgsfieldは、AIビデオを1分から10分以上にします",
+      "body": "Higgsfieldは、GPT -6 Astraでクリエイターに長いビデオを提供し、GPT-Image-2.5で正確なビジュアルを提供し、GPT - Liveでボイスフィルムメイキングへのパスを提供します。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 6
+    }
+  ],
+  "xPosts": [
+    "ジェミニ4アルゴンを責任を持って安全に開発する（2ソースで確認）",
+    "Googleは、Playストアであなたの個人的なバイブコードアプリをホストしたいと考えています（2ソースで確認）",
+    "SpaceXSIはX Premium、Grok、Cursorを1つのサブスクリプションにバンドル（2ソースで確認）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Developing Gemini 4 Argon responsibly and safely",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 4,
+      "sources": [
+        {
+          "n": 1,
+          "source": "DeepMind Blog",
+          "title": "Developing Gemini 4 Argon responsibly and safely",
+          "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+          "domain": "deepmind.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-13T19:43:07.000Z"
+        },
+        {
+          "n": 2,
+          "source": "DeepMind Blog",
+          "title": "Gemini 4 Argon for Robotics",
+          "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+          "domain": "deepmind.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-13T16:01:58.000Z"
+        },
+        {
+          "n": 3,
+          "source": "DeepMind Blog",
+          "title": "Gemini 4 Argon: Built to solve your hardest problems",
+          "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+          "domain": "deepmind.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-13T16:01:52.000Z"
+        },
+        {
+          "n": 4,
+          "source": "Google AI Blog",
+          "title": "Gemini 4 Argon: Built to solve your hardest problems",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+          "domain": "blog.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-13T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Google wants to host your personal vibe-coded apps in the Play Store",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Ars Technica AI",
+          "title": "Google wants to host your personal vibe-coded apps in the Play Store",
+          "url": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
+          "domain": "arstechnica.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-10-13T17:00:39.000Z"
+        },
+        {
+          "n": 2,
+          "source": "TechCrunch AI",
+          "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+          "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-10-13T17:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+          "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-10-13T13:50:19.000Z"
+        },
+        {
+          "n": 2,
+          "source": "GIGAZINE",
+          "title": "X・Grok・Cursorのサブスクを統合した「The X Subscription」が登場、1つのサブスクでX有料機能や有料AIを使用可能に",
+          "url": "https://gigazine.net/news/20261013-the-x-subscription/",
+          "domain": "gigazine.net",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-10-13T03:29:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "Microsoft、Copilotなどを自社開発チップで稼働 新チップでNVIDIA依存から脱却狙いか",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "Microsoft、Copilotなどを自社開発チップで稼働 新チップでNVIDIA依存から脱却狙いか",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2610/13/2000002207/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-10-13T03:34:18.000Z"
+        },
+        {
+          "n": 2,
+          "source": "GIGAZINE",
+          "title": "Microsoftが第3世代AIチップ「Maia 300」を発表、最新の推論モデルやエージェントタスクの処理能力向上へ向けて2027年に導入予定",
+          "url": "https://gigazine.net/news/20261013-microsoft-maia-300-chip/",
+          "domain": "gigazine.net",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-10-13T03:15:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "Meta releases its first frontier model, Muse Wonder",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "Meta releases its first frontier model, Muse Wonder",
+          "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-10-12T17:56:56.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Simon Willison",
+          "title": "llm-meta-ai 0.2",
+          "url": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
+          "domain": "simonwillison.net",
+          "tier": 2,
+          "kind": "blog",
+          "publishedAt": "2026-10-12T23:58:46.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "Higgsfield takes AI video from 1 minute to over 10",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Higgsfield takes AI video from 1 minute to over 10",
+          "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-13T12:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "わずか5年で、インタラクティブなチャットボットプラットフォームCharacter.AIが破産を申請",
+      "headlineOriginal": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "CerebrasのCEOは、誰もが自宅にパーソナルAIアシスタントを持つ未来に近づいていると述べています",
+      "headlineOriginal": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "CerebrasのCEO、AIのドゥームズデイ警告に反論",
+      "headlineOriginal": "Cerebras CEO pushes back on AI doomsday warnings",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "OpenAI従業員、役員会議室に録音装置を仕掛けた疑いでFBIが逮捕",
+      "headlineOriginal": "OpenAI従業員、役員会議室に録音装置を仕掛けた疑いでFBIが逮捕",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002236/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "オムロンはAIを現場の価値に変える 米IPC企業買収で「設備最適化」へ拡張",
+      "headlineOriginal": "オムロンはAIを現場の価値に変える 米IPC企業買収で「設備最適化」へ拡張",
+      "source": "ITmedia AI+",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2610/14/news032.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "OpenAIの従業員は、会議室にバグを植え付けた疑いで逮捕されました",
+      "headlineOriginal": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "裁判官は、Appleの企業秘密事件の雇用記録を引き渡すようOpenAIに命じる",
+      "headlineOriginal": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AIの出力を「理解する時間」がどんどん増えていく Karpathy氏推奨の4手段：文章・図・Webページ・動画",
+      "headlineOriginal": "AIの出力を「理解する時間」がどんどん増えていく Karpathy氏推奨の4手段：文章・図・Webページ・動画",
+      "source": "ITmedia AI+",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/13/news017.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 128,
+    "itemsInPool": 150,
+    "clusters": 118,
+    "verifiedTopics": 6,
+    "unverifiedTopics": 112,
+    "elapsedMs": 25667
+  }
+}

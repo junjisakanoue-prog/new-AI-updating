@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-10-14",
+      "title": "AI 最新まとめ 2026-10-14",
+      "threeLineSummary": [
+        "ジェミニ4アルゴンを責任を持って安全に開発する",
+        "Googleは、Playストアであなたの個人的なバイブコードアプリをホストしたいと考えています",
+        "SpaceXSIはX Premium、Grok、Cursorを1つのサブスクリプションにバンドル"
+      ],
+      "topicCount": 6,
+      "generatedAt": "2026-10-13T23:10:37.291Z"
+    },
+    {
       "date": "2026-10-13",
       "title": "AI 最新まとめ 2026-10-13",
       "threeLineSummary": [
@@ -947,5 +958,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-10-13T01:04:18.808Z"
+  "updatedAt": "2026-10-13T23:10:37.299Z"
 }
