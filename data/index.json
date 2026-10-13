@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-10-13",
+      "title": "AI 最新まとめ 2026-10-13",
+      "threeLineSummary": [
+        "AnthropicのClaude AIがフィラデルフィア警察に偽の殺人情報を提出",
+        "GPUクラスタのインパクトのあるスケジューリング",
+        "Sophos、OpenAI Daybreakで脅威調査時間を96%短縮"
+      ],
+      "topicCount": 4,
+      "generatedAt": "2026-10-13T01:04:18.803Z"
+    },
+    {
       "date": "2026-10-12",
       "title": "AI 最新まとめ 2026-10-12",
       "threeLineSummary": [
@@ -936,5 +947,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-10-11T22:38:30.216Z"
+  "updatedAt": "2026-10-13T01:04:18.808Z"
 }
