@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-10-15",
+      "title": "AI 最新まとめ 2026-10-15",
+      "threeLineSummary": [
+        "ロボット工学用ジェミニ4アルゴン",
+        "Googleの新モデル「Gemini 4 Argon」一般提供開始 使えるプラン、価格",
+        "Googleは、Playストアであなたの個人的なバイブコードアプリをホストしたいと考えています"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-10-14T22:00:11.832Z"
+    },
+    {
       "date": "2026-10-14",
       "title": "AI 最新まとめ 2026-10-14",
       "threeLineSummary": [
@@ -958,5 +969,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-10-13T23:10:37.299Z"
+  "updatedAt": "2026-10-14T22:00:11.840Z"
 }
