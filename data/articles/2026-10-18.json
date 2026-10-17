@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-18",
+  "generatedAt": "2026-10-17T21:11:18.751Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-10-18",
+  "threeLineSummary": [
+    "Itaúが顧客ベース全体のためにジェネレーティブAIを構築している方法",
+    "生物学的現実におけるAIエージェントの接地：自律型ウェットラボのビルディングブロック",
+    "ChatGPTプラグインを使用してエージェントのサインアップを3倍にするスタックオーバーフロー"
+  ],
+  "lead": "2026-10-18 時点で、複数ソースの裏取りが取れた AI 関連トピック 4 件をまとめた。",
+  "sections": [
+    {
+      "heading": "Itaúが顧客ベース全体のためにジェネレーティブAIを構築している方法",
+      "body": "会話型インターフェースであるia.iとIARAガバナンスプラットフォームを使用して、Itaúはブラジルで最も規制されているセクターの1つである顧客と従業員にAI First戦略を適用しています。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 1
+    },
+    {
+      "heading": "生物学的現実におけるAIエージェントの接地：自律型ウェットラボのビルディングブロック",
+      "body": "一般科学\n\n初出は Google Research [1]。",
+      "why_it_matters": "開発元の公式発表（Google Research）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 2
+    },
+    {
+      "heading": "ChatGPTプラグインを使用してエージェントのサインアップを3倍にするスタックオーバーフロー",
+      "body": "2人のエンジニアがCodexを使用して数週間でStack Overflow for Agentsを出荷し、そのChatGPTプラグインはエージェント作成の最大10倍の成長を促進しました。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 3
+    },
+    {
+      "heading": "ウェルカムビーム：所有、カスタマイズ、拡張できる501 Bオープンモデル",
+      "body": "ウェルカムビーム：所有、カスタマイズ、拡張できる501 Bオープンモデル\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 4
+    }
+  ],
+  "xPosts": [
+    "Itaúが顧客ベース全体のためにジェネレーティブAIを構築している方法（公式発表）",
+    "生物学的現実におけるAIエージェントの接地：自律型ウェットラボのビルディングブロック（公式発表）",
+    "ChatGPTプラグインを使用してエージェントのサインアップを3倍にするスタックオーバーフロー（公式発表）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "How Itaú is building generative AI for its entire customer base",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "How Itaú is building generative AI for its entire customer base",
+          "url": "https://openai.com/index/itau-generative-ai",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-16T19:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Google Research",
+          "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+          "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
+          "domain": "research.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-16T18:11:34.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+          "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-16T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+          "url": "https://huggingface.co/blog/reflection-beam",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-16T00:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "Anthropicによると、同社の従業員は年下ではなくなり、会議により多くの時間を費やしているという。",
+      "headlineOriginal": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Metaは、ニュースサイトをスクレイピングすることを可能にした可能性のある言語を削除します",
+      "headlineOriginal": "Meta removes language that may have allowed it to scrape news sites",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "最高経営責任者（ CEO ）によると、ReplitはOpenAIをAnthropicよりもデフォルトにしている",
+      "headlineOriginal": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "NVIDIAのインサイダーが、なぜロボット工学がChatGPTの瞬間をまだ打っていないのかについてのVCに変わった",
+      "headlineOriginal": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "ウェブサイトはAIエージェントに門戸を閉ざしています",
+      "headlineOriginal": "Websites are closing their doors to AI agents",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "「そもそも親にAIなんて必要ない」 65歳以上の生成AI利用、子世代の7割が拒否する理由",
+      "headlineOriginal": "「そもそも親にAIなんて必要ない」 65歳以上の生成AI利用、子世代の7割が拒否する理由",
+      "source": "ITmedia AI+",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news007.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "OpenAIモデルが暗号ウォレットをハッキングし、より多くのウェブサイトを侵害しました",
+      "headlineOriginal": "OpenAI models hacked a crypto wallet and breached more websites",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AI CSAMを制作している「thegentlemanpervert」はニュージャージー州の検察官である、と警察は言う",
+      "headlineOriginal": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 48,
+    "itemsCollected": 516,
+    "itemsInPool": 585,
+    "clusters": 501,
+    "verifiedTopics": 4,
+    "unverifiedTopics": 497,
+    "elapsedMs": 32615
+  }
+}
