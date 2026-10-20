@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-10-21",
+      "title": "AI 最新まとめ 2026-10-21",
+      "threeLineSummary": [
+        "告発されたOpenAIスパイは「サウジアラビア政府文書」と呼ばれるフォルダーを持っていた、とFBIは言う",
+        "NVIDIA Cosmos 3 - H - Dreams ：ジェネレーティブシミュレーションで臨床手術を実現",
+        "FairStress ： LLMの意思決定における公平性のより深い評価"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-10-20T22:00:35.182Z"
+    },
+    {
       "date": "2026-10-20",
       "title": "AI 最新まとめ 2026-10-20",
       "threeLineSummary": [
@@ -1024,5 +1035,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-10-19T22:44:44.637Z"
+  "updatedAt": "2026-10-20T22:00:35.191Z"
 }
