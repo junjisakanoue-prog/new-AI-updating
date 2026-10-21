@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-10-22",
+      "title": "AI 最新まとめ 2026-10-22",
+      "threeLineSummary": [
+        "OpenAIの最新のAIモデルがGoogle CloudとAntigravityに登場",
+        "研究者がウェブ上でAIチャットを見つけた後、Museの共有を一時停止",
+        "何千ものAIエージェントを使用して、生物学的データの新しい手がかりを明らかにする"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-10-21T22:03:40.051Z"
+    },
+    {
       "date": "2026-10-21",
       "title": "AI 最新まとめ 2026-10-21",
       "threeLineSummary": [
@@ -1035,5 +1046,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-10-20T22:00:35.191Z"
+  "updatedAt": "2026-10-21T22:03:40.059Z"
 }
