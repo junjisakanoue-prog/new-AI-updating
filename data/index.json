@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-10-23",
+      "title": "AI 最新まとめ 2026-10-23",
+      "threeLineSummary": [
+        "Google Cloudに「Astra」含むOpenAIのモデルが追加 「主要3社のクローズドモデル使える唯一のハイパ…",
+        "Claude Duetアプリは、Anthropicのエージェントへの賭けです",
+        "Uberは30,000人の従業員全員をChatGPT Workに登録"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-10-22T22:01:50.551Z"
+    },
+    {
       "date": "2026-10-22",
       "title": "AI 最新まとめ 2026-10-22",
       "threeLineSummary": [
@@ -1046,5 +1057,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-10-21T22:03:40.059Z"
+  "updatedAt": "2026-10-22T22:01:50.560Z"
 }
