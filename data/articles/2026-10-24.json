@@ -1,0 +1,223 @@
+{
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-23T21:47:54.699Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-10-24",
+  "threeLineSummary": [
+    "結核スクリーニングの最前線に基礎モデルを持ち込む",
+    "10億人以上のChatGPTユーザーにサービスを提供するためにオンラインストレージを迅速に拡張（パートII ）",
+    "フロンティアモデルのトレーニング環境の確保"
+  ],
+  "lead": "2026-10-24 時点で、複数ソースの裏取りが取れた AI 関連トピック 5 件をまとめた。",
+  "sections": [
+    {
+      "heading": "結核スクリーニングの最前線に基礎モデルを持ち込む",
+      "body": "生成AI\n\n初出は Google Research [1]。",
+      "why_it_matters": "開発元の公式発表（Google Research）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 1
+    },
+    {
+      "heading": "10億人以上のChatGPTユーザーにサービスを提供するためにオンラインストレージを迅速に拡張（パートII ）",
+      "body": "OpenAIが信頼性の高いマルチテナンシー、グローバルキャッシュ、Azure Cosmos DBを使用してHabitatをスケーリングし、ChatGPTの12倍高速な読み取りを実現した方法をご紹介します。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。記事に出てくる「API」は、自分のアプリやサービスからAIを呼び出して使うための接続口のことです。記事に出てくる「RAG（検索拡張生成）」は、AIが答える前に社内文書などを検索し、その内容を根拠にして回答する仕組み。嘘を減らす狙いがあります。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 2
+    },
+    {
+      "heading": "フロンティアモデルのトレーニング環境の確保",
+      "body": "OpenAIは、オフライン環境や高計算レッドチームなど、フロンティアモデルのトレーニングと評価のための封じ込めをどのように強化したかを説明します。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 3
+    },
+    {
+      "heading": "OpenAIとポーランドのNASKパートナーがAIの安全性とセキュリティを向上させる",
+      "body": "OpenAIとポーランドのNASKは、セーフガードを強化し、より回復力のあるデジタルエコシステムをサポートするために、AIの安全性、セキュリティ、および技術研究で提携しています。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、研究段階の成果で、すぐ製品になるとは限らない話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今すぐ影響はありませんが、今後の製品に反映されていく可能性があります。",
+      "topic_index": 4
+    },
+    {
+      "heading": "お使いのモデルはAWS Trainiumで実行されていますか？調べる",
+      "body": "お使いのモデルはAWS Trainiumで実行されていますか？調べる\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 5
+    }
+  ],
+  "xPosts": [
+    "結核スクリーニングの最前線に基礎モデルを持ち込む（公式発表）",
+    "10億人以上のChatGPTユーザーにサービスを提供するためにオンラインストレージを迅速に拡張（パートII ）（公式発表）",
+    "フロンティアモデルのトレーニング環境の確保（公式発表）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Bringing foundational models to the front lines of TB screening",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Google Research",
+          "title": "Bringing foundational models to the front lines of TB screening",
+          "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
+          "domain": "research.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-23T18:51:33.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-23T17:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "Securing our frontier model training environment",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Securing our frontier model training environment",
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-23T10:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+          "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-23T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "Does Your Model Run on AWS Trainium? Look It Up",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "Does Your Model Run on AWS Trainium? Look It Up",
+          "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-23T00:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "OpenAIは現在、インターネットにアクセスできないフロンティアAIモデルをトレーニングしています",
+      "headlineOriginal": "OpenAI now trains its frontier AI models with no internet access",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "ジャック・ドーシーのブロックは、気まずい新しい友達のようにあなたに話しかけるAIモデルを作りました",
+      "headlineOriginal": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "ToastからBessemerへ： 2026年TechCrunch創業者サミットで創業者の声を聞く",
+      "headlineOriginal": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Googleは、GmailとGoogleフォトのデータを使用して広告をターゲットにする可能性があると述べています",
+      "headlineOriginal": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Metaは、パブリッシャーがAIスクレイピングに反対した後、新しいビジネス用語を遅らせる",
+      "headlineOriginal": "Meta delays new business terms after publisher pushback on AI scraping",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "チームみらい安野貴博党首ら「サイバー攻撃から国民守る」緊急提言、デジ庁に提出 「AIにはAIを」",
+      "headlineOriginal": "チームみらい安野貴博党首ら「サイバー攻撃から国民守る」緊急提言、デジ庁に提出 「AIにはAIを」",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002563/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "レトロゲームがAIで圧倒されています",
+      "headlineOriginal": "Retro gaming is being overrun with AI",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "サイバー攻撃AIツール「ARTEX」とは 中国政府と連携する攻撃者も使用、各国で悪用確認",
+      "headlineOriginal": "サイバー攻撃AIツール「ARTEX」とは 中国政府と連携する攻撃者も使用、各国で悪用確認",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002552/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 516,
+    "itemsInPool": 589,
+    "clusters": 511,
+    "verifiedTopics": 5,
+    "unverifiedTopics": 506,
+    "elapsedMs": 22868
+  }
+}
