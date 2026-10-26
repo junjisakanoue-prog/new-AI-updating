@@ -1,0 +1,307 @@
+{
+  "date": "2026-10-27",
+  "generatedAt": "2026-10-26T22:59:10.253Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-10-27",
+  "threeLineSummary": [
+    "GPT-6.1 Terraのご紹介",
+    "AnthropicのIPO申請は、エンタープライズ顧客を引き付けるための戦略を明らかにします",
+    "Greptileは、GPT -6 Astraを使用してコードレビューを超えたバグ検出を行います"
+  ],
+  "lead": "2026-10-27 時点で、複数ソースの裏取りが取れた AI 関連トピック 7 件をまとめた。",
+  "sections": [
+    {
+      "heading": "GPT-6.1 Terraのご紹介",
+      "body": "高速で高性能なコンピューターをすべての人に提供\n\n初出は OpenAI Blog [1]。r/singularity [2] でも同内容が報じられている。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 1
+    },
+    {
+      "heading": "AnthropicのIPO申請は、エンタープライズ顧客を引き付けるための戦略を明らかにします",
+      "body": "AnthropicのS -1は、10万$以上の顧客の半数以上が現在、Claude Platformとファーストパーティアプリの両方を使用していることを示している。これは、エンタープライズ顧客をより粘着性にしているAmazonを連想させるクロスセリングプレイブックである。\n\n初出は TechCrunch AI [1]。The Verge AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 2
+    },
+    {
+      "heading": "Greptileは、GPT -6 Astraを使用してコードレビューを超えたバグ検出を行います",
+      "body": "GreptileがGPT -6 Astraを使用してユーザーのワークフローをテストし、Daybreakを使用してセキュリティを強化し、Codexを使用して手直しを減らす方法。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 3
+    },
+    {
+      "heading": "最新のAIクエスト：人間の脳のマッピング",
+      "body": "Googleの最新のAIクエストの神経科学レッスン「Polar Peaks」でAIリテラシーを学びましょう。\n\n初出は Google AI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Google AI Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 4
+    },
+    {
+      "heading": "学術コミュニティと協力して科学的理解を構築する",
+      "body": "OpenAIは、カケヤ予想、指数関数的時間仮説、量子色力学のモデル結果と、研究者がそれらを検証して構築する方法を共有しています。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 5
+    },
+    {
+      "heading": "GPT-6.1 SOLは、CodeRabbitが複雑なコードベース全体のセキュリティを強化するのに役立ちます",
+      "body": "CodeRabbitは、GPT-6.1 SOLを使用して、複雑なコードベース全体のセキュリティリスクを調査します。そのセキュリティエージェントは、開発者が調査結果と提案された修正を確認するのに役立ちます。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIの安全性やリスクに関する話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。自分が使っているサービスが該当するかどうかを確認しておくと安心です。",
+      "topic_index": 6
+    },
+    {
+      "heading": "ChatGPTの拡大する仕事の世界",
+      "body": "100か国近くの165の作業活動に関するOpenAI Signalsデータを調べ、人々が仕事でChatGPTをどのように使用しているか、使用状況が時間の経過とともにどのように変化しているかを明らかにします。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 7
+    }
+  ],
+  "xPosts": [
+    "GPT-6.1 Terraのご紹介（公式発表）",
+    "AnthropicのIPO申請は、エンタープライズ顧客を引き付けるための戦略を明らかにします（2ソースで確認）",
+    "Greptileは、GPT -6 Astraを使用してコードレビューを超えたバグ検出を行います（公式発表）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Introducing GPT-6.1 Terra",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 2,
+      "sourceCount": 3,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Introducing GPT-6.1 Terra",
+          "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-26T00:00:00.000Z"
+        },
+        {
+          "n": 2,
+          "source": "r/singularity",
+          "title": "GPT-6.1 Terra Benchmarks",
+          "url": "https://www.reddit.com/r/singularity/comments/1xg4ng6/gpt61_terra_benchmarks/",
+          "domain": "reddit.com",
+          "tier": 3,
+          "kind": "social",
+          "publishedAt": "2026-10-26T18:15:17.000Z"
+        },
+        {
+          "n": 3,
+          "source": "r/singularity",
+          "title": "Introducing GPT-6.1 Terra",
+          "url": "https://www.reddit.com/r/singularity/comments/1xg4hs6/introducing_gpt61_terra/",
+          "domain": "reddit.com",
+          "tier": 3,
+          "kind": "social",
+          "publishedAt": "2026-10-26T18:09:48.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+          "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-10-26T16:49:42.000Z"
+        },
+        {
+          "n": 2,
+          "source": "The Verge AI",
+          "title": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-10-26T13:32:49.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "url": "https://openai.com/index/greptile-code-review-codex-astra",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-26T22:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "Our newest AI Quest: Mapping the human brain",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Google AI Blog",
+          "title": "Our newest AI Quest: Mapping the human brain",
+          "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+          "domain": "blog.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-26T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "Working with academic communities to build scientific understanding",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Working with academic communities to build scientific understanding",
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-26T14:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+          "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-26T13:45:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "headline": "ChatGPT’s expanding world of work",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "ChatGPT’s expanding world of work",
+          "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-26T10:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "京都府庁、職員7000人の事務効率化で「Copilotだけに頼らない」と決めた理由",
+      "headlineOriginal": "京都府庁、職員7000人の事務効率化で「Copilotだけに頼らない」と決めた理由",
+      "source": "ITmedia AI+",
+      "url": "https://kn.itmedia.co.jp/kn/article/2610/27/2000002599/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AIで「月○○時間削減」それ本当？ 浮いた時間はどこに消えたのか",
+      "headlineOriginal": "AIで「月○○時間削減」それ本当？ 浮いた時間はどこに消えたのか",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/business/articles/2610/27/news016.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "「遅延なきネットワーク」ソブリンAIの鍵に NTT川添氏が語る「IOWN」実装後の社会",
+      "headlineOriginal": "「遅延なきネットワーク」ソブリンAIの鍵に NTT川添氏が語る「IOWN」実装後の社会",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/business/articles/2610/27/news024.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "FDEは「スーパーマンと思われがちだが……」 脱・人月モデルで期待大、AI時代の“花形職種”の実像は？",
+      "headlineOriginal": "FDEは「スーパーマンと思われがちだが……」 脱・人月モデルで期待大、AI時代の“花形職種”の実像は？",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/business/articles/2610/27/news013.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AnthropicはAIブームに供給するためにガスを燃やしています",
+      "headlineOriginal": "Anthropic is burning gas to feed the AI boom",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "三菱電機が描く工作機械×AIの未来、人手不足や技能伝承の「切り札」となるか",
+      "headlineOriginal": "三菱電機が描く工作機械×AIの未来、人手不足や技能伝承の「切り札」となるか",
+      "source": "ITmedia AI+",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2610/27/news041.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "伊藤忠インタラクティブが「Claude」活用研修 「AIを使う」から「業務を任せる」へ",
+      "headlineOriginal": "伊藤忠インタラクティブが「Claude」活用研修 「AIを使う」から「業務を任せる」へ",
+      "source": "ITmedia AI+",
+      "url": "https://kn.itmedia.co.jp/kn/article/2610/27/2000002583/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Apple、新しいSiri AI機能と新しい音楽ロゴを備えたiOSとmacOS 27.2をリリース",
+      "headlineOriginal": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 485,
+    "itemsInPool": 530,
+    "clusters": 474,
+    "verifiedTopics": 9,
+    "unverifiedTopics": 465,
+    "elapsedMs": 26420
+  }
+}

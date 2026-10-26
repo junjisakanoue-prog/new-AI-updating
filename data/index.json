@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-10-27",
+      "title": "AI 最新まとめ 2026-10-27",
+      "threeLineSummary": [
+        "GPT-6.1 Terraのご紹介",
+        "AnthropicのIPO申請は、エンタープライズ顧客を引き付けるための戦略を明らかにします",
+        "Greptileは、GPT -6 Astraを使用してコードレビューを超えたバグ検出を行います"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-10-26T22:59:10.253Z"
+    },
+    {
       "date": "2026-10-26",
       "title": "AI 最新まとめ 2026-10-26",
       "threeLineSummary": [
@@ -1090,5 +1101,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-10-25T21:20:18.288Z"
+  "updatedAt": "2026-10-26T22:59:10.258Z"
 }
