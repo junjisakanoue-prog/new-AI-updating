@@ -1,0 +1,307 @@
+{
+  "date": "2026-10-28",
+  "generatedAt": "2026-10-27T22:48:19.463Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-10-28",
+  "threeLineSummary": [
+    "Google DeepMind、ワールドモデル「Genie 4」発表 音声や会話もリアルタイム生成、Geminiと連携",
+    "コスパ重視の「GPT-6.1 Terra」新登場 コスト10分の1で一部Astraと同等性能うたう",
+    "RetellはOpenAIモデルを使用して、毎月1億回の通話を可能にしています"
+  ],
+  "lead": "2026-10-28 時点で、複数ソースの裏取りが取れた AI 関連トピック 7 件をまとめた。",
+  "sections": [
+    {
+      "heading": "Google DeepMind、ワールドモデル「Genie 4」発表 音声や会話もリアルタイム生成、Geminiと連携",
+      "body": "Google DeepMindは、対話型の仮想世界をリアルタイム生成するAI「Genie 4」を発表した。映像品質や物理演算が向上し、環境音や会話音声の同時生成に対応。人物の自然な動作やテキストによる環境操作が可能となった。まずは研究プレビューとして提供し、順次「Google AI Ultra」加入者等へ展開する。\n\n初出は ITmedia AI+ [1]。Ars Technica AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 1
+    },
+    {
+      "heading": "コスパ重視の「GPT-6.1 Terra」新登場 コスト10分の1で一部Astraと同等性能うたう",
+      "body": "OpenAIがコスパ重視の新モデル「GPT-6.1 Terra」を発表。最上位の「GPT-6 Astra」と一部同等の性能を、10分の1のコストで実現するとうたう。\n\n初出は ITmedia AI+ [1]。GIGAZINE [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 2
+    },
+    {
+      "heading": "RetellはOpenAIモデルを使用して、毎月1億回の通話を可能にしています",
+      "body": "GPT -6 AstraはRetellの音声エージェントのベンチマークを上回り、Codexは従業員1人あたりの年間収益率が160万$に達するのを支援しています。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。記事に出てくる「ベンチマーク」は、AIの性能を測るための共通テスト。学力テストの偏差値のようなものです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 3
+    },
+    {
+      "heading": "LFM 3で特殊なマルチモーダルモデルを構築",
+      "body": "LFM 3で特殊なマルチモーダルモデルを構築\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「マルチモーダル」は、文章だけでなく画像・音声・動画もまとめて扱えることです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 4
+    },
+    {
+      "heading": "Genie 4 ：新世代のワールドシミュレーション",
+      "body": "Genie 4 ：リアルタイムシミュレーションで前例のないリアリズムを解き放つ新しいワールドモデル。\n\n初出は DeepMind Blog [1]。",
+      "why_it_matters": "開発元の公式発表（DeepMind Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 5
+    },
+    {
+      "heading": "OpenAIがオラクルとのパートナーシップを拡大し、ChatGPTにアプリを導入",
+      "body": "OpenAIとOracleは、ビジネスアプリケーションとAIエージェントをChatGPTに導入し、新しいOracle製品を強化するためにパートナーシップを拡大しています。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、企業どうしのお金や提携の動きに関する話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。業界の力関係が変わると、使えるツールの選択肢にも影響してきます。",
+      "topic_index": 6
+    },
+    {
+      "heading": "DaybreakでCheck Pointが脆弱性研究を加速する方法",
+      "body": "OpenAI Daybreakにより、Check Pointは新しいセキュリティ保護の背後にある研究をスピードアップし、アナリストが脆弱性インテリジェンスを顧客防御にすばやく変換できるようにします。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 7
+    }
+  ],
+  "xPosts": [
+    "Google DeepMind、ワールドモデル「Genie 4」発表 音声や会話もリアルタイム生成、Geminiと連携（2ソースで確認）",
+    "コスパ重視の「GPT-6.1 Terra」新登場 コスト10分の1で一部Astraと同等性能うたう（2ソースで確認）",
+    "RetellはOpenAIモデルを使用して、毎月1億回の通話を可能にしています（公式発表）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Google DeepMind、ワールドモデル「Genie 4」発表 音声や会話もリアルタイム生成、Geminiと連携",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "Google DeepMind、ワールドモデル「Genie 4」発表 音声や会話もリアルタイム生成、Geminiと連携",
+          "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002648/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-10-27T21:53:37.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Ars Technica AI",
+          "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+          "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+          "domain": "arstechnica.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-10-27T16:00:22.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "コスパ重視の「GPT-6.1 Terra」新登場 コスト10分の1で一部Astraと同等性能うたう",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "コスパ重視の「GPT-6.1 Terra」新登場 コスト10分の1で一部Astraと同等性能うたう",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2610/27/2000002611/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-10-27T01:48:52.000Z"
+        },
+        {
+          "n": 2,
+          "source": "GIGAZINE",
+          "title": "「GPT-6.1 Terra」が登場、コスパ良好＆高速なモデルでテストによってはGPT-6 Astraと同等性能",
+          "url": "https://gigazine.net/news/20261027-gpt-6-1-terra/",
+          "domain": "gigazine.net",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-10-27T02:13:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "Retell uses OpenAI models to help power 100M monthly calls",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Retell uses OpenAI models to help power 100M monthly calls",
+          "url": "https://openai.com/index/retell-ai",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-27T15:00:00.000Z"
+        },
+        {
+          "n": 2,
+          "source": "OpenAI Blog",
+          "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "url": "https://openai.com/index/greptile-code-review-codex-astra",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-26T22:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "Build specialized multimodal models with LFM3",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "Build specialized multimodal models with LFM3",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-27T17:16:52.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "Genie 4: A new generation of world simulation",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "DeepMind Blog",
+          "title": "Genie 4: A new generation of world simulation",
+          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+          "domain": "deepmind.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-27T16:01:38.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+          "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-27T07:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "headline": "How Check Point accelerates vulnerability research with Daybreak",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "How Check Point accelerates vulnerability research with Daybreak",
+          "url": "https://openai.com/index/check-point-daybreak",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-27T00:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "8 VCからベンチマークまで、10月のSEC提出書類に隠されているものは次のとおりです",
+      "headlineOriginal": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
+      "source": "TechCrunch AI (tag)",
+      "url": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "「AIデータセンター」どこに作る？ 工場跡地、廃校、洋上、宇宙――ユニークな立地戦略の狙いは",
+      "headlineOriginal": "「AIデータセンター」どこに作る？ 工場跡地、廃校、洋上、宇宙――ユニークな立地戦略の狙いは",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/business/articles/2610/28/news039.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "「AI開発、“外注”しても大丈夫？」──丸投げで失敗するケースも 絶対に「手放してはいけないもの」とは",
+      "headlineOriginal": "「AI開発、“外注”しても大丈夫？」──丸投げで失敗するケースも 絶対に「手放してはいけないもの」とは",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/business/articles/2610/28/news011.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "日本取引所、金融市場の取引システム運用監視にAIを導入 精度97％を実現した方法",
+      "headlineOriginal": "日本取引所、金融市場の取引システム運用監視にAIを導入 精度97％を実現した方法",
+      "source": "ITmedia AI+",
+      "url": "https://kn.itmedia.co.jp/kn/article/2610/28/2000002621/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "「舵を握る人間がいない」：デラウェア州の計画では、AIエージェントがビジネス全体を運営できるようになります",
+      "headlineOriginal": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "バンク・オブ・アメリカは、銀行のパスワードをAIアシスタントと共有しないようお願いしています",
+      "headlineOriginal": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "IPO後のAnthropicの責任者は誰ですか？",
+      "headlineOriginal": "Who’s really in charge at Anthropic after the IPO?",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Anthropic IPOは、AIが人々を脅迫し、知覚を高め、人類を終わらせる可能性があると警告しています",
+      "headlineOriginal": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 761,
+    "itemsInPool": 792,
+    "clusters": 749,
+    "verifiedTopics": 10,
+    "unverifiedTopics": 739,
+    "elapsedMs": 28742
+  }
+}

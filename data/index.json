@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-10-28",
+      "title": "AI 最新まとめ 2026-10-28",
+      "threeLineSummary": [
+        "Google DeepMind、ワールドモデル「Genie 4」発表 音声や会話もリアルタイム生成、Geminiと連携",
+        "コスパ重視の「GPT-6.1 Terra」新登場 コスト10分の1で一部Astraと同等性能うたう",
+        "RetellはOpenAIモデルを使用して、毎月1億回の通話を可能にしています"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-10-27T22:48:19.463Z"
+    },
+    {
       "date": "2026-10-27",
       "title": "AI 最新まとめ 2026-10-27",
       "threeLineSummary": [
@@ -1101,5 +1112,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-10-26T22:59:10.258Z"
+  "updatedAt": "2026-10-27T22:48:19.468Z"
 }
