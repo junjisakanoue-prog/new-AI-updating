@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-10-29",
+      "title": "AI 最新まとめ 2026-10-29",
+      "threeLineSummary": [
+        "Google、「Gemini 4 Carbon」発表 「Argon」公開から2週間、サイバー防御能力などを強化",
+        "Google DeepMind、ワールドモデル「Genie 4」発表 音声や会話もリアルタイム生成、Geminiと連携",
+        "OpenAIとServiceNowは、エンタープライズワークフロー全体のパートナーシップを拡大"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-10-28T22:55:58.811Z"
+    },
+    {
       "date": "2026-10-28",
       "title": "AI 最新まとめ 2026-10-28",
       "threeLineSummary": [
@@ -1112,5 +1123,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-10-27T22:48:19.468Z"
+  "updatedAt": "2026-10-28T22:55:58.819Z"
 }
