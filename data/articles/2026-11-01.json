@@ -1,0 +1,169 @@
+{
+  "date": "2026-11-01",
+  "generatedAt": "2026-10-31T22:07:28.891Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-11-01",
+  "threeLineSummary": [
+    "ウェブサイトがAIトレーニングの設定をより簡単に表現できるようにする",
+    "コミュニティの安全性に関する報告と未成年者のための新しい保護措置",
+    "フェアユースはすべての人に利益をもたらす"
+  ],
+  "lead": "2026-11-01 時点で、複数ソースの裏取りが取れた AI 関連トピック 3 件をまとめた。",
+  "sections": [
+    {
+      "heading": "ウェブサイトがAIトレーニングの設定をより簡単に表現できるようにする",
+      "body": "OpenAIは、共有されたrobots.txtシグナルを尊重し、Webサイト運営者がAIトレーニングの設定を参加プロバイダーに伝えるのに役立ちます。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 1
+    },
+    {
+      "heading": "コミュニティの安全性に関する報告と未成年者のための新しい保護措置",
+      "body": "OpenAIは、セーフガードの拡大、早期の介入、公共安全報告への新たな取り組みにより、ChatGPTにおける暴力防止を強化しています。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 2
+    },
+    {
+      "heading": "フェアユースはすべての人に利益をもたらす",
+      "body": "OpenAIは、フェアユースがAIのトレーニングとイノベーションをどのようにサポートしているかについて、クリエイター、学者、アクセシビリティ支援者、法律専門家などによる裁判所の要旨の抜粋を共有しています。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 3
+    }
+  ],
+  "xPosts": [
+    "ウェブサイトがAIトレーニングの設定をより簡単に表現できるようにする（公式発表）",
+    "コミュニティの安全性に関する報告と未成年者のための新しい保護措置（公式発表）",
+    "フェアユースはすべての人に利益をもたらす（公式発表）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Making it easier for websites to express AI training preferences",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Making it easier for websites to express AI training preferences",
+          "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-30T09:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Community safety report and new protections for teens",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Community safety report and new protections for teens",
+          "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-30T09:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "Fair use benefits everyone",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Fair use benefits everyone",
+          "url": "https://openai.com/index/fair-use-benefits-everyone",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-10-30T00:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "AppleのCEOは、同社は「AIのためにAIを出荷したくない」と述べている",
+      "headlineOriginal": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "裁判官は、xAIデータセンター汚染をめぐるNAACP訴訟を前進させる",
+      "headlineOriginal": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "バスク語の音声言語モデルの開発\n続きを読む： https://arxiv.org/html/2610.36911v1",
+      "headlineOriginal": "Developing a Speech Language Model for Basque\nRead more: https://arxiv.org/html/2610.36911v1",
+      "source": "Bluesky / @arxiv-cs-ai.bsky.social",
+      "url": "https://bsky.app/profile/arxiv-cs-ai.bsky.social/post/3mz75ttd3wo2b",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "OpenAIが新ラウンドの資金調達目標を引き下げたと報じられている",
+      "headlineOriginal": "OpenAI reportedly lowers funding target for new round",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Metaができる前にAI Tamagotchiを構築しました",
+      "headlineOriginal": "I built an AI Tamagotchi before Meta could",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Nvidia、ウェストバージニア州にあるNscaleのAIデータセンターの共同署名者を務める",
+      "headlineOriginal": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AIの「費用対効果が分からない」問題、解決へ？ Claude Enterprise搭載の「3つの新機能」",
+      "headlineOriginal": "AIの「費用対効果が分からない」問題、解決へ？ Claude Enterprise搭載の「3つの新機能」",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news009.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "プライバシーに焦点を当てたAIアシスタントであるOllieは、",
+      "headlineOriginal": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 48,
+    "itemsCollected": 647,
+    "itemsInPool": 697,
+    "clusters": 640,
+    "verifiedTopics": 3,
+    "unverifiedTopics": 637,
+    "elapsedMs": 34634
+  }
+}
