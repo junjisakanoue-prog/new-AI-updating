@@ -1,0 +1,287 @@
+{
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-03T23:50:41.517Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-11-04",
+  "threeLineSummary": [
+    "Googleは学校がAIツールをスキップできるようにしますが、検索もあきらめなければなりません",
+    "パレット：デザイン言語でデッキを構築するための小さなモデルの指導",
+    "OpenAIでシスコがマシンスピードで防御する方法"
+  ],
+  "lead": "2026-11-04 時点で、複数ソースの裏取りが取れた AI 関連トピック 7 件をまとめた。",
+  "sections": [
+    {
+      "heading": "Googleは学校がAIツールをスキップできるようにしますが、検索もあきらめなければなりません",
+      "body": "Googleは、答えを与えないと言われているAIツールを学校に提供します。\n\n初出は Ars Technica AI [1]。TechCrunch AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 1
+    },
+    {
+      "heading": "パレット：デザイン言語でデッキを構築するための小さなモデルの指導",
+      "body": "パレット：デザイン言語でデッキを構築するための小さなモデルの指導\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 2
+    },
+    {
+      "heading": "OpenAIでシスコがマシンスピードで防御する方法",
+      "body": "シスコは、ネットワークインテリジェンスとOpenAIモデルを組み合わせて、エンタープライズセキュリティを強化しています。より適応力のある防御を構築している方法を学びましょう。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 3
+    },
+    {
+      "heading": "HeimstadenはAIを使用して住宅用不動産管理を変更しています",
+      "body": "HeimstadenがOpenAIのChatGPT EnterpriseとCodexを使用して、ヨーロッパ各地の不動産管理を変革し、コストを削減し、従業員に力を与える方法をご覧ください。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIを使うときの値段や条件が変わる、という話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。普段使っているツールの請求や使える範囲に影響する可能性があります。",
+      "topic_index": 4
+    },
+    {
+      "heading": "OpenAI、Jill Hazelbakerを最高経営責任者に任命",
+      "body": "Jill Hazelbaker氏は、OpenAIにチーフコーポレートアフェアーズオフィサーとして加わり、同社のグローバルコミュニケーションと企業ポジショニングをリードします。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 5
+    },
+    {
+      "heading": "トランスフォーマーモデル統合契約",
+      "body": "トランスフォーマーモデル統合契約\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 6
+    },
+    {
+      "heading": "OpenAIを強化するための次のセキュリティスプリントの準備",
+      "body": "OpenAIは、AIを使用した防御をテストおよび強化するために、Cathedral Systemsとの次の内部セキュリティスプリントを準備しています。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIの安全性やリスクに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。自分が使っているサービスが該当するかどうかを確認しておくと安心です。",
+      "topic_index": 7
+    }
+  ],
+  "xPosts": [
+    "Googleは学校がAIツールをスキップできるようにしますが、検索もあきらめなければなりません（2ソースで確認）",
+    "パレット：デザイン言語でデッキを構築するための小さなモデルの指導（公式発表）",
+    "OpenAIでシスコがマシンスピードで防御する方法（公式発表）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Google will let schools skip AI tools, but they have to give up search, too",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Ars Technica AI",
+          "title": "Google will let schools skip AI tools, but they have to give up search, too",
+          "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+          "domain": "arstechnica.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-03T17:54:43.000Z"
+        },
+        {
+          "n": 2,
+          "source": "TechCrunch AI",
+          "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+          "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-03T16:30:34.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Palette: teaching a small model to build decks in your design language",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "Palette: teaching a small model to build decks in your design language",
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-03T16:35:36.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "How Cisco defends at machine speed with OpenAI",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "How Cisco defends at machine speed with OpenAI",
+          "url": "https://openai.com/index/cisco-cyber",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-03T08:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "Heimstaden is changing residential real estate management with AI",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Heimstaden is changing residential real estate management with AI",
+          "url": "https://openai.com/index/heimstaden",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-03T08:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+          "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-03T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "Transformers Model Integration Contracts",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "Transformers Model Integration Contracts",
+          "url": "https://huggingface.co/blog/transformers-mic",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-03T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "headline": "Preparing our next security sprint to harden OpenAI",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Preparing our next security sprint to harden OpenAI",
+          "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-02T18:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "AIバブルがいつ破裂するのか聞くのはやめてください",
+      "headlineOriginal": "Please stop asking me when the AI bubble will pop",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Anthropicは、AIモデルのアイデンティティを証明するシステムに取り組んでいます",
+      "headlineOriginal": "Anthropic is working on a system to prove AI models’ identity",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Google、学校の生徒向けAI機能を原則オフへ 「AIなしのGoogle検索」は選べず批判も",
+      "headlineOriginal": "Google、学校の生徒向けAI機能を原則オフへ 「AIなしのGoogle検索」は選べず批判も",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002849/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "私のノートパソコンのQwen 3.8 27 Bは、モデルの重みも解釈できます",
+      "headlineOriginal": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "source": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "資料作成の「手直し地獄」がちょっと楽になる、Gemini新機能発表まとめ",
+      "headlineOriginal": "資料作成の「手直し地獄」がちょっと楽になる、Gemini新機能発表まとめ",
+      "source": "ITmedia AI+",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/04/2000002816/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "東北大とアイシンがSTT-MRAM搭載AIチップを開発、16nmプロセスでは世界初",
+      "headlineOriginal": "東北大とアイシンがSTT-MRAM搭載AIチップを開発、16nmプロセスでは世界初",
+      "source": "ITmedia AI+",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/04/news046.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Ted SchleinのBallistic Venturesは、AI主導のサイバーセキュリティブームの中で新しいファンドのために4億9000万$を求めています",
+      "headlineOriginal": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "全社員を「AIマスター化」した広告代理店の“研修じゃない”人材戦略",
+      "headlineOriginal": "全社員を「AIマスター化」した広告代理店の“研修じゃない”人材戦略",
+      "source": "ITmedia AI+",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/04/2000002712/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 1062,
+    "itemsInPool": 1096,
+    "clusters": 1041,
+    "verifiedTopics": 11,
+    "unverifiedTopics": 1030,
+    "elapsedMs": 29200
+  }
+}
