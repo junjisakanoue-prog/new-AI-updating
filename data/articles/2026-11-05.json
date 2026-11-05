@@ -1,0 +1,297 @@
+{
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T00:04:26.041Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-11-05",
+  "threeLineSummary": [
+    "GitHub、「Copilot Fusion」正式リリース タスクに応じて最適なAIモデル選択、高性能・低コスト両立",
+    "アジャイル審議： AIが人間がグレーゾーンを定義するのにどのように役立つか",
+    "OpenAI、Pierre Computer Company, Inc.を買収"
+  ],
+  "lead": "2026-11-05 時点で、複数ソースの裏取りが取れた AI 関連トピック 7 件をまとめた。",
+  "sections": [
+    {
+      "heading": "GitHub、「Copilot Fusion」正式リリース タスクに応じて最適なAIモデル選択、高性能・低コスト両立",
+      "body": "米GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。\n\n初出は ITmedia AI+ [1]。Publickey [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 1
+    },
+    {
+      "heading": "アジャイル審議： AIが人間がグレーゾーンを定義するのにどのように役立つか",
+      "body": "データマイニングとモデリング\n\n初出は Google Research [1]。",
+      "why_it_matters": "開発元の公式発表（Google Research）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 2
+    },
+    {
+      "heading": "OpenAI、Pierre Computer Company, Inc.を買収",
+      "body": "OpenAIはPierre Computer Companyを買収し、Codexのコードの構築、理解、レビューのためのツールを拡張します。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、企業どうしのお金や提携の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。業界の力関係が変わると、使えるツールの選択肢にも影響してきます。",
+      "topic_index": 3
+    },
+    {
+      "heading": "ルートへのパスが1000個減ります",
+      "body": "OpenAIは、Linuxカーネルの948件のローカル特権昇格脆弱性のパッチを検出、検証、生成する自律パイプラインを構築しました。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIの安全性やリスクに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。自分が使っているサービスが該当するかどうかを確認しておくと安心です。",
+      "topic_index": 4
+    },
+    {
+      "heading": "Daybreak RedがAWS GovCloud （米国東部）で利用可能になりました",
+      "body": "Daybreak Redは、認定されたサイバーセキュリティ作業のために、Amazon Bedrockを介してAWS GovCloud （米国東部）の承認された顧客にGPT-5.6 Cyberを提供します。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIの安全性やリスクに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。自分が使っているサービスが該当するかどうかを確認しておくと安心です。",
+      "topic_index": 5
+    },
+    {
+      "heading": "DevRevはGPT-6.1 SOLで自律セルフサービスを提供",
+      "body": "DevRevは、GPT-6.1 SOLを使用してコンピューターとオペレーターに電力を供給し、推論、スピード、エンタープライズサービスのコストのバランスをとっています。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIを使うときの値段や条件が変わる、という話です。記事に出てくる「推論（インファレンス）」は、AIが実際に考えて答えを出す処理のこと。ここが速い・安いほど実用しやすくなります。普段使っているツールの請求や使える範囲に影響する可能性があります。",
+      "topic_index": 6
+    },
+    {
+      "heading": "パレット：デザイン言語でデッキを構築するための小さなモデルの指導",
+      "body": "パレット：デザイン言語でデッキを構築するための小さなモデルの指導\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 7
+    }
+  ],
+  "xPosts": [
+    "GitHub、「Copilot Fusion」正式リリース タスクに応じて最適なAIモデル選択、高性能・低コスト両立（2ソースで確認）",
+    "アジャイル審議： AIが人間がグレーゾーンを定義するのにどのように役立つか（公式発表）",
+    "OpenAI、Pierre Computer Company, Inc.を買収（公式発表）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "GitHub、「Copilot Fusion」正式リリース タスクに応じて最適なAIモデル選択、高性能・低コスト両立",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 3,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "GitHub、「Copilot Fusion」正式リリース タスクに応じて最適なAIモデル選択、高性能・低コスト両立",
+          "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002869/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-04T04:13:20.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Publickey",
+          "title": "「GitHub Copilot Dreaming」発表。作業を振り返ってパーソナルメモリやガイダンスをバックグラウンドで整理、アップデート。GitHub Universe 2026",
+          "url": "https://www.publickey1.jp/blog/26/github_copilot_dreaminggithub_universe_2026.html",
+          "domain": "publickey1.jp",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-11-04T15:15:49.000Z"
+        },
+        {
+          "n": 3,
+          "source": "Publickey",
+          "title": "GitHub、より高度なコードレビューを行う「Copilot Code Review Max」発表。GitHub Universe 2026",
+          "url": "https://www.publickey1.jp/blog/26/githubcopilot_code_review_maxgithub_universe_2026.html",
+          "domain": "publickey1.jp",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-11-03T15:14:57.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Agile Deliberation: How AI helps humans define the gray areas",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Google Research",
+          "title": "Agile Deliberation: How AI helps humans define the gray areas",
+          "url": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/",
+          "domain": "research.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-04T18:07:05.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-04T14:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "A thousand fewer paths to root",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "A thousand fewer paths to root",
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-04T08:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+          "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-04T07:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+          "url": "https://openai.com/index/devrev-enterprise-self-service",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-04T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "headline": "Palette: teaching a small model to build decks in your design language",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "Palette: teaching a small model to build decks in your design language",
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-03T16:35:36.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "オープンソースAIが活況を呈しています。ハグしている顔は、誰が利益を得るかを説明します。",
+      "headlineOriginal": "Open source AI is booming. Hugging Face explains who profits.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "DuckDuckGoは、GoogleのAIポリシーに対する反発の中で、学校に自らを売り込む",
+      "headlineOriginal": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AI PACは数百万ドルを費やして議会を形成しようとしました—ここで彼らがどのように運命づけられたか",
+      "headlineOriginal": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Qualcommは、スマートフォンの売上が減少するにつれて、データセンターに大きな賭けをしています",
+      "headlineOriginal": "Qualcomm is betting big on data centers as smartphone sales sink",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "CEOは、同社の不思議なAIファーストデバイスが来月落とされるとは何も言いません",
+      "headlineOriginal": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "「トイレ」に凝ったらAI需要で大躍進――TOTO、利益の7割かせぐ「半導体」ビジネスの正体",
+      "headlineOriginal": "「トイレ」に凝ったらAI需要で大躍進――TOTO、利益の7割かせぐ「半導体」ビジネスの正体",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/business/articles/2611/05/news018.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "GPT-6モデルはAstra、Sol、それともLuna？ OpenAIが教える、Codex爆速開発の鉄則",
+      "headlineOriginal": "GPT-6モデルはAstra、Sol、それともLuna？ OpenAIが教える、Codex爆速開発の鉄則",
+      "source": "ITmedia AI+",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/05/2000002770/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "深刻な「中国依存」を脱せるか 老舗問屋が動いた「空気を使った肥料づくり」とAI農業とは？",
+      "headlineOriginal": "深刻な「中国依存」を脱せるか 老舗問屋が動いた「空気を使った肥料づくり」とAI農業とは？",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/business/articles/2611/05/news019.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 601,
+    "itemsInPool": 643,
+    "clusters": 590,
+    "verifiedTopics": 7,
+    "unverifiedTopics": 583,
+    "elapsedMs": 22025
+  }
+}
