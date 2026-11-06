@@ -1,0 +1,270 @@
+{
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-06T23:36:44.347Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-11-07",
+  "threeLineSummary": [
+    "Gemini Omni 1.2フラッシュ：より長いクリップで高速でコスト効率に優れています",
+    "OpenAIのシステムの脆弱性を見つけるためにHacktronと提携",
+    "AIエージェントが日常のウェットラボ科学にどのように対処するかを測定する"
+  ],
+  "lead": "2026-11-07 時点で、複数ソースの裏取りが取れた AI 関連トピック 6 件をまとめた。",
+  "sections": [
+    {
+      "heading": "Gemini Omni 1.2フラッシュ：より長いクリップで高速でコスト効率に優れています",
+      "body": "Gemini Omni 1.2フラッシュ：より長いクリップで高速でコスト効率に優れています\n\n初出は DeepMind Blog [1]。Google AI Blog [2]、GIGAZINE [3] でも同内容が報じられている。",
+      "why_it_matters": "独立した 3 ソースで確認済み（確度: 高）。",
+      "plain_explanation": "つまり、AIを使うときの値段や条件が変わる、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。普段使っているツールの請求や使える範囲に影響する可能性があります。",
+      "topic_index": 1
+    },
+    {
+      "heading": "OpenAIのシステムの脆弱性を見つけるためにHacktronと提携",
+      "body": "OpenAIはHacktronと提携して、脆弱性を発見し、サードパーティのサービスとの接続をテストし、最先端のAIで防御を強化しています。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIの安全性やリスクに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。自分が使っているサービスが該当するかどうかを確認しておくと安心です。",
+      "topic_index": 2
+    },
+    {
+      "heading": "AIエージェントが日常のウェットラボ科学にどのように対処するかを測定する",
+      "body": "OpenAIは、100タスクのベンチマークであるBioBasicsBenchを導入し、AIエージェントが生の実験データをどの程度うまく解釈し、毎日のウェットラボ科学を処理するかを測定します。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。記事に出てくる「ベンチマーク」は、AIの性能を測るための共通テスト。学力テストの偏差値のようなものです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 3
+    },
+    {
+      "heading": "インタラクティブな世界シミュレーションのための新しいNVIDIA Cosmos 3オープンモデル",
+      "body": "インタラクティブな世界シミュレーションのための新しいNVIDIA Cosmos 3オープンモデル\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「GPU」は、AIの計算に使う高性能な半導体。AI開発ではこれの確保がコストと速度を左右します。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 4
+    },
+    {
+      "heading": "オーストラリアの大学はAIネイティブの卒業生を生み出しています",
+      "body": "オーストラリアの大学は、ChatGPTへのアクセスを拡大し、AIを教育と学習に取り入れて、学生がAI対応の労働力に備えるようにしています。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 5
+    },
+    {
+      "heading": "ル・チョンクは頭脳をもたらします。スタジオはそれを機能させます。",
+      "body": "Mistral StudioとLe Chonkを使用して、モデル、データ、インフラストラクチャを完全に制御することで、エンタープライズエージェント、ワークフロー、アプリをより迅速に構築およびデプロイできます。\n\n初出は Mistral AI [1]。",
+      "why_it_matters": "開発元の公式発表（Mistral AI）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 6
+    }
+  ],
+  "xPosts": [
+    "Gemini Omni 1.2フラッシュ：より長いクリップで高速でコスト効率に優れています（3ソースで確認）",
+    "OpenAIのシステムの脆弱性を見つけるためにHacktronと提携（公式発表）",
+    "AIエージェントが日常のウェットラボ科学にどのように対処するかを測定する（公式発表）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "confidence": "high",
+      "domainCount": 3,
+      "socialCount": 0,
+      "sourceCount": 3,
+      "sources": [
+        {
+          "n": 1,
+          "source": "DeepMind Blog",
+          "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+          "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+          "domain": "deepmind.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-05T17:05:16.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Google AI Blog",
+          "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+          "domain": "blog.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-05T17:00:00.000Z"
+        },
+        {
+          "n": 3,
+          "source": "GIGAZINE",
+          "title": "Googleが動画生成AI「Gemini Omni 1.2 Flash」をリリース、最大15秒の動画を出力可能",
+          "url": "https://gigazine.net/news/20261106-gemini-omni-1-2-flash/",
+          "domain": "gigazine.net",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-11-06T03:46:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+          "url": "https://openai.com/index/partnering-with-hacktron",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-06T08:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "Measuring how AI agents handle everyday wet-lab science",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Measuring how AI agents handle everyday wet-lab science",
+          "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-06T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+          "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-05T19:35:16.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "Australian universities are creating AI-native graduates",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Australian universities are creating AI-native graduates",
+          "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-05T17:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "Le Chonk brings the brains. Studio puts it to work.",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Mistral AI",
+          "title": "Le Chonk brings the brains. Studio puts it to work.",
+          "url": "https://mistral.ai/news/build-with-studio/",
+          "domain": "mistral.ai",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-05T12:00:14.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "中国は、Jensen HuangをスパイするためにAI幹部を採用したと伝えられている",
+      "headlineOriginal": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "OpenAIは、1.25兆ドルの評価でさらに110億ドルを調達したと伝えられています",
+      "headlineOriginal": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AI面接を導入したのに、応募者情報は手入力？ 採用現場の「二度手間」を解消へ",
+      "headlineOriginal": "AI面接を導入したのに、応募者情報は手入力？ 採用現場の「二度手間」を解消へ",
+      "source": "ITmedia AI+",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002951/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "「ChatGPTの回答にリンクがない＝見られていない」 実は違うAIの情報収集",
+      "headlineOriginal": "「ChatGPTの回答にリンクがない＝見られていない」 実は違うAIの情報収集",
+      "source": "ITmedia AI+",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002948/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AIで営業は効率化した、でもなぜ売れない？ 成果を出す人が大切にしていること",
+      "headlineOriginal": "AIで営業は効率化した、でもなぜ売れない？ 成果を出す人が大切にしていること",
+      "source": "ITmedia AI+",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002945/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Blue Waveの中間選考がAI業界をどのように変えるか",
+      "headlineOriginal": "How a Blue Wave midterm might reshape the AI industry",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AIデータセンターに関するすべての最新情報",
+      "headlineOriginal": "All the latest updates on AI data centers",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "何百ものArtex AIハッキングツールがウェブに公開されています",
+      "headlineOriginal": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 588,
+    "itemsInPool": 643,
+    "clusters": 579,
+    "verifiedTopics": 6,
+    "unverifiedTopics": 573,
+    "elapsedMs": 22641
+  }
+}
