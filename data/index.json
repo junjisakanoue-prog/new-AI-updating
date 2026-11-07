@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-11-08",
+      "title": "AI 最新まとめ 2026-11-08",
+      "threeLineSummary": [
+        "米国の諜報機関メモによると、Megaspeedの幹部はNVIDIAのCEOをスパイするために採用された",
+        "ライバルのAnthropicがIPOに近づくにつれて、OpenAIは1.25兆$で評価されました",
+        "OpenAIのシステムの脆弱性を見つけるためにHacktronと提携"
+      ],
+      "topicCount": 4,
+      "generatedAt": "2026-11-07T22:27:39.453Z"
+    },
+    {
       "date": "2026-11-07",
       "title": "AI 最新まとめ 2026-11-07",
       "threeLineSummary": [
@@ -1222,5 +1233,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-11-06T23:36:44.355Z"
+  "updatedAt": "2026-11-07T22:27:39.460Z"
 }
