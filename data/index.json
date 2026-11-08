@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-11-09",
+      "title": "AI 最新まとめ 2026-11-09",
+      "threeLineSummary": [
+        "NVIDIAは、CEOのJensen Huangと中国のスパイの可能性との関係を調査します",
+        "ライバルのAnthropicがIPOに近づくにつれて、OpenAIは1.25兆$で評価されました",
+        "OpenAIのシステムの脆弱性を見つけるためにHacktronと提携"
+      ],
+      "topicCount": 4,
+      "generatedAt": "2026-11-08T22:37:50.065Z"
+    },
+    {
       "date": "2026-11-08",
       "title": "AI 最新まとめ 2026-11-08",
       "threeLineSummary": [
@@ -1233,5 +1244,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-11-07T22:27:39.460Z"
+  "updatedAt": "2026-11-08T22:37:50.074Z"
 }
