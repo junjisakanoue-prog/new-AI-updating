@@ -1,0 +1,337 @@
+{
+  "date": "2026-11-11",
+  "generatedAt": "2026-11-10T23:51:08.981Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-11-11",
+  "threeLineSummary": [
+    "ジェミニ4カーボンが利用可能になりました",
+    "NVIDIA CEOのJensen Huang氏と中国のスパイ容疑者との関係：タイムライン",
+    "「Fable 5.2」の用途は？ Claudeモデルの選び方、Anthropicが基本を解説"
+  ],
+  "lead": "2026-11-11 時点で、複数ソースの裏取りが取れた AI 関連トピック 7 件をまとめた。",
+  "sections": [
+    {
+      "heading": "ジェミニ4カーボンが利用可能になりました",
+      "body": "ジェミニ4カーボンが利用可能になりました\n\n初出は DeepMind Blog [1]。The Verge AI [2]、Simon Willison [3] でも同内容が報じられている。",
+      "why_it_matters": "独立した 3 ソースで確認済み（確度: 高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 1
+    },
+    {
+      "heading": "NVIDIA CEOのJensen Huang氏と中国のスパイ容疑者との関係：タイムライン",
+      "body": "この事件は、米国と中国が最先端のAIインフラストラクチャを開発しようと競争しているため、国家安全保障に影響を与える可能性がある。\n\n初出は TechCrunch AI [1]。Wired AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AIの安全性やリスクに関する話です。記事に出てくる「GPU」は、AIの計算に使う高性能な半導体。AI開発ではこれの確保がコストと速度を左右します。自分が使っているサービスが該当するかどうかを確認しておくと安心です。",
+      "topic_index": 2
+    },
+    {
+      "heading": "「Fable 5.2」の用途は？ Claudeモデルの選び方、Anthropicが基本を解説",
+      "body": "米Anthropicは「Claude」のモデルの選び方を公式ブログで解説した。\n\n初出は ITmedia AI+ [1]。GIGAZINE [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 3
+    },
+    {
+      "heading": "ジェミニインテリジェンス：新機能、より多くのデバイスで",
+      "body": "ジェミニ・インテリジェンスは、より多くのデバイスに展開されています。これらのデバイス全体で拡張された機能が、より多くのことを行うのにどのように役立つかをご覧ください。\n\n初出は Google AI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Google AI Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 4
+    },
+    {
+      "heading": "アドビのクリエイティブおよび生産性向上ツールを、日常のGoogleアプリに近づけています。",
+      "body": "GoogleとAdobeは、クリエイティブツールと生産性ツールを統合しています。ドライブでPDFを編集し、GeminiでAdobe AIを使用します。このパートナーシップの新機能をご覧ください。\n\n初出は Google AI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Google AI Blog）に基づく。",
+      "plain_explanation": "つまり、企業どうしのお金や提携の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。業界の力関係が変わると、使えるツールの選択肢にも影響してきます。",
+      "topic_index": 5
+    },
+    {
+      "heading": "最も小さく、最も効率的なモデルのご紹介： Muse Ember",
+      "body": "最小で最も効率的なモデルのご紹介： Muse Ember Meta AIは、Claude Haiku/GPT Lunaカテゴリーのエントリーを開始しました。Muse Emberは次のように説明しています。[...]複雑な推論実行のために設計された最小で最も効率的なモデルと、ツールコール、コーディングサブタスク、ルーティング、抽出、長いドキュメント解析などの作業エージェントが一日中繰り返す。短いプロンプトの場合、価格は…\n\n初出は Simon Willison [1]。GIGAZINE [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: 中）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「推論（インファレンス）」は、AIが実際に考えて答えを出す処理のこと。ここが速い・安いほど実用しやすくなります。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 6
+    },
+    {
+      "heading": "介護者が日常生活でAIを使用するのを支援する",
+      "body": "OpenAIアカデミーは、米国の5つの都市の介護者に無料の実践的なChatGPTワークショップを提供し、日常生活のための実用的なAIスキルを構築するのに役立ちます。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIを使うときの値段や条件が変わる、という話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。普段使っているツールの請求や使える範囲に影響する可能性があります。",
+      "topic_index": 7
+    }
+  ],
+  "xPosts": [
+    "ジェミニ4カーボンが利用可能になりました（3ソースで確認）",
+    "NVIDIA CEOのJensen Huang氏と中国のスパイ容疑者との関係：タイムライン（2ソースで確認）",
+    "「Fable 5.2」の用途は？ Claudeモデルの選び方、Anthropicが基本を解説（2ソースで確認）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Gemini 4 Carbon is now available",
+      "confidence": "high",
+      "domainCount": 3,
+      "socialCount": 0,
+      "sourceCount": 3,
+      "sources": [
+        {
+          "n": 1,
+          "source": "DeepMind Blog",
+          "title": "Gemini 4 Carbon is now available",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+          "domain": "deepmind.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-10T16:03:47.000Z"
+        },
+        {
+          "n": 2,
+          "source": "The Verge AI",
+          "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-10T16:00:00.000Z"
+        },
+        {
+          "n": 3,
+          "source": "Simon Willison",
+          "title": "llm-gemini 0.36",
+          "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+          "domain": "simonwillison.net",
+          "tier": 2,
+          "kind": "blog",
+          "publishedAt": "2026-11-10T20:09:44.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+          "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-10T17:04:19.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Wired AI",
+          "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+          "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+          "domain": "wired.com",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-11-10T00:18:19.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "「Fable 5.2」の用途は？ Claudeモデルの選び方、Anthropicが基本を解説",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "「Fable 5.2」の用途は？ Claudeモデルの選び方、Anthropicが基本を解説",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/10/2000003061/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-10T04:26:38.000Z"
+        },
+        {
+          "n": 2,
+          "source": "GIGAZINE",
+          "title": "Claude Fable 5.2とClaude Mythos 5.2が登場、1000体以上のAIを指揮して8日間でOSを自律開発することに成功",
+          "url": "https://gigazine.net/news/20261110-anthropic-claude-fable-mythos-5-2/",
+          "domain": "gigazine.net",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-11-10T02:47:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "Gemini Intelligence: New features, on more devices",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Google AI Blog",
+          "title": "Gemini Intelligence: New features, on more devices",
+          "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+          "domain": "blog.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-10T19:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Google AI Blog",
+          "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+          "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+          "domain": "blog.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-10T14:00:00.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Google AI Blog",
+          "title": "Google Cloud launches Gemini for healthcare.",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+          "domain": "blog.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-10T13:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+      "confidence": "medium",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Simon Willison",
+          "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+          "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+          "domain": "simonwillison.net",
+          "tier": 2,
+          "kind": "blog",
+          "publishedAt": "2026-11-10T07:28:21.000Z"
+        },
+        {
+          "n": 2,
+          "source": "GIGAZINE",
+          "title": "Metaが小型AIモデル「Muse Ember」を発表、Claude Haiku 5.5と同等の性能を約3分の1のコストで実現",
+          "url": "https://gigazine.net/news/20261110-meta-muse-ember/",
+          "domain": "gigazine.net",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-11-10T01:54:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "headline": "Helping caregivers use AI in everyday life",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Helping caregivers use AI in everyday life",
+          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-10T12:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "AmazonがAIを搭載したセキュリティドローンとロボットをデビューさせるにつれて、リングカメラはモバイルになります",
+      "headlineOriginal": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "SCM変革の「壁」をAIでどう突破するか、o9とTDKが語るレガシー脱却の道",
+      "headlineOriginal": "SCM変革の「壁」をAIでどう突破するか、o9とTDKが語るレガシー脱却の道",
+      "source": "ITmedia AI+",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/11/news024.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Google、「Gemini 4 Carbon」一般提供開始 Geminiアプリでは最上位「AI Ultra」限定",
+      "headlineOriginal": "Google、「Gemini 4 Carbon」一般提供開始 Geminiアプリでは最上位「AI Ultra」限定",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003083/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Gemini Notebookで規定探しの手間をゼロにする、「問い合わせ効率化」超入門",
+      "headlineOriginal": "Gemini Notebookで規定探しの手間をゼロにする、「問い合わせ効率化」超入門",
+      "source": "ITmedia AI+",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/11/2000003077/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "通信大手3社こぞって「フィジカルAI」に参入、なぜ？ ロボットが動くともうかるワケ",
+      "headlineOriginal": "通信大手3社こぞって「フィジカルAI」に参入、なぜ？ ロボットが動くともうかるワケ",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/business/articles/2611/11/news038.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Grok Buildコーディングエージェントが機密情報を漏洩、一部はSpaceXSIに所属",
+      "headlineOriginal": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "OpenAI、Sonder創業者が設立した旅行スタートアップOdessiaを買収",
+      "headlineOriginal": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "ニューヨークのAI安全法が施行されるにつれて、OpenAI、Anthropicは新しい監督に直面しています",
+      "headlineOriginal": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 1119,
+    "itemsInPool": 1149,
+    "clusters": 1101,
+    "verifiedTopics": 13,
+    "unverifiedTopics": 1088,
+    "elapsedMs": 22601
+  }
+}
