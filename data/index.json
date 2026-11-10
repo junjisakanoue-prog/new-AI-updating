@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-11-10",
+      "title": "AI 最新まとめ 2026-11-10",
+      "threeLineSummary": [
+        "NVIDIAは、CEOのJensen Huangと中国のスパイの可能性との関係を調査します",
+        "Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表 API料金2割下…",
+        "Qwen3.8-27Bベースに「西洋の価値観を強化」したオープンモデル登場、「逆に偏っている」との批判も Hermes…"
+      ],
+      "topicCount": 6,
+      "generatedAt": "2026-11-10T01:50:18.048Z"
+    },
+    {
       "date": "2026-11-09",
       "title": "AI 最新まとめ 2026-11-09",
       "threeLineSummary": [
@@ -1244,5 +1255,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-11-08T22:37:50.074Z"
+  "updatedAt": "2026-11-10T01:50:18.057Z"
 }

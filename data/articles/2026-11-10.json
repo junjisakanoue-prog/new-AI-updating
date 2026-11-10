@@ -1,0 +1,280 @@
+{
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-10T01:50:18.048Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-11-10",
+  "threeLineSummary": [
+    "NVIDIAは、CEOのJensen Huangと中国のスパイの可能性との関係を調査します",
+    "Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表 API料金2割下…",
+    "Qwen3.8-27Bベースに「西洋の価値観を強化」したオープンモデル登場、「逆に偏っている」との批判も Hermes…"
+  ],
+  "lead": "2026-11-10 時点で、複数ソースの裏取りが取れた AI 関連トピック 6 件をまとめた。",
+  "sections": [
+    {
+      "heading": "NVIDIAは、CEOのJensen Huangと中国のスパイの可能性との関係を調査します",
+      "body": "同社へのメモで、Huangは浮気をしていることを認めた。\n\n初出は TechCrunch AI [1]。Wired AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「GPU」は、AIの計算に使う高性能な半導体。AI開発ではこれの確保がコストと速度を左右します。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 1
+    },
+    {
+      "heading": "Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表 API料金2割下げ、出力は最大30％高速化",
+      "body": "Anthropicは、最上位AIモデルの新版「Claude Fable 5.2」および審査制の「Claude Mythos 5.2」を発表した。出力速度は最大30％向上し、API料金は2割値下げされている。長時間の複雑な推論やエージェント型コーディングに特化しており、同日より主要クラウドや各種アプリで提供が開始された。\n\n初出は ITmedia AI+ [1]。The Verge AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「API」は、自分のアプリやサービスからAIを呼び出して使うための接続口のことです。記事に出てくる「推論（インファレンス）」は、AIが実際に考えて答えを出す処理のこと。ここが速い・安いほど実用しやすくなります。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 2
+    },
+    {
+      "heading": "Qwen3.8-27Bベースに「西洋の価値観を強化」したオープンモデル登場、「逆に偏っている」との批判も Hermes Agent開発元",
+      "body": "「Hermes Agent」を提供するNous Researchは、「Qwen3.8-27B」をベースに「西洋の価値観を強化」した「Arete-27B」を発表した。\n\n初出は ITmedia AI+ [1]。GIGAZINE [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「パラメータ」は、AIの「脳の大きさ」を表す数値。多いほど賢い傾向があるが、動かすのに必要なパソコンの性能も上がります。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 3
+    },
+    {
+      "heading": "Control Room ：研究インフラストラクチャ全体のモデルワークロードを追跡および停止するための中央システム",
+      "body": "OpenAIのControl Roomが、研究インフラストラクチャ全体のモデルワークロードを追跡し、安全性やセキュリティ上の懸念が生じた場合に迅速に停止する方法について説明します。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。記事に出てくる「API」は、自分のアプリやサービスからAIを呼び出して使うための接続口のことです。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 4
+    },
+    {
+      "heading": "CodeRabbitはエージェント型ソフトウェア開発を拡大し、20倍以上出荷",
+      "body": "CodeRabbitは、OpenAIモデルを使用してAI生成コードを管理し信頼し、Codexは同じエンジニアリングチームで20倍のソフトウェアを出荷します。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 5
+    },
+    {
+      "heading": "空研工業が70年分の図面を数分で検索",
+      "body": "Kuken Industriesは、OpenAI APIを使用して、70年にわたる冷却塔の図面を検索しています。エンジニアは、約1時間から4.5分で修理のための図面を見つけることができます。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「API」は、自分のアプリやサービスからAIを呼び出して使うための接続口のことです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 6
+    }
+  ],
+  "xPosts": [
+    "NVIDIAは、CEOのJensen Huangと中国のスパイの可能性との関係を調査します（2ソースで確認）",
+    "Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表 API料金2割下げ、出力は最大30％高速化（2ソースで確認）",
+    "Qwen3.8-27Bベースに「西洋の価値観を強化」したオープンモデル登場、「逆に偏っている」との批判も Hermes Agent開発元（2ソースで確認）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+          "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-08T21:00:11.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Wired AI",
+          "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+          "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+          "domain": "wired.com",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-11-10T00:18:19.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表 API料金2割下げ、出力は最大30％高速化",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表 API料金2割下げ、出力は最大30％高速化",
+          "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003042/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-09T22:03:56.000Z"
+        },
+        {
+          "n": 2,
+          "source": "The Verge AI",
+          "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-09T19:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "Qwen3.8-27Bベースに「西洋の価値観を強化」したオープンモデル登場、「逆に偏っている」との批判も Hermes Agent開発元",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "Qwen3.8-27Bベースに「西洋の価値観を強化」したオープンモデル登場、「逆に偏っている」との批判も Hermes Agent開発元",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000003002/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-09T01:55:45.000Z"
+        },
+        {
+          "n": 2,
+          "source": "GIGAZINE",
+          "title": "中国製AI「Qwen3.8-27B」の中国政府寄りの回答を減らしたAI「Arete-27B」が登場、プロパガンダを含む回答が22％から0.9％に減少",
+          "url": "https://gigazine.net/news/20261109-nous-research-arete-27b/",
+          "domain": "gigazine.net",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-11-09T03:50:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+          "url": "https://openai.com/index/control-room",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-09T13:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "CodeRabbit scales agentic software development and ships 20x more",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "CodeRabbit scales agentic software development and ships 20x more",
+          "url": "https://openai.com/index/coderabbit-codex-daybreak",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-09T08:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "Kuken Industries searches 70 years of drawings in minutes",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Kuken Industries searches 70 years of drawings in minutes",
+          "url": "https://openai.com/index/kuken",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-09T08:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "NVIDIAを訴えるレースが始まった",
+      "headlineOriginal": "The race is on to sue Nvidia",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AnthropicはIPO計画を進める予定だと報じられている",
+      "headlineOriginal": "Anthropic reportedly plans to move forward with IPO plans",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "デビッド・エリソンは、AIが「近代史上最大のクリエイティブアンロック」になる可能性があると述べてい",
+      "headlineOriginal": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Meta、最小・低コストのAIモデル「Muse Ember」発表 「Muse Spark 1.3」に迫る性能を約17分の1のコストで",
+      "headlineOriginal": "Meta、最小・低コストのAIモデル「Muse Ember」発表 「Muse Spark 1.3」に迫る性能を約17分の1のコストで",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003044/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "中国はJensen Huangから何を得ることができますか？",
+      "headlineOriginal": "What could China get from Jensen Huang?",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "以下は、トランプ氏がJensen Huangについて知っていると述べたことです",
+      "headlineOriginal": "Here’s what Trump said he knew about Jensen Huang",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "CEOのJensen HuangをターゲットにしたNvidiaスパイスキャンダルについてこれまでに知っていることすべて",
+      "headlineOriginal": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "空売り業者は、スキャンダルの6か月前にNVIDIAのCEOが中国のスパイ容疑者とつながりがあることを明らかにした",
+      "headlineOriginal": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 525,
+    "itemsInPool": 563,
+    "clusters": 514,
+    "verifiedTopics": 6,
+    "unverifiedTopics": 508,
+    "elapsedMs": 23532
+  }
+}
