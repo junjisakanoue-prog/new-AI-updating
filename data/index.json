@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-11-13",
+      "title": "AI 最新まとめ 2026-11-13",
+      "threeLineSummary": [
+        "Google、高速で低価格の「Gemini 4 Hydrogen」発表 無料ユーザーも利用可能",
+        "ジェンソン・ファン氏がNvidiaを退任 — 後任の暫定CEOコレット・クレス氏とは？",
+        "GoogleがGemini 4 Hydrogenをリリースし、ついに3.8 Flashに置き換える"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-11-12T23:56:46.959Z"
+    },
+    {
       "date": "2026-11-12",
       "title": "AI 最新まとめ 2026-11-12",
       "threeLineSummary": [
@@ -1277,5 +1288,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-11-12T01:13:54.900Z"
+  "updatedAt": "2026-11-12T23:56:46.967Z"
 }

@@ -1,0 +1,367 @@
+{
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-12T23:56:46.959Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-11-13",
+  "threeLineSummary": [
+    "Google、高速で低価格の「Gemini 4 Hydrogen」発表 無料ユーザーも利用可能",
+    "ジェンソン・ファン氏がNvidiaを退任 — 後任の暫定CEOコレット・クレス氏とは？",
+    "GoogleがGemini 4 Hydrogenをリリースし、ついに3.8 Flashに置き換える"
+  ],
+  "lead": "2026-11-13 時点で、複数ソースの裏取りが取れた AI 関連トピック 7 件をまとめた。",
+  "sections": [
+    {
+      "heading": "Google、高速で低価格の「Gemini 4 Hydrogen」発表 無料ユーザーも利用可能",
+      "body": "Googleは、AIエージェントによる作業や日常的なコーディングに向けた高速・高効率の新モデル「Gemini 4 Hydrogen」を発表した。「Gemini 3.8 Flash」の約2.5倍の速さでタスクを終え、推論の深さを4段階から選べる。APIやGeminiアプリなどで同日から順次提供している。\n\n初出は ITmedia AI+ [1]。The Verge AI [2]、TechCrunch AI [3]、Google AI Blog [4] でも同内容が報じられている。",
+      "why_it_matters": "独立した 4 ソースで確認済み（確度: 高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。記事に出てくる「推論（インファレンス）」は、AIが実際に考えて答えを出す処理のこと。ここが速い・安いほど実用しやすくなります。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 1
+    },
+    {
+      "heading": "ジェンソン・ファン氏がNvidiaを退任 — 後任の暫定CEOコレット・クレス氏とは？",
+      "body": "NvidiaのCFOであるコレット・クレス氏が、スキャンダルに巻き込まれている長年のCEOであるジェンセン・ファン氏の後任として、暫定的に就任することになりました。\n\n初出は TechCrunch AI [1]。Wired AI [2]、r/LocalLLaMA [3] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「GPU」は、AIの計算に使う高性能な半導体。AI開発ではこれの確保がコストと速度を左右します。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 2
+    },
+    {
+      "heading": "GoogleがGemini 4 Hydrogenをリリースし、ついに3.8 Flashに置き換える",
+      "body": "Gemini 4 Hydrogenは、CarbonやArgonのようなゆっくりとした、セキュリティを重視したリリースではありません。\n\n初出は Ars Technica AI [1]。DeepMind Blog [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 3
+    },
+    {
+      "heading": "NvidiaのCEOであるジェンセン・ファン氏が辞任しました。今後どうなるのでしょうか？",
+      "body": "NvidiaのCEO兼社長であり、共同創業者でもあるジェンセン・ファン氏が、Megaspeedのエグゼクティブであるアリス・ファン氏との不倫関係を認めた後、同社は当初、調査を行うと発表しました。ジェンセン氏は革ジャンを愛用することで知られています。しかし、ニューヨーク・タイムズは水曜日、別の不倫関係の証拠があると報じました。今回は、彼に直接報告するNvidiaの幹部との関係です。[…]の取締役会では、\n\n初出は The Verge AI [1]。Wired AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「GPU」は、AIの計算に使う高性能な半導体。AI開発ではこれの確保がコストと速度を左右します。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 4
+    },
+    {
+      "heading": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
+      "body": "米Amazon Web Services（AWS）は、Amazon EC2インスタンス上でほぼネイティブのEC2性能で動作しつつ、Nitroシステムハードウェアレベルのきわめて強力な隔離環境を備えた軽量な仮想マシン「AWS Nitro Sandbox」の提供開始を発表しました。\n\n初出は ITmedia AI+ [1]。Publickey [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 5
+    },
+    {
+      "heading": "Google、選択肢から答えを選ぶことに特化した「Gemini Decisions API」発表 回答を生成せず確率で返す",
+      "body": "Googleは、ツールの選択や条件判定など選択肢から答えを選ぶ用途に特化した「Gemini Decisions API」を発表した。専用モデルを用い、テキストや画像などのマルチモーダル入力を1回の推論で評価し、確率と信頼度スコアを返す。従来のモデルより高速かつ安価に動作し、他社が先行する判断特化型AI市場への本格参入となる。\n\n初出は ITmedia AI+ [1]。Simon Willison [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「API」は、自分のアプリやサービスからAIを呼び出して使うための接続口のことです。記事に出てくる「マルチモーダル」は、文章だけでなく画像・音声・動画もまとめて扱えることです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 6
+    },
+    {
+      "heading": "AmplitudeがOpenAIを活用して1～2日で製品の改善を実現する方法",
+      "body": "主にOpenAIモデルをベースに構築されたAmplitudeのプロアクティブなプロダクトエージェントWaveは、構築すべきものを特定し、コーディングエージェントによる変更のリリースを支援し、そのインパクトを測定します。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 7
+    }
+  ],
+  "xPosts": [
+    "Google、高速で低価格の「Gemini 4 Hydrogen」発表 無料ユーザーも利用可能（4ソースで確認）",
+    "ジェンソン・ファン氏がNvidiaを退任 — 後任の暫定CEOコレット・クレス氏とは？（2ソースで確認）",
+    "GoogleがGemini 4 Hydrogenをリリースし、ついに3.8 Flashに置き換える（2ソースで確認）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Google、高速で低価格の「Gemini 4 Hydrogen」発表 無料ユーザーも利用可能",
+      "confidence": "high",
+      "domainCount": 4,
+      "socialCount": 0,
+      "sourceCount": 4,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "Google、高速で低価格の「Gemini 4 Hydrogen」発表 無料ユーザーも利用可能",
+          "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003162/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-12T23:04:46.000Z"
+        },
+        {
+          "n": 2,
+          "source": "The Verge AI",
+          "title": "Google’s new Gemini model is better at understanding complicated questions",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-12T21:55:32.000Z"
+        },
+        {
+          "n": 3,
+          "source": "TechCrunch AI",
+          "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+          "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-12T19:27:45.000Z"
+        },
+        {
+          "n": 4,
+          "source": "Google AI Blog",
+          "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+          "domain": "blog.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-12T18:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 1,
+      "sourceCount": 3,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+          "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-12T15:37:29.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Wired AI",
+          "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
+          "url": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
+          "domain": "wired.com",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-11-12T14:14:33.000Z"
+        },
+        {
+          "n": 3,
+          "source": "r/LocalLLaMA",
+          "title": "Nvidia's Jensen Huang Resigns as CEO, Colette Kress Named Interim",
+          "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xudeev/nvidias_jensen_huang_resigns_as_ceo_colette_kress/",
+          "domain": "reddit.com",
+          "tier": 3,
+          "kind": "social",
+          "publishedAt": "2026-11-12T13:56:51.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Ars Technica AI",
+          "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+          "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+          "domain": "arstechnica.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-12T19:23:03.000Z"
+        },
+        {
+          "n": 2,
+          "source": "DeepMind Blog",
+          "title": "Introducing Gemini 4 Hydrogen",
+          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+          "domain": "deepmind.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-12T18:00:50.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "Nvidia CEO Jensen Huang has resigned. What happens next?",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "The Verge AI",
+          "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-12T15:01:31.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Wired AI",
+          "title": "Jensen Huang Resigns as Nvidia CEO",
+          "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
+          "domain": "wired.com",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-11-12T13:58:06.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
+          "url": "https://www.itmedia.co.jp/news/article/2611/12/2000003139/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-12T05:10:47.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Publickey",
+          "title": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
+          "url": "https://www.publickey1.jp/blog/26/awsaiec2vmaws_nitro_sandboxes.html",
+          "domain": "publickey1.jp",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-11-11T15:04:47.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "Google、選択肢から答えを選ぶことに特化した「Gemini Decisions API」発表 回答を生成せず確率で返す",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "Google、選択肢から答えを選ぶことに特化した「Gemini Decisions API」発表 回答を生成せず確率で返す",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003123/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-11T22:03:58.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Simon Willison",
+          "title": "Gemini Decisions API",
+          "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+          "domain": "simonwillison.net",
+          "tier": 2,
+          "kind": "blog",
+          "publishedAt": "2026-11-11T22:03:25.000Z"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "headline": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+          "url": "https://openai.com/business/customer-stories/amplitude",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-12T20:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "ジェンソン・ファン氏が3度目の不倫をしていたとロイターが報じる",
+      "headlineOriginal": "Jensen Huang was having a third affair, Reuters reports",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "NECがデータカタログ1435個を1年で整備 AIによる意思決定支援への挑戦",
+      "headlineOriginal": "NECがデータカタログ1435個を1年で整備 AIによる意思決定支援への挑戦",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2610/30/news006.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "「好機が来た」――なぜ今Sakana AIは、イチからAIモデルを作るのか “新たな一手”のねらいを聞いた",
+      "headlineOriginal": "「好機が来た」――なぜ今Sakana AIは、イチからAIモデルを作るのか “新たな一手”のねらいを聞いた",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003141/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "設計／製造から工場運用へ、オートデスクが描く工場全体の最適化戦略",
+      "headlineOriginal": "設計／製造から工場運用へ、オートデスクが描く工場全体の最適化戦略",
+      "source": "ITmedia AI+",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/13/news012.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AIエージェントを「追えない、止められない」 約半数が経験する“暴走”、浮上する3つの盲点",
+      "headlineOriginal": "AIエージェントを「追えない、止められない」 約半数が経験する“暴走”、浮上する3つの盲点",
+      "source": "ITmedia AI+",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news036.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "民主党がNvidiaに対する調査を開始。フアン氏のトランプ氏との「策略」について痛烈な書簡を送る",
+      "headlineOriginal": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "ジェンソン・ファン氏の退任により、Nvidiaのオープンソースへの支援に疑問が生じる",
+      "headlineOriginal": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "FAAが、米国全土の空域における航空交通渋滞を管理するためのAIアドバイスを拡大",
+      "headlineOriginal": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 134,
+    "itemsInPool": 195,
+    "clusters": 119,
+    "verifiedTopics": 11,
+    "unverifiedTopics": 108,
+    "elapsedMs": 26352
+  }
+}
