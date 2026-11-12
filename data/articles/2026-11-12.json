@@ -1,0 +1,367 @@
+{
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T01:13:54.892Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-11-12",
+  "threeLineSummary": [
+    "Nvidiaの株価が下落。取締役会がCEOのジェンセン・ファン氏の解任を準備中との報道",
+    "Google、選択肢から答えを選ぶことに特化した「Gemini Decisions API」発表 回答を生成せず確率で…",
+    "AWSで「ChatGPT Enterprise」を購入可能に AWSアカウントで一括管理するメリットは"
+  ],
+  "lead": "2026-11-12 時点で、複数ソースの裏取りが取れた AI 関連トピック 7 件をまとめた。",
+  "sections": [
+    {
+      "heading": "Nvidiaの株価が下落。取締役会がCEOのジェンセン・ファン氏の解任を準備中との報道",
+      "body": "早ければ水曜日の夜にも、Nvidiaの取締役会は33年間CEOを務めてきた創業者を解任する決定を下す可能性があります。\n\n初出は TechCrunch AI [1]。The Verge AI [2]、r/LocalLLaMA [3] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「GPU」は、AIの計算に使う高性能な半導体。AI開発ではこれの確保がコストと速度を左右します。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 1
+    },
+    {
+      "heading": "Google、選択肢から答えを選ぶことに特化した「Gemini Decisions API」発表 回答を生成せず確率で返す",
+      "body": "Googleは、ツールの選択や条件判定など選択肢から答えを選ぶ用途に特化した「Gemini Decisions API」を発表した。専用モデルを用い、テキストや画像などのマルチモーダル入力を1回の推論で評価し、確率と信頼度スコアを返す。従来のモデルより高速かつ安価に動作し、他社が先行する判断特化型AI市場への本格参入となる。\n\n初出は ITmedia AI+ [1]。Simon Willison [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「API」は、自分のアプリやサービスからAIを呼び出して使うための接続口のことです。記事に出てくる「マルチモーダル」は、文章だけでなく画像・音声・動画もまとめて扱えることです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 2
+    },
+    {
+      "heading": "AWSで「ChatGPT Enterprise」を購入可能に AWSアカウントで一括管理するメリットは",
+      "body": "OpenAIは「ChatGPT Enterprise」をAWS Marketplaceで提供開始した。企業は既存のAWSアカウントや契約枠でChatGPT Enterpriseを購入・管理できる。企業のAI調達はどう変わるのか。\n\n初出は ITmedia AI+ [1]。ITmedia AI+ [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 3
+    },
+    {
+      "heading": "Googleの「最強」モデル「Gemini 4 Carbon」一般提供開始 Antigravityでのマルチエージェントチーム編成機能も",
+      "body": "Googleは同社最先端のAIモデル「Gemini 4 Carbon」の一般提供を開始。同時に、大規模な開発プロジェクトを効率的に遂行するためのマルチエージェントチーム編成機能「/swarm」も発表した。\n\n初出は ITmedia AI+ [1]。GIGAZINE [3] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 4
+    },
+    {
+      "heading": "「Claude」に共同編集の「Sheets」「Whiteboards」 外部アプリもClaude内で開いて作業可能に",
+      "body": "Anthropicは、「Claude」に共同編集可能な「Claude Sheets」と「Claude Whiteboards」をβ版として追加した。また「Claude Dashboards」を「Claude Data」に改称し、一般提供を開始。さらに外部アプリをClaude内で直接操作できる「インタラクティブコネクタ」の拡張も発表した。\n\n初出は ITmedia AI+ [1]。GIGAZINE [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 5
+    },
+    {
+      "heading": "Gemini 4 Carbonが発売されました",
+      "body": "Gemini 4 Carbonが発売されました\n\n初出は DeepMind Blog [1]。Simon Willison [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 6
+    },
+    {
+      "heading": "Gilbert + TobinがAIを活用して法律業務を見直す",
+      "body": "Gilbert + Tobinのパートナー兼最高経営責任者（CEO）であるSam Nickless氏との対談。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 7
+    }
+  ],
+  "xPosts": [
+    "Nvidiaの株価が下落。取締役会がCEOのジェンセン・ファン氏の解任を準備中との報道（2ソースで確認）",
+    "Google、選択肢から答えを選ぶことに特化した「Gemini Decisions API」発表 回答を生成せず確率で返す（2ソースで確認）",
+    "AWSで「ChatGPT Enterprise」を購入可能に AWSアカウントで一括管理するメリットは（2ソースで確認）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 1,
+      "sourceCount": 3,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+          "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-11T23:28:45.000Z"
+        },
+        {
+          "n": 2,
+          "source": "The Verge AI",
+          "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+          "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-11T22:44:36.000Z"
+        },
+        {
+          "n": 3,
+          "source": "r/LocalLLaMA",
+          "title": "Nvidia is Preparing to Oust Nvidia CEO Jensen Huang",
+          "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtvsi7/nvidia_is_preparing_to_oust_nvidia_ceo_jensen/",
+          "domain": "reddit.com",
+          "tier": 3,
+          "kind": "social",
+          "publishedAt": "2026-11-11T22:31:56.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Google、選択肢から答えを選ぶことに特化した「Gemini Decisions API」発表 回答を生成せず確率で返す",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "Google、選択肢から答えを選ぶことに特化した「Gemini Decisions API」発表 回答を生成せず確率で返す",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003123/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-11T22:03:58.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Simon Willison",
+          "title": "Gemini Decisions API",
+          "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+          "domain": "simonwillison.net",
+          "tier": 2,
+          "kind": "blog",
+          "publishedAt": "2026-11-11T22:03:25.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "AWSで「ChatGPT Enterprise」を購入可能に AWSアカウントで一括管理するメリットは",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "AWSで「ChatGPT Enterprise」を購入可能に AWSアカウントで一括管理するメリットは",
+          "url": "https://kn.itmedia.co.jp/kn/article/2611/12/2000003080/",
+          "domain": "kn.itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-11T22:00:00.000Z"
+        },
+        {
+          "n": 2,
+          "source": "ITmedia AI+",
+          "title": "ChatGPTでビジネスを展開できる新機能 自社サイトのクリック数集計、顧客へのAIチャット提供など 一部機能は米国から",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003088/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-11T00:27:17.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "Googleの「最強」モデル「Gemini 4 Carbon」一般提供開始 Antigravityでのマルチエージェントチーム編成機能も",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 3,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "Googleの「最強」モデル「Gemini 4 Carbon」一般提供開始 Antigravityでのマルチエージェントチーム編成機能も",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003093/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-11T01:47:35.000Z"
+        },
+        {
+          "n": 2,
+          "source": "ITmedia AI+",
+          "title": "Google、「Gemini 4 Carbon」一般提供開始 Geminiアプリでは最上位「AI Ultra」限定",
+          "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003083/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-10T22:03:30.000Z"
+        },
+        {
+          "n": 3,
+          "source": "GIGAZINE",
+          "title": "Google製高性能AI「Gemini 4 Carbon」が一般公開される、複数のAIが協力する新機能で3Dゲームを制作するデモも披露",
+          "url": "https://gigazine.net/news/20261111-gemini-4-carbon/",
+          "domain": "gigazine.net",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-11-11T09:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "「Claude」に共同編集の「Sheets」「Whiteboards」 外部アプリもClaude内で開いて作業可能に",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 3,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "「Claude」に共同編集の「Sheets」「Whiteboards」 外部アプリもClaude内で開いて作業可能に",
+          "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003089/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-11T00:33:03.000Z"
+        },
+        {
+          "n": 2,
+          "source": "GIGAZINE",
+          "title": "Claude内でAdobe製品やNotionなどを直接操作可能に、AIと一緒に写真編集や文書作成ができる新機能が登場",
+          "url": "https://gigazine.net/news/20261111-claude-interactive-connectors-full-tool/",
+          "domain": "gigazine.net",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-11-11T08:50:00.000Z"
+        },
+        {
+          "n": 3,
+          "source": "GIGAZINE",
+          "title": "Claude内で表計算アプリをそのまま実行できる「Claude Sheets」が登場、「Claude Whiteboards」と「Claude Data」も",
+          "url": "https://gigazine.net/news/20261111-claude-sheets-whiteboards-data/",
+          "domain": "gigazine.net",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-11-11T03:36:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "Gemini 4 Carbon is now available",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "DeepMind Blog",
+          "title": "Gemini 4 Carbon is now available",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+          "domain": "deepmind.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-10T16:03:47.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Simon Willison",
+          "title": "llm-gemini 0.36",
+          "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+          "domain": "simonwillison.net",
+          "tier": 2,
+          "kind": "blog",
+          "publishedAt": "2026-11-10T20:09:44.000Z"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "headline": "Gilbert + Tobin rethinks the business of law with AI",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Gilbert + Tobin rethinks the business of law with AI",
+          "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-12T00:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "ジェンソン・ファン氏、Nvidiaの幹部との不倫疑惑が浮上",
+      "headlineOriginal": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "あなたが恐れているデータセンターが、決して建設されないかもしれない理由",
+      "headlineOriginal": "Why the data center you dread might never even be built",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "ジェンセン・ファン氏に関するスキャンダルの展開：年表",
+      "headlineOriginal": "The unfolding Jensen Huang scandal: a timeline",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "会社員の仕事に「Claude Fable 5.2」は必要か？ 調査、要約、資料作成でOpus／Sonnetと比較してみた",
+      "headlineOriginal": "会社員の仕事に「Claude Fable 5.2」は必要か？ 調査、要約、資料作成でOpus／Sonnetと比較してみた",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003113/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "「非言語系AI」はLLMの弱点を補えるか？ Gartner「2027年の戦略的テクノロジのトップ・トレンド」",
+      "headlineOriginal": "「非言語系AI」はLLMの弱点を補えるか？ Gartner「2027年の戦略的テクノロジのトップ・トレンド」",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2611/11/news089.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Claude Enterpriseがセキュリティと管理機能を強化 DLP・EDR連携など新機能の全容は",
+      "headlineOriginal": "Claude Enterpriseがセキュリティと管理機能を強化 DLP・EDR連携など新機能の全容は",
+      "source": "ITmedia AI+",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/12/2000003082/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "「成果志向のBIM」とは何か？ Autodeskが描くAI時代の鉄道インフラ",
+      "headlineOriginal": "「成果志向のBIM」とは何か？ Autodeskが描くAI時代の鉄道インフラ",
+      "source": "ITmedia AI+",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/12/news016.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "ユナイテッド航空は、AIエージェントによる航空券の予約を許可していません",
+      "headlineOriginal": "United won’t let your AI agent book your flight",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 567,
+    "itemsInPool": 619,
+    "clusters": 548,
+    "verifiedTopics": 13,
+    "unverifiedTopics": 535,
+    "elapsedMs": 21149
+  }
+}

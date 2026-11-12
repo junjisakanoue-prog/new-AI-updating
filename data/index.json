@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-11-12",
+      "title": "AI 最新まとめ 2026-11-12",
+      "threeLineSummary": [
+        "Nvidiaの株価が下落。取締役会がCEOのジェンセン・ファン氏の解任を準備中との報道",
+        "Google、選択肢から答えを選ぶことに特化した「Gemini Decisions API」発表 回答を生成せず確率で…",
+        "AWSで「ChatGPT Enterprise」を購入可能に AWSアカウントで一括管理するメリットは"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-11-12T01:13:54.892Z"
+    },
+    {
       "date": "2026-11-11",
       "title": "AI 最新まとめ 2026-11-11",
       "threeLineSummary": [
@@ -1266,5 +1277,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-11-10T23:51:08.987Z"
+  "updatedAt": "2026-11-12T01:13:54.900Z"
 }
