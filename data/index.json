@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-11-14",
+      "title": "AI 最新まとめ 2026-11-14",
+      "threeLineSummary": [
+        "Googleの新しいGeminiモデルは、複雑な質問の理解に長けています",
+        "GoogleがGemini 4 Hydrogenをリリースし、ついに3.8 Flashに置き換える",
+        "ChatGPTウォレットにより、OpenAIのDotsエージェントがユーザーに代わって購入できるようになります"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-11-14T00:05:46.834Z"
+    },
+    {
       "date": "2026-11-13",
       "title": "AI 最新まとめ 2026-11-13",
       "threeLineSummary": [
@@ -1288,5 +1299,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-11-12T23:56:46.967Z"
+  "updatedAt": "2026-11-14T00:05:46.841Z"
 }

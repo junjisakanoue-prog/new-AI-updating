@@ -1,0 +1,337 @@
+{
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T00:05:46.834Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-11-14",
+  "threeLineSummary": [
+    "Googleの新しいGeminiモデルは、複雑な質問の理解に長けています",
+    "GoogleがGemini 4 Hydrogenをリリースし、ついに3.8 Flashに置き換える",
+    "ChatGPTウォレットにより、OpenAIのDotsエージェントがユーザーに代わって購入できるようになります"
+  ],
+  "lead": "2026-11-14 時点で、複数ソースの裏取りが取れた AI 関連トピック 7 件をまとめた。",
+  "sections": [
+    {
+      "heading": "Googleの新しいGeminiモデルは、複雑な質問の理解に長けています",
+      "body": "Googleによると、同社の新しいGemini 4 Hydrogenモデルは、「複数の部分からなる質問、理解が難しい誤字脱字、または非常に具体的なリクエスト」を含む複雑な質問に対して、より有用な回答を提供できるとのことです。この新しいモデルは、質問を細かく分析し、回答において各部分に個別に対処することができます。本日より、検索、Geminiアプリ、すべてのGoogle […]でご利用いただけます。\n\n初出は The Verge AI [1]。TechCrunch AI [2]、Google AI Blog [3] でも同内容が報じられている。",
+      "why_it_matters": "独立した 3 ソースで確認済み（確度: 高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 1
+    },
+    {
+      "heading": "GoogleがGemini 4 Hydrogenをリリースし、ついに3.8 Flashに置き換える",
+      "body": "Gemini 4 Hydrogenは、CarbonやArgonのようなゆっくりとした、セキュリティを重視したリリースではありません。\n\n初出は Ars Technica AI [1]。Simon Willison [2]、Bluesky / @simonwillison.net [3] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 2
+    },
+    {
+      "heading": "ChatGPTウォレットにより、OpenAIのDotsエージェントがユーザーに代わって購入できるようになります",
+      "body": "今年初めにDots AIエージェントプラットフォームを立ち上げたOpenAIが、エージェント用のウォレットをリリースします。ChatGPTウォレットは本日より、米国の請求先住所を使用し、「米国で発行されたAmerican Express、Chase、Mastercard、Visaカードで対象となる」18歳以上のChatGPT Proサブスクライバー向けに提供を開始します。カードを追加した後 […]\n\n初出は The Verge AI [1]。TechCrunch AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 3
+    },
+    {
+      "heading": "Google、高速で低価格の「Gemini 4 Hydrogen」発表 無料ユーザーも利用可能",
+      "body": "Googleは、AIエージェントによる作業や日常的なコーディングに向けた高速・高効率の新モデル「Gemini 4 Hydrogen」を発表した。「Gemini 3.8 Flash」の約2.5倍の速さでタスクを終え、推論の深さを4段階から選べる。APIやGeminiアプリなどで同日から順次提供している。\n\n初出は ITmedia AI+ [1]。GIGAZINE [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。記事に出てくる「推論（インファレンス）」は、AIが実際に考えて答えを出す処理のこと。ここが速い・安いほど実用しやすくなります。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 4
+    },
+    {
+      "heading": "llama.cpp v1.0.0：ローカルAIエコシステムのより強固な基盤",
+      "body": "llama.cpp v1.0.0：ローカルAIエコシステムのより強固な基盤\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 5
+    },
+    {
+      "heading": "AmplitudeがOpenAIを活用して1～2日で製品の改善を実現する方法",
+      "body": "主にOpenAIモデルをベースに構築されたAmplitudeのプロアクティブなプロダクトエージェントであるWaveは、何を構築すべきかを特定し、コーディングエージェントを使用してチームが変更をリリースするのを支援し、そのインパクトを測定します。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 6
+    },
+    {
+      "heading": "LLMON：LLMネイティブマークアップ言語がGranite 4.1 3Bおよび8Bに登場",
+      "body": "LLMON：LLMネイティブマークアップ言語がGranite 4.1 3Bおよび8Bに登場\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「LLM（大規模言語モデル）」は、ChatGPT や Claude の「頭脳」にあたる、大量の文章を学習して言葉を扱えるようにしたプログラムのことです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 7
+    }
+  ],
+  "xPosts": [
+    "Googleの新しいGeminiモデルは、複雑な質問の理解に長けています（3ソースで確認）",
+    "GoogleがGemini 4 Hydrogenをリリースし、ついに3.8 Flashに置き換える（2ソースで確認）",
+    "ChatGPTウォレットにより、OpenAIのDotsエージェントがユーザーに代わって購入できるようになります（2ソースで確認）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Google’s new Gemini model is better at understanding complicated questions",
+      "confidence": "high",
+      "domainCount": 3,
+      "socialCount": 0,
+      "sourceCount": 3,
+      "sources": [
+        {
+          "n": 1,
+          "source": "The Verge AI",
+          "title": "Google’s new Gemini model is better at understanding complicated questions",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-12T21:55:32.000Z"
+        },
+        {
+          "n": 2,
+          "source": "TechCrunch AI",
+          "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+          "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-12T19:27:45.000Z"
+        },
+        {
+          "n": 3,
+          "source": "Google AI Blog",
+          "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+          "domain": "blog.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-12T18:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 1,
+      "sourceCount": 3,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Ars Technica AI",
+          "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+          "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+          "domain": "arstechnica.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-12T19:23:03.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Simon Willison",
+          "title": "llm-gemini 0.37",
+          "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+          "domain": "simonwillison.net",
+          "tier": 2,
+          "kind": "blog",
+          "publishedAt": "2026-11-12T22:55:19.000Z"
+        },
+        {
+          "n": 3,
+          "source": "Bluesky / @simonwillison.net",
+          "title": "The pricing for Gemini 4 is pretty confusing - Argon and Carbon are the same token price as each other, and the new Hydrogen is only a 25% discount on that price - though Carbon/Argon will 2x in price on Dec 1st\n\nHydrogen's pelicans are notably worse simonwillison.net/2026/Nov/12",
+          "url": "https://bsky.app/profile/simonwillison.net/post/3n25qivmljs2t",
+          "domain": "bsky.app/simonwillison.net",
+          "tier": 3,
+          "kind": "social",
+          "publishedAt": "2026-11-13T00:36:16.745Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "The Verge AI",
+          "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-13T20:45:10.000Z"
+        },
+        {
+          "n": 2,
+          "source": "TechCrunch AI",
+          "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+          "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-13T16:00:12.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "Google、高速で低価格の「Gemini 4 Hydrogen」発表 無料ユーザーも利用可能",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "Google、高速で低価格の「Gemini 4 Hydrogen」発表 無料ユーザーも利用可能",
+          "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003162/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-12T23:04:46.000Z"
+        },
+        {
+          "n": 2,
+          "source": "GIGAZINE",
+          "title": "Googleが無料で使える高性能AI「Gemini 4 Hydrogen」を発表、従来モデルの2.5倍の速度で動作し競合AIを上回る性能も発揮",
+          "url": "https://gigazine.net/news/20261113-gemini-4-hydrogen/",
+          "domain": "gigazine.net",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-11-13T03:20:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-13T14:05:22.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+          "url": "https://openai.com/business/customer-stories/amplitude",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-12T20:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "headline": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-12T19:07:35.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "Nvidiaは、業界が実現可能性に公然と疑問を呈しているにもかかわらず、密輸対策のためにチップを追跡できることを非公開で確認した。",
+      "headlineOriginal": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "source": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Jensen Huang氏の退任により、Nvidiaのオープンソースへのサポートに疑問が生じる",
+      "headlineOriginal": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "ジェンセン・ファン氏の退任により、AIスタートアップの資金調達に大きな穴が開く、とVCや創業者たちが語る",
+      "headlineOriginal": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "NVIDIAをつくった男、ジェンスン・フアン “デニーズの皿洗い“から“AI時代の主役“へ、激動の半生",
+      "headlineOriginal": "NVIDIAをつくった男、ジェンスン・フアン “デニーズの皿洗い“から“AI時代の主役“へ、激動の半生",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/business/articles/2611/14/news008.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "FAAが、米国全土の空域における航空交通渋滞を管理するためのAIアドバイスを拡大",
+      "headlineOriginal": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AIエージェントのスタートアップLangChain、企業価値が30億ドルに到達",
+      "headlineOriginal": "AI agent startup LangChain hits $3B valuation",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "輸出禁止のNvidiaチップが、中国の最も強力なAIモデルの背後に存在しています。おっと、Jensenさん！",
+      "headlineOriginal": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "OpenAIの取締役が、AIによる社会の「乗っ取り」が数か月後に起こる可能性を懸念",
+      "headlineOriginal": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 723,
+    "itemsInPool": 784,
+    "clusters": 706,
+    "verifiedTopics": 8,
+    "unverifiedTopics": 698,
+    "elapsedMs": 28808
+  }
+}
