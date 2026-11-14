@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-11-15",
+      "title": "AI 最新まとめ 2026-11-15",
+      "threeLineSummary": [
+        "ChatGPTウォレットにより、OpenAIのDotsエージェントがユーザーに代わって購入できるようになります",
+        "llama.cpp v1.0.0 ：ローカルAIエコシステムのより強固な基盤",
+        "Shieldは、OpenAIを活用して技術者がレガシーポータルの作業を引き継ぐのを支援します"
+      ],
+      "topicCount": 3,
+      "generatedAt": "2026-11-14T22:50:24.466Z"
+    },
+    {
       "date": "2026-11-14",
       "title": "AI 最新まとめ 2026-11-14",
       "threeLineSummary": [
@@ -1299,5 +1310,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-11-14T00:05:46.841Z"
+  "updatedAt": "2026-11-14T22:50:24.472Z"
 }
