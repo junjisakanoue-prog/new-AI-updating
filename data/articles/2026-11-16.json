@@ -1,0 +1,233 @@
+{
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-15T23:17:59.688Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-11-16",
+  "threeLineSummary": [
+    "ChatGPTウォレットにより、OpenAIのDotsエージェントがユーザーに代わって購入できるようになります",
+    "格子上で標準模型を定義するためのステップ",
+    "科学に関する新しいブログ"
+  ],
+  "lead": "2026-11-16 時点で、複数ソースの裏取りが取れた AI 関連トピック 5 件をまとめた。",
+  "sections": [
+    {
+      "heading": "ChatGPTウォレットにより、OpenAIのDotsエージェントがユーザーに代わって購入できるようになります",
+      "body": "今年初めにDots AIエージェントプラットフォームを立ち上げたOpenAIが、エージェント向けのウォレットをリリースします。ChatGPTウォレットは本日より、米国の請求先住所を使用し、「米国で発行されたAmerican Express、Chase、Mastercard、Visaカードで対象となる」18歳以上のChatGPT Proサブスクライバーを対象に導入されます。カードを追加した後 […]\n\n初出は The Verge AI [1]。TechCrunch AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 1
+    },
+    {
+      "heading": "格子上で標準模型を定義するためのステップ",
+      "body": "標準模型の非摂動格子定義の候補と、GPT-6 Astraがそのアイデアを詳細な証明に変えるのにどのように役立ったかをご覧ください。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 2
+    },
+    {
+      "heading": "科学に関する新しいブログ",
+      "body": "OpenAIのサイエンスブログでは、AIを活用して科学的発見を進める研究者による新たな知見、実践的な手法、生の声を共有しています。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 3
+    },
+    {
+      "heading": "llama.cpp v1.0.0：ローカルAIエコシステムのより強固な基盤",
+      "body": "llama.cpp v1.0.0：ローカルAIエコシステムのより強固な基盤\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 4
+    },
+    {
+      "heading": "Shieldは、OpenAIを活用して技術者がレガシーポータルの作業を引き継ぐのを支援します",
+      "body": "ShieldはOpenAIを活用して、IT技術者がレガシーポータルでの作業をハンドオフできるように支援しています。Forgeエージェントがシステムをナビゲートするため、技術者は判断を要する問題に集中できます。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 5
+    }
+  ],
+  "xPosts": [
+    "ChatGPTウォレットにより、OpenAIのDotsエージェントがユーザーに代わって購入できるようになります（2ソースで確認）",
+    "格子上で標準模型を定義するためのステップ（公式発表）",
+    "科学に関する新しいブログ（公式発表）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "The Verge AI",
+          "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-13T20:45:10.000Z"
+        },
+        {
+          "n": 2,
+          "source": "TechCrunch AI",
+          "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+          "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-13T16:00:12.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "A step toward defining the Standard Model on a lattice",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "A step toward defining the Standard Model on a lattice",
+          "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-15T22:00:01.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "Our new blog for science",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Our new blog for science",
+          "url": "https://openai.com/index/our-new-blog-for-science",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-15T22:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-13T14:05:22.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+          "url": "https://openai.com/business/customer-stories/shield",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-13T08:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "ライセンス更新を機に「脱マクロ」 オートバックスセブンがGeminiで目指す売上高5000億円",
+      "headlineOriginal": "ライセンス更新を機に「脱マクロ」 オートバックスセブンがGeminiで目指す売上高5000億円",
+      "source": "ITmedia AI+",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/16/2000003181/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AIモデリングもできる無償3D CAD「SolidCraft」を試してみた！",
+      "headlineOriginal": "AIモデリングもできる無償3D CAD「SolidCraft」を試してみた！",
+      "source": "ITmedia AI+",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news011.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "メルカリ、アプリ開発「2日→数十分」へ 直面したAI時代の“意外な課題”とは？",
+      "headlineOriginal": "メルカリ、アプリ開発「2日→数十分」へ 直面したAI時代の“意外な課題”とは？",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/business/articles/2611/16/news031.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "ジェンセン・ファン氏にとっての悪いニュースは、AI業界にとっても悪いニュースなのでしょうか？",
+      "headlineOriginal": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "ジェンセン・ファン氏が復帰を画策している可能性があり、Nvidiaの騒動はさらに続くかもしれません",
+      "headlineOriginal": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Nvidiaのスパイ疑惑を受けて、議会がAIチップの輸出規制強化を求める",
+      "headlineOriginal": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "ジェンソン・ファン氏の混乱した日々を振り返る",
+      "headlineOriginal": "An overview of Jensen Huang’s messy days",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Nvidiaのセキュリティチームはどこにいたのでしょうか？",
+      "headlineOriginal": "Where was Nvidia’s security team?",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 72,
+    "itemsCollected": 113,
+    "itemsInPool": 148,
+    "clusters": 106,
+    "verifiedTopics": 5,
+    "unverifiedTopics": 101,
+    "elapsedMs": 35342
+  }
+}
