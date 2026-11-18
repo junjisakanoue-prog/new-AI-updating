@@ -1,0 +1,337 @@
+{
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T01:28:18.618Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-11-18",
+  "threeLineSummary": [
+    "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+    "Introducing GPT-6.2 Astra and Sol",
+    "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free"
+  ],
+  "lead": "2026-11-18 時点で、複数ソースの裏取りが取れた AI 関連トピック 7 件をまとめた。",
+  "sections": [
+    {
+      "heading": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "body": "The former CEO offered to return to his top role at the company after his resignation last week.\n\n初出は TechCrunch AI [1]。The Verge AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「GPU」は、AIの計算に使う高性能な半導体。AI開発ではこれの確保がコストと速度を左右します。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 1
+    },
+    {
+      "heading": "Introducing GPT-6.2 Astra and Sol",
+      "body": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.\n\n初出は OpenAI Blog [1]。Simon Willison [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「API」は、自分のアプリやサービスからAIを呼び出して使うための接続口のことです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 2
+    },
+    {
+      "heading": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+      "body": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the US […]\n\n初出は The Verge AI [1]。Google AI Blog [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 3
+    },
+    {
+      "heading": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "body": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.\n\n初出は TechCrunch AI [1]。Ars Technica AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 4
+    },
+    {
+      "heading": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+      "body": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.\n\n初出は TechCrunch AI [1]。The Verge AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「GPU」は、AIの計算に使う高性能な半導体。AI開発ではこれの確保がコストと速度を左右します。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 5
+    },
+    {
+      "heading": "The DOJ says it’s investigating Megaspeed",
+      "body": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year. \"While we don't typically comment on ongoing investigations, it is in the public interest to provide the facts and address […]\n\n初出は The Verge AI [1]。Wired AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「GPU」は、AIの計算に使う高性能な半導体。AI開発ではこれの確保がコストと速度を左右します。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 6
+    },
+    {
+      "heading": "Strengthening NATO and allied cyber defenses with AI",
+      "body": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 7
+    }
+  ],
+  "xPosts": [
+    "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO（2ソースで確認）",
+    "Introducing GPT-6.2 Astra and Sol（2ソースで確認）",
+    "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free（2ソースで確認）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+          "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-17T22:42:27.000Z"
+        },
+        {
+          "n": 2,
+          "source": "The Verge AI",
+          "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+          "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-17T21:40:59.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Introducing GPT-6.2 Astra and Sol",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Introducing GPT-6.2 Astra and Sol",
+          "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-17T17:45:00.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Simon Willison",
+          "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+          "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+          "domain": "simonwillison.net",
+          "tier": 2,
+          "kind": "blog",
+          "publishedAt": "2026-11-17T22:38:52.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "The Verge AI",
+          "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+          "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-17T18:58:01.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Google AI Blog",
+          "title": "Put Gemini to work for you",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+          "domain": "blog.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-17T17:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+          "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-17T18:48:23.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Ars Technica AI",
+          "title": "Google makes it easier to use Gemini without training AI on your data",
+          "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+          "domain": "arstechnica.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-17T16:50:10.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+          "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-17T16:44:15.000Z"
+        },
+        {
+          "n": 2,
+          "source": "The Verge AI",
+          "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
+          "url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-17T16:09:57.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "The DOJ says it’s investigating Megaspeed",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "The Verge AI",
+          "title": "The DOJ says it’s investigating Megaspeed",
+          "url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-17T16:19:03.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Wired AI",
+          "title": "Jensen Huang Is Gone. Now What?",
+          "url": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
+          "domain": "wired.com",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-11-16T16:12:51.000Z"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "headline": "Strengthening NATO and allied cyber defenses with AI",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Strengthening NATO and allied cyber defenses with AI",
+          "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-17T00:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "Nvidia promises that revenue will keep soaring — for now",
+      "headlineOriginal": "Nvidia promises that revenue will keep soaring — for now",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+      "headlineOriginal": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Satya Nadella says he’s AGI-pilled now",
+      "headlineOriginal": "Satya Nadella says he’s AGI-pilled now",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "「AIによる鍵の不正利用」を生体認証で防ぐ日立の新技術、サイバー攻撃対策にも",
+      "headlineOriginal": "「AIによる鍵の不正利用」を生体認証で防ぐ日立の新技術、サイバー攻撃対策にも",
+      "source": "ITmedia AI+",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/18/news040.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AI時代に必要なエンジニアのスキルとは？ 開発現場の“品質問題”から読み解く",
+      "headlineOriginal": "AI時代に必要なエンジニアのスキルとは？ 開発現場の“品質問題”から読み解く",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/18/2000003236/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "headlineOriginal": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "GAS×Geminiが一般提供開始 IT管理者が確認すべき権限設定は？",
+      "headlineOriginal": "GAS×Geminiが一般提供開始 IT管理者が確認すべき権限設定は？",
+      "source": "ITmedia AI+",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/18/2000003256/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Googleドライブの最新ファイルをGeminiが常時参照 「スキル」に新機能追加",
+      "headlineOriginal": "Googleドライブの最新ファイルをGeminiが常時参照 「スキル」に新機能追加",
+      "source": "ITmedia AI+",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/18/2000003259/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 945,
+    "itemsInPool": 984,
+    "clusters": 926,
+    "verifiedTopics": 9,
+    "unverifiedTopics": 917,
+    "elapsedMs": 25135
+  }
+}

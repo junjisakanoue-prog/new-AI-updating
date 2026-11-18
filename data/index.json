@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-11-18",
+      "title": "AI 最新まとめ 2026-11-18",
+      "threeLineSummary": [
+        "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+        "Introducing GPT-6.2 Astra and Sol",
+        "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-11-18T01:28:18.618Z"
+    },
+    {
       "date": "2026-11-17",
       "title": "AI 最新まとめ 2026-11-17",
       "threeLineSummary": [
@@ -1332,5 +1343,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-11-17T02:14:47.162Z"
+  "updatedAt": "2026-11-18T01:28:18.625Z"
 }
