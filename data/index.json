@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-11-19",
+      "title": "AI 最新まとめ 2026-11-19",
+      "threeLineSummary": [
+        "ついに“AIっぽさ”を脱却か？ OpenAIが新モデルGPT-6.2 AstraとSolを発表",
+        "Microsoftのサティア・ナデラCEOは、フアン氏の退任後もNvidiaに信頼を寄せている",
+        "OpenAIモデルによるチップ設計の進化"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-11-19T00:54:31.722Z"
+    },
+    {
       "date": "2026-11-18",
       "title": "AI 最新まとめ 2026-11-18",
       "threeLineSummary": [
@@ -1343,5 +1354,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-11-18T01:28:18.625Z"
+  "updatedAt": "2026-11-19T00:54:31.729Z"
 }
