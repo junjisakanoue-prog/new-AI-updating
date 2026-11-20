@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-11-20",
+      "title": "AI 最新まとめ 2026-11-20",
+      "threeLineSummary": [
+        "Nvidiaの最近の株価変動の簡単な経緯",
+        "Metaの新しいMuse Charmデバイスの価格は300ドルになる可能性がある",
+        "Mac版Geminiがコンピュータを使用できるようになりました"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-11-20T00:59:10.309Z"
+    },
+    {
       "date": "2026-11-19",
       "title": "AI 最新まとめ 2026-11-19",
       "threeLineSummary": [
@@ -1354,5 +1365,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-11-19T00:54:31.729Z"
+  "updatedAt": "2026-11-20T00:59:10.317Z"
 }
