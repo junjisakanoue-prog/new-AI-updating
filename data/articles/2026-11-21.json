@@ -1,0 +1,297 @@
+{
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-21T00:33:46.071Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-11-21",
+  "threeLineSummary": [
+    "Metaの新しいMuse Charmデバイスの価格は300ドルになる可能性がある",
+    "Mac版Geminiがコンピュータを使用できるようになりました",
+    "Google DuplexがGeminiで企業に電話をかける機能へと進化"
+  ],
+  "lead": "2026-11-21 時点で、複数ソースの裏取りが取れた AI 関連トピック 7 件をまとめた。",
+  "sections": [
+    {
+      "heading": "Metaの新しいMuse Charmデバイスの価格は300ドルになる可能性がある",
+      "body": "MetaはThe Informationの報道を否定しておらず、「まもなくさらなる情報を共有する」とだけ述べています。\n\n初出は TechCrunch AI [1]。The Verge AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AIを使うときの値段や条件が変わる、という話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。普段使っているツールの請求や使える範囲に影響する可能性があります。",
+      "topic_index": 1
+    },
+    {
+      "heading": "Mac版Geminiがコンピュータを使用できるようになりました",
+      "body": "GoogleのmacOS向けGeminiアプリに、コンピューター使用機能が追加されました。これにより、「ローカルファイル、デスクトップアプリ、ウェブにわたる複数ステップのタスクを完了させる」のに役立つようになったと、同社は述べています。Googleによると、この機能はワークフローのスピードアップ、フォームの記入、プレゼンテーションの作成、販売商品の出品などに役立つ可能性があるとのことです。ユーザーは […]\n\n初出は The Verge AI [1]。TechCrunch AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 2
+    },
+    {
+      "heading": "Google DuplexがGeminiで企業に電話をかける機能へと進化",
+      "body": "生成AI\n\n初出は Google Research [1]。",
+      "why_it_matters": "開発元の公式発表（Google Research）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 3
+    },
+    {
+      "heading": "敵対的蒸留への対策",
+      "body": "OpenAIの敵対的蒸留に対する階層型アプローチは、モデルのトレーニング、安全対策、検出、および実行を組み合わせて、能力抽出から保護します。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 4
+    },
+    {
+      "heading": "HebbiaがGPT-6 Astraで財務調査の改善を実現",
+      "body": "Hebbiaは、GPT-6 Astraを財務調査のためにテストしました。プレリリース評価では、ソースのカバー範囲、引用の関連性、およびプレゼンテーションの品質が向上していることがわかりました。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「RAG（検索拡張生成）」は、AIが答える前に社内文書などを検索し、その内容を根拠にして回答する仕組み。嘘を減らす狙いがあります。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 5
+    },
+    {
+      "heading": "AIは、有望な候補薬を科学者が特定するのに役立つでしょうか？",
+      "body": "MedChemBenchは、AIモデルが分子構造をどの程度うまく解釈し、実験的証拠から推論し、創薬の初期段階で化合物を選択するかを評価します。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、研究段階の成果で、すぐ製品になるとは限らない話です。記事に出てくる「推論（インファレンス）」は、AIが実際に考えて答えを出す処理のこと。ここが速い・安いほど実用しやすくなります。今すぐ影響はありませんが、今後の製品に反映されていく可能性があります。",
+      "topic_index": 6
+    },
+    {
+      "heading": "ハーネスアダプターのご紹介：お気に入りのモデルをハーネスに適合させて、パフォーマンスとコストを改善しましょう",
+      "body": "ハーネスアダプターのご紹介：お気に入りのモデルをハーネスに適合させて、パフォーマンスとコストを改善しましょう\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 7
+    }
+  ],
+  "xPosts": [
+    "Metaの新しいMuse Charmデバイスの価格は300ドルになる可能性がある（2ソースで確認）",
+    "Mac版Geminiがコンピュータを使用できるようになりました（2ソースで確認）",
+    "Google DuplexがGeminiで企業に電話をかける機能へと進化（公式発表）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Meta’s new Muse Charm device may cost $300",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "Meta’s new Muse Charm device may cost $300",
+          "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-19T21:58:06.000Z"
+        },
+        {
+          "n": 2,
+          "source": "The Verge AI",
+          "title": "Meta’s Muse Charm might cost $300",
+          "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-19T20:22:17.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Gemini on Mac can now use your computer",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "The Verge AI",
+          "title": "Gemini on Mac can now use your computer",
+          "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-19T18:21:13.000Z"
+        },
+        {
+          "n": 2,
+          "source": "TechCrunch AI",
+          "title": "Google gives Gemini the ability to use your Mac for you",
+          "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-19T18:09:11.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "How Google Duplex evolved to also call businesses for you in Gemini",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Google Research",
+          "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+          "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
+          "domain": "research.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-20T23:30:30.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "Combatting adversarial distillation",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Combatting adversarial distillation",
+          "url": "https://openai.com/index/combatting-adversarial-distillation",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-20T10:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+          "url": "https://openai.com/business/customer-stories/hebbia",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-20T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "Can AI help scientists identify promising drug candidates?",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Can AI help scientists identify promising drug candidates?",
+          "url": "https://openai.com/index/introducing-medchembench",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-20T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "headline": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+          "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-20T00:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "GoogleがAIチャット履歴を備え、検索ボタンのない新しい検索ホームページを導入",
+      "headlineOriginal": "Google rolls out new search homepage with AI chat history and no search button",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Metaが、AIデータセンターからの排出量が過去最高となる中、2030年のネットゼロ目標を再検討",
+      "headlineOriginal": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "研究者がAIサプライチェーンに200万羽のカナリアを仕込む。プライバシーに関する大問題が発覚しました。",
+      "headlineOriginal": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "source": "Ars Technica AI",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "ダニエル・エク氏、AI研究者の核融合発電スタートアップを支援。彼らが構築しているものをご紹介します。",
+      "headlineOriginal": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AIが167年前のリーマン予想の解決策を主張し、人間も同様に主張した",
+      "headlineOriginal": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "トランプ氏、AIデータセンターを米国国外に移転する場合に「莫大な税金」を課すと脅迫",
+      "headlineOriginal": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AIで最も誤解されているグラフが大幅にアップデートされました",
+      "headlineOriginal": "The most misunderstood graph in AI just got a major update",
+      "source": "MIT Technology Review AI",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Anthropicの数学者が、Claudeを使って有名なミレニアム賞問題を解決したと主張",
+      "headlineOriginal": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 529,
+    "itemsInPool": 583,
+    "clusters": 520,
+    "verifiedTopics": 9,
+    "unverifiedTopics": 511,
+    "elapsedMs": 34477
+  }
+}

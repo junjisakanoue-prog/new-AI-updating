@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-11-21",
+      "title": "AI 最新まとめ 2026-11-21",
+      "threeLineSummary": [
+        "Metaの新しいMuse Charmデバイスの価格は300ドルになる可能性がある",
+        "Mac版Geminiがコンピュータを使用できるようになりました",
+        "Google DuplexがGeminiで企業に電話をかける機能へと進化"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-11-21T00:33:46.071Z"
+    },
+    {
       "date": "2026-11-20",
       "title": "AI 最新まとめ 2026-11-20",
       "threeLineSummary": [
@@ -1365,5 +1376,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-11-20T00:59:10.317Z"
+  "updatedAt": "2026-11-21T00:33:46.079Z"
 }
