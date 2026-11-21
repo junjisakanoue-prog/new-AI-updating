@@ -1,0 +1,223 @@
+{
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-21T23:40:40.765Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-11-22",
+  "threeLineSummary": [
+    "Google DuplexがGeminiでビジネスに電話をかける機能へと進化",
+    "敵対的蒸留への対策",
+    "HebbiaがGPT-6 Astraで財務調査の改善を実現"
+  ],
+  "lead": "2026-11-22 時点で、複数ソースの裏取りが取れた AI 関連トピック 5 件をまとめた。",
+  "sections": [
+    {
+      "heading": "Google DuplexがGeminiでビジネスに電話をかける機能へと進化",
+      "body": "生成AI\n\n初出は Google Research [1]。",
+      "why_it_matters": "開発元の公式発表（Google Research）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 1
+    },
+    {
+      "heading": "敵対的蒸留への対策",
+      "body": "OpenAIの敵対的蒸留に対する階層的アプローチは、モデルのトレーニング、保護措置、検出、および実行を組み合わせて、能力抽出から保護します。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 2
+    },
+    {
+      "heading": "HebbiaがGPT-6 Astraで財務調査の改善を実現",
+      "body": "Hebbiaは、GPT-6 Astraを財務調査のためにテストしました。プレリリース評価では、ソースの網羅性、引用の関連性、プレゼンテーションの質が向上していることがわかりました。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「RAG（検索拡張生成）」は、AIが答える前に社内文書などを検索し、その内容を根拠にして回答する仕組み。嘘を減らす狙いがあります。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 3
+    },
+    {
+      "heading": "AIは、有望な候補薬を科学者が特定するのに役立つでしょうか？",
+      "body": "MedChemBenchは、AIモデルが分子構造をどの程度うまく解釈し、実験的証拠から推論し、創薬の初期段階で化合物を選択するかを評価します。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、研究段階の成果で、すぐ製品になるとは限らない話です。記事に出てくる「推論（インファレンス）」は、AIが実際に考えて答えを出す処理のこと。ここが速い・安いほど実用しやすくなります。今すぐ影響はありませんが、今後の製品に反映されていく可能性があります。",
+      "topic_index": 4
+    },
+    {
+      "heading": "ハーネスアダプターのご紹介：お気に入りのモデルをハーネスに適合させて、パフォーマンスとコストを向上させましょう",
+      "body": "ハーネスアダプターのご紹介：お気に入りのモデルをハーネスに適合させて、パフォーマンスとコストを改善しましょう\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 5
+    }
+  ],
+  "xPosts": [
+    "Google DuplexがGeminiでビジネスに電話をかける機能へと進化（公式発表）",
+    "敵対的蒸留への対策（公式発表）",
+    "HebbiaがGPT-6 Astraで財務調査の改善を実現（公式発表）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "How Google Duplex evolved to also call businesses for you in Gemini",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Google Research",
+          "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+          "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
+          "domain": "research.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-20T23:30:30.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Combatting adversarial distillation",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Combatting adversarial distillation",
+          "url": "https://openai.com/index/combatting-adversarial-distillation",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-20T10:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+          "url": "https://openai.com/business/customer-stories/hebbia",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-20T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "Can AI help scientists identify promising drug candidates?",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Can AI help scientists identify promising drug candidates?",
+          "url": "https://openai.com/index/introducing-medchembench",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-20T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+          "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-20T00:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張 Leanコミュニティが「正しい」と認定",
+      "headlineOriginal": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張 Leanコミュニティが「正しい」と認定",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/news/article/2611/22/2000003388/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Signalがモバイルのスクリーンショットを制限。AIによる監視という「存続の危機」に直面",
+      "headlineOriginal": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "2つのNvidiaの物語",
+      "headlineOriginal": "A tale of two Nvidias",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AIに必要なのは知識か、企業独自の判断基準か？ 管理職調査で見えたAI活用の盲点",
+      "headlineOriginal": "AIに必要なのは知識か、企業独自の判断基準か？ 管理職調査で見えたAI活用の盲点",
+      "source": "ITmedia AI+",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/22/2000003384/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "テキストメッセージ内で使用できるおすすめのAIエージェントをご紹介します",
+      "headlineOriginal": "Here are the top AI agents that can live in your text messages",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "このマイクロドラマのスタートアップ企業に自分の顔のAIバージョンを売ることは、ハリウッドの未来なのでしょうか？",
+      "headlineOriginal": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Anthropicは安全性を最優先にできるだけの余裕があるのでしょうか？",
+      "headlineOriginal": "Can Anthropic afford to put safety first?",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "llm-gemini 0.38.1",
+      "headlineOriginal": "llm-gemini 0.38.1",
+      "source": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 48,
+    "itemsCollected": 77,
+    "itemsInPool": 141,
+    "clusters": 74,
+    "verifiedTopics": 5,
+    "unverifiedTopics": 69,
+    "elapsedMs": 25457
+  }
+}

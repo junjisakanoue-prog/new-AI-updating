@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-11-22",
+      "title": "AI 最新まとめ 2026-11-22",
+      "threeLineSummary": [
+        "Google DuplexがGeminiでビジネスに電話をかける機能へと進化",
+        "敵対的蒸留への対策",
+        "HebbiaがGPT-6 Astraで財務調査の改善を実現"
+      ],
+      "topicCount": 5,
+      "generatedAt": "2026-11-21T23:40:40.765Z"
+    },
+    {
       "date": "2026-11-21",
       "title": "AI 最新まとめ 2026-11-21",
       "threeLineSummary": [
@@ -1376,5 +1387,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-11-21T00:33:46.079Z"
+  "updatedAt": "2026-11-21T23:40:40.772Z"
 }
