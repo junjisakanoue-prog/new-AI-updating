@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-11-23",
+      "title": "AI 最新まとめ 2026-11-23",
+      "threeLineSummary": [
+        "パープレキシティと知能",
+        "Google DuplexがGeminiで企業に電話をかける機能へと進化",
+        "敵対的蒸留への対策"
+      ],
+      "topicCount": 6,
+      "generatedAt": "2026-11-22T23:57:48.626Z"
+    },
+    {
       "date": "2026-11-22",
       "title": "AI 最新まとめ 2026-11-22",
       "threeLineSummary": [
@@ -1387,5 +1398,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-11-21T23:40:40.772Z"
+  "updatedAt": "2026-11-22T23:57:48.635Z"
 }
