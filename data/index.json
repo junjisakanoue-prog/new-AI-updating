@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-11-24",
+      "title": "AI 最新まとめ 2026-11-24",
+      "threeLineSummary": [
+        "Anthropic、PRのレビューから修正、承認までをAIで支援する「Claude Ship」公開",
+        "Trump engineered a risky comeback for Jensen Huang",
+        "Elon Musk and others rejoice as Jensen Huang is reinstated …"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-11-24T04:09:33.298Z"
+    },
+    {
       "date": "2026-11-23",
       "title": "AI 最新まとめ 2026-11-23",
       "threeLineSummary": [
@@ -1398,5 +1409,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-11-22T23:57:48.635Z"
+  "updatedAt": "2026-11-24T04:09:33.305Z"
 }

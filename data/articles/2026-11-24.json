@@ -1,0 +1,367 @@
+{
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T04:09:33.298Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-11-24",
+  "threeLineSummary": [
+    "Anthropic、PRのレビューから修正、承認までをAIで支援する「Claude Ship」公開",
+    "Trump engineered a risky comeback for Jensen Huang",
+    "Elon Musk and others rejoice as Jensen Huang is reinstated …"
+  ],
+  "lead": "2026-11-24 時点で、複数ソースの裏取りが取れた AI 関連トピック 7 件をまとめた。",
+  "sections": [
+    {
+      "heading": "Anthropic、PRのレビューから修正、承認までをAIで支援する「Claude Ship」公開",
+      "body": "Anthropicは、GitHub上のプルリクエスト（PR）のレビューから修正、ポリシーに基づく承認判断までをAIで支援する「Claude Ship」をβ版として発表した。既存の「Code Review」に新エージェント「PR Steward」「Claude Approvals」を組み合わせ、Team／Enterpriseプラン向けに提供する。\n\n初出は ITmedia AI+ [1]。TechCrunch AI [2]、The Verge AI [3] でも同内容が報じられている。",
+      "why_it_matters": "独立した 3 ソースで確認済み（確度: 高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 1
+    },
+    {
+      "heading": "Trump engineered a risky comeback for Jensen Huang",
+      "body": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Huang would \"end up on his feet.\" […]\n\n初出は The Verge AI [1]。TechCrunch AI [3] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「GPU」は、AIの計算に使う高性能な半導体。AI開発ではこれの確保がコストと速度を左右します。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 2
+    },
+    {
+      "heading": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "body": "\"The mistake has been corrected,\" Elon Musk chimed in.\n\n初出は TechCrunch AI [1]。Wired AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「GPU」は、AIの計算に使う高性能な半導体。AI開発ではこれの確保がコストと速度を左右します。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 3
+    },
+    {
+      "heading": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "body": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem\n\n初出は TechCrunch AI [1]。Google AI Blog [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「RAG（検索拡張生成）」は、AIが答える前に社内文書などを検索し、その内容を根拠にして回答する仕組み。嘘を減らす狙いがあります。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 4
+    },
+    {
+      "heading": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+      "body": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely promoting the safety of its X social media platform and Grok AI features. The complaint filed in Virginia accuses Musk of willfully […]\n\n初出は The Verge AI [1]。Wired AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 5
+    },
+    {
+      "heading": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "body": "The stunning reversal was supported by senior officials in the U.S. government.\n\n初出は TechCrunch AI [1]。Wired AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「GPU」は、AIの計算に使う高性能な半導体。AI開発ではこれの確保がコストと速度を左右します。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 6
+    },
+    {
+      "heading": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "body": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.\n\n初出は TechCrunch AI [1]。Ars Technica AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「GPU」は、AIの計算に使う高性能な半導体。AI開発ではこれの確保がコストと速度を左右します。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 7
+    }
+  ],
+  "xPosts": [
+    "Anthropic、PRのレビューから修正、承認までをAIで支援する「Claude Ship」公開（3ソースで確認）",
+    "Trump engineered a risky comeback for Jensen Huang（2ソースで確認）",
+    "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal（2ソースで確認）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Anthropic、PRのレビューから修正、承認までをAIで支援する「Claude Ship」公開",
+      "confidence": "high",
+      "domainCount": 3,
+      "socialCount": 0,
+      "sourceCount": 3,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "Anthropic、PRのレビューから修正、承認までをAIで支援する「Claude Ship」公開",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003404/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-24T01:21:04.000Z"
+        },
+        {
+          "n": 2,
+          "source": "TechCrunch AI",
+          "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-23T22:05:50.000Z"
+        },
+        {
+          "n": 3,
+          "source": "The Verge AI",
+          "title": "Claude AI can review pull requests and ship fixes on its own now",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-23T20:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Trump engineered a risky comeback for Jensen Huang",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 3,
+      "sources": [
+        {
+          "n": 1,
+          "source": "The Verge AI",
+          "title": "Trump engineered a risky comeback for Jensen Huang",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-23T22:25:12.000Z"
+        },
+        {
+          "n": 2,
+          "source": "The Verge AI",
+          "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-23T22:10:32.000Z"
+        },
+        {
+          "n": 3,
+          "source": "TechCrunch AI",
+          "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+          "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-23T18:12:22.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+          "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-23T21:47:41.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Wired AI",
+          "title": "Jensen Huang Is Back as Nvidia CEO",
+          "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
+          "domain": "wired.com",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-11-23T14:27:35.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+          "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-23T19:14:46.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Google AI Blog",
+          "title": "A more tailored Google Search that’s uniquely yours",
+          "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+          "domain": "blog.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-23T17:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "The Verge AI",
+          "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-23T18:26:47.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Wired AI",
+          "title": "States Sue SpaceX Over Grok Deepfakes",
+          "url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+          "domain": "wired.com",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-11-23T11:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+          "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-23T14:21:59.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Wired AI",
+          "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
+          "url": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
+          "domain": "wired.com",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-11-23T17:52:56.000Z"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "headline": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+          "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-23T16:39:10.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Ars Technica AI",
+          "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+          "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+          "domain": "arstechnica.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-23T15:46:18.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "Welcome to elite impunity, Jensen Huang",
+      "headlineOriginal": "Welcome to elite impunity, Jensen Huang",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "国内で採れないAI人材、インドで確保 “日本に呼ばない”開発ラボをZenkenが始めた理由",
+      "headlineOriginal": "国内で採れないAI人材、インドで確保 “日本に呼ばない”開発ラボをZenkenが始めた理由",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003396/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "ジェンスン・フアン氏、NVIDIAのCEOに復帰 マスク氏「誤りは正された」 AI企業代表のコメントまとめ",
+      "headlineOriginal": "ジェンスン・フアン氏、NVIDIAのCEOに復帰 マスク氏「誤りは正された」 AI企業代表のコメントまとめ",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003402/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "パナソニックHDが描くフィジカルAIの未来、研究開発と現場実装を両輪に",
+      "headlineOriginal": "パナソニックHDが描くフィジカルAIの未来、研究開発と現場実装を両輪に",
+      "source": "ITmedia AI+",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/24/news040.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "2028年までに「サービス中断」に見舞われるIT部門の共通点は？ Gartner予測",
+      "headlineOriginal": "2028年までに「サービス中断」に見舞われるIT部門の共通点は？ Gartner予測",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2611/24/news023.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "眠る「200兆円市場」、フィジカルAIを阻む「資源不足」 日立は独自技術で突破口探る",
+      "headlineOriginal": "眠る「200兆円市場」、フィジカルAIを阻む「資源不足」 日立は独自技術で突破口探る",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003382/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "CrowdStrike、Zscalerを約439億ドルで買収へ 狙いはAIエージェントの安全確保",
+      "headlineOriginal": "CrowdStrike、Zscalerを約439億ドルで買収へ 狙いはAIエージェントの安全確保",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003398/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "headlineOriginal": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 458,
+    "itemsInPool": 506,
+    "clusters": 443,
+    "verifiedTopics": 12,
+    "unverifiedTopics": 431,
+    "elapsedMs": 13220
+  }
+}
