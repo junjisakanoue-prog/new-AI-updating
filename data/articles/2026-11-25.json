@@ -1,0 +1,337 @@
+{
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T02:53:30.747Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-11-25",
+  "threeLineSummary": [
+    "Anthropic、PRのレビューから修正、承認までをAIで支援する「Claude Ship」公開",
+    "全社会議でジェンセン・ファン氏がホワイトハウスに感謝し、セラピーを受けていることを明かす",
+    "トランプ氏がジェンセン・ファン氏の危険な復活を画策"
+  ],
+  "lead": "2026-11-25 時点で、複数ソースの裏取りが取れた AI 関連トピック 7 件をまとめた。",
+  "sections": [
+    {
+      "heading": "Anthropic、PRのレビューから修正、承認までをAIで支援する「Claude Ship」公開",
+      "body": "Anthropicは、GitHub上のプルリクエスト（PR）のレビューから修正、ポリシーに基づく承認判断までをAIで支援する「Claude Ship」をβ版として発表した。既存の「Code Review」に新エージェント「PR Steward」「Claude Approvals」を組み合わせ、Team／Enterpriseプラン向けに提供する。\n\n初出は ITmedia AI+ [1]。TechCrunch AI [2]、The Verge AI [3] でも同内容が報じられている。",
+      "why_it_matters": "独立した 3 ソースで確認済み（確度: 高）。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 1
+    },
+    {
+      "heading": "全社会議でジェンセン・ファン氏がホワイトハウスに感謝し、セラピーを受けていることを明かす",
+      "body": "Nvidiaの創業者である彼は火曜日に従業員に謝罪し、同社を率いる2度目のチャンスに感謝していると述べた。\n\n初出は TechCrunch AI [1]。The Verge AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「GPU」は、AIの計算に使う高性能な半導体。AI開発ではこれの確保がコストと速度を左右します。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 2
+    },
+    {
+      "heading": "トランプ氏がジェンセン・ファン氏の危険な復活を画策",
+      "body": "Nvidiaの取締役会が、ジェンセン・ファン氏が中国のスパイとされる人物と関係を持っていたとの報道を受け、ファン氏のCEO辞任を受け入れた後、ドナルド・トランプ大統領もこの新たな状況を受け入れたようです。このニュースが報じられて間もなく、スティーブン・A・スミスのラジオ番組に出演したトランプ氏は、ファン氏は「最終的には立ち直るだろう」と述べました。 […]\n\n初出は The Verge AI [1]。TechCrunch AI [3] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「GPU」は、AIの計算に使う高性能な半導体。AI開発ではこれの確保がコストと速度を左右します。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 3
+    },
+    {
+      "heading": "Google検索のAIモードが、よりパーソナライズされた回答を得るためにドライブとウォレットを活用できるようになりました",
+      "body": "Googleは、AIモードのパーソナルインテリジェンスをDrive、Wallet、Geminiアプリに導入することで、すでにエコシステム内に存在する豊富なユーザーデータを活用しています。\n\n初出は TechCrunch AI [1]。Google AI Blog [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「RAG（検索拡張生成）」は、AIが答える前に社内文書などを検索し、その内容を根拠にして回答する仕組み。嘘を減らす狙いがあります。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 4
+    },
+    {
+      "heading": "Geminiがゴールデンステートの組織とファンを変革している方法。",
+      "body": "Google Geminiがゴールデンステートと提携し、ウォリアーズ、ヴァルキリーズ、チェイスセンターのファン体験とビジネスオペレーションを強化します。ニュースをご覧ください。\n\n初出は Google AI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Google AI Blog）に基づく。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 5
+    },
+    {
+      "heading": "GPT-6モデルは、固有のタンパク質設計能力を示しています",
+      "body": "GPT-6モデルは、推論とコードを使用してタンパク質構造と配列を設計します。ラボテストでは、5つの標的において結合の証拠が見つかりました。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「推論（インファレンス）」は、AIが実際に考えて答えを出す処理のこと。ここが速い・安いほど実用しやすくなります。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 6
+    },
+    {
+      "heading": "ClayがCodexとChatGPTでセールスチームの成功を支援",
+      "body": "ChatGPTとCodexの統合により、Clayのユーザーは取引を調査し、データを市場参入戦略に変えることができます。GPT-6モデルが推論を担当します。\n\n初出は OpenAI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（OpenAI Blog）に基づく。",
+      "plain_explanation": "つまり、研究段階の成果で、すぐ製品になるとは限らない話です。記事に出てくる「推論（インファレンス）」は、AIが実際に考えて答えを出す処理のこと。ここが速い・安いほど実用しやすくなります。今すぐ影響はありませんが、今後の製品に反映されていく可能性があります。",
+      "topic_index": 7
+    }
+  ],
+  "xPosts": [
+    "Anthropic、PRのレビューから修正、承認までをAIで支援する「Claude Ship」公開（3ソースで確認）",
+    "全社会議でジェンセン・ファン氏がホワイトハウスに感謝し、セラピーを受けていることを明かす（2ソースで確認）",
+    "トランプ氏がジェンセン・ファン氏の危険な復活を画策（2ソースで確認）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Anthropic、PRのレビューから修正、承認までをAIで支援する「Claude Ship」公開",
+      "confidence": "high",
+      "domainCount": 3,
+      "socialCount": 0,
+      "sourceCount": 3,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "Anthropic、PRのレビューから修正、承認までをAIで支援する「Claude Ship」公開",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003404/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-24T01:21:04.000Z"
+        },
+        {
+          "n": 2,
+          "source": "TechCrunch AI",
+          "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-23T22:05:50.000Z"
+        },
+        {
+          "n": 3,
+          "source": "The Verge AI",
+          "title": "Claude AI can review pull requests and ship fixes on its own now",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-23T20:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+          "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-24T21:48:27.000Z"
+        },
+        {
+          "n": 2,
+          "source": "The Verge AI",
+          "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+          "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-24T20:02:03.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "Trump engineered a risky comeback for Jensen Huang",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 3,
+      "sources": [
+        {
+          "n": 1,
+          "source": "The Verge AI",
+          "title": "Trump engineered a risky comeback for Jensen Huang",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-23T22:25:12.000Z"
+        },
+        {
+          "n": 2,
+          "source": "The Verge AI",
+          "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-23T22:10:32.000Z"
+        },
+        {
+          "n": 3,
+          "source": "TechCrunch AI",
+          "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+          "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-23T18:12:22.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+          "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-23T19:14:46.000Z"
+        },
+        {
+          "n": 2,
+          "source": "Google AI Blog",
+          "title": "A more tailored Google Search that’s uniquely yours",
+          "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+          "domain": "blog.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-23T17:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "How Gemini is changing the game for Golden State's organization and fans.",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Google AI Blog",
+          "title": "How Gemini is changing the game for Golden State's organization and fans.",
+          "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+          "domain": "blog.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-24T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-24T13:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "headline": "Clay helps sales teams win with Codex and ChatGPT",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "OpenAI Blog",
+          "title": "Clay helps sales teams win with Codex and ChatGPT",
+          "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+          "domain": "openai.com",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-24T00:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "精度を超えて：LLMエージェントにおける仮説主導型実験計画のための診断ベンチマーク",
+      "headlineOriginal": "Beyond Accuracy: A Diagnostic Benchmark for Hypothesis-Driven Experiment Planning in LLM Agents",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.29467",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "音楽サービスのTIDAL、AI生成楽曲を削除・受付停止へ 直近90日の配信楽曲の43％がAI生成",
+      "headlineOriginal": "音楽サービスのTIDAL、AI生成楽曲を削除・受付停止へ 直近90日の配信楽曲の43％がAI生成",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003433/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "「Claude」で作ったアプリをMac／Windowsにインストール可能に 全プランでβ提供",
+      "headlineOriginal": "「Claude」で作ったアプリをMac／Windowsにインストール可能に 全プランでβ提供",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003431/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "トレーニングではなく、記述する：AIエージェントが言語モデルの重みに新しい機能を記述",
+      "headlineOriginal": "Don't Train It, Write It: An AI Agent Writes New Capabilities into Language Model Weights",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.28483",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "イェール大学のゾンネンフェルド氏：Nvidiaは米国の産業力の「弊害」であり、チャンピオンではない",
+      "headlineOriginal": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "設計者がAIに求めるのはCAD操作だけじゃない――SOLIDWORKS AIが目指す課題解決",
+      "headlineOriginal": "設計者がAIに求めるのはCAD操作だけじゃない――SOLIDWORKS AIが目指す課題解決",
+      "source": "ITmedia AI+",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/25/news005.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AIエージェントは隙あらばサンドボックスの外に出るのか Anthropicが評価手法「Siren」を発表",
+      "headlineOriginal": "AIエージェントは隙あらばサンドボックスの外に出るのか Anthropicが評価手法「Siren」を発表",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/news/article/2611/25/2000003430/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "現役組み込みエンジニアが考える「GitHub Copilot」の使いどころと検証の実際",
+      "headlineOriginal": "現役組み込みエンジニアが考える「GitHub Copilot」の使いどころと検証の実際",
+      "source": "ITmedia AI+",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/25/news009.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 989,
+    "itemsInPool": 1019,
+    "clusters": 963,
+    "verifiedTopics": 10,
+    "unverifiedTopics": 953,
+    "elapsedMs": 24511
+  }
+}
