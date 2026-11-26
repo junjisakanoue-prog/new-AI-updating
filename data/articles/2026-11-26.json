@@ -1,0 +1,297 @@
+{
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T02:00:31.827Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-11-26",
+  "threeLineSummary": [
+    "AmazonがMuse AIのショッピングブロックを解除するための交渉中との報道",
+    "全社会議でジェンセン・ファン氏がホワイトハウスに感謝し、セラピーを受けていることを明かす",
+    "科学者がAIエージェントの境界線を引く場所"
+  ],
+  "lead": "2026-11-26 時点で、複数ソースの裏取りが取れた AI 関連トピック 7 件をまとめた。",
+  "sections": [
+    {
+      "heading": "AmazonがMuse AIのショッピングブロックを解除するための交渉中との報道",
+      "body": "Fortuneの報道によると、AmazonはMetaのAIエージェント「Muse」に自社のオンラインマーケットプレイスでの買い物サービスを許可することについて協議を行っています。AmazonによるMuseのブロックを解消する可能性のあるこれらの協議は、AIエージェントが推奨する製品の種類と、Eコマース大手であるAmazonの広告収益への潜在的な影響に焦点を当てているとのことです。Fortuneの報道によると、[…]\n\n初出は The Verge AI [1]。TechCrunch AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 1
+    },
+    {
+      "heading": "全社会議でジェンセン・ファン氏がホワイトハウスに感謝し、セラピーを受けていることを明かす",
+      "body": "Nvidiaの創設者は火曜日に従業員に対して謝罪し、同社を率いる2度目のチャンスに感謝していると述べた。\n\n初出は TechCrunch AI [1]。The Verge AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「GPU」は、AIの計算に使う高性能な半導体。AI開発ではこれの確保がコストと速度を左右します。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 2
+    },
+    {
+      "heading": "科学者がAIエージェントの境界線を引く場所",
+      "body": "科学者がAIエージェントに線を引く場所\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 3
+    },
+    {
+      "heading": "LLMアシスタントのための検証可能な社会的推論",
+      "body": "生成AI\n\n初出は Google Research [1]。",
+      "why_it_matters": "開発元の公式発表（Google Research）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「LLM（大規模言語モデル）」は、ChatGPT や Claude の「頭脳」にあたる、大量の文章を学習して言葉を扱えるようにしたプログラムのことです。記事に出てくる「推論（インファレンス）」は、AIが実際に考えて答えを出す処理のこと。ここが速い・安いほど実用しやすくなります。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 4
+    },
+    {
+      "heading": "CUGA搭載のインド系言語音声エージェント",
+      "body": "CUGA搭載のインド系言語音声エージェント\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 5
+    },
+    {
+      "heading": "RTX PRO 6000 1台でのHill-climbing Inkling 2 Mini推論",
+      "body": "RTX PRO 6000 1台でのHill-climbing Inkling 2 Mini推論\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「推論（インファレンス）」は、AIが実際に考えて答えを出す処理のこと。ここが速い・安いほど実用しやすくなります。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 6
+    },
+    {
+      "heading": "Geminiがゴールデンステートの組織とファンにとってのゲームを変えている方法。",
+      "body": "Google Geminiがゴールデンステートと提携し、ウォリアーズ、ヴァルキリーズ、チェイスセンターのファン体験とビジネス運営を強化します。ニュースをご覧ください。\n\n初出は Google AI Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Google AI Blog）に基づく。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。これは開発元自身が公式に発表した内容なので、情報としては確定しています。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 7
+    }
+  ],
+  "xPosts": [
+    "AmazonがMuse AIのショッピングブロックを解除するための交渉中との報道（2ソースで確認）",
+    "全社会議でジェンセン・ファン氏がホワイトハウスに感謝し、セラピーを受けていることを明かす（2ソースで確認）",
+    "科学者がAIエージェントの境界線を引く場所（公式発表）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "The Verge AI",
+          "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+          "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-25T14:12:33.000Z"
+        },
+        {
+          "n": 2,
+          "source": "TechCrunch AI",
+          "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+          "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-25T14:10:18.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "TechCrunch AI",
+          "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+          "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-24T21:48:27.000Z"
+        },
+        {
+          "n": 2,
+          "source": "The Verge AI",
+          "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+          "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-24T20:02:03.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "Where scientists draw the line on AI agents",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "Where scientists draw the line on AI agents",
+          "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-25T18:52:55.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "Verifiable Social Reasoning for LLM Assistants",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Google Research",
+          "title": "Verifiable Social Reasoning for LLM Assistants",
+          "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+          "domain": "research.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-25T17:10:27.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "An Indic Voice Agent with CUGA",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "An Indic Voice Agent with CUGA",
+          "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-25T10:22:09.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+          "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-25T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "headline": "How Gemini is changing the game for Golden State's organization and fans.",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Google AI Blog",
+          "title": "How Gemini is changing the game for Golden State's organization and fans.",
+          "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+          "domain": "blog.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-24T16:00:00.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "脆弱性の発見数、1年で2倍超 Microsoft製品も月100件から1000件超に……AIで一変",
+      "headlineOriginal": "脆弱性の発見数、1年で2倍超 Microsoft製品も月100件から1000件超に……AIで一変",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/news/article/2611/26/2000003446/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Obsidian公式の「エージェント向け」スキル集が登場 Vault操作法とファイル形式をひとまとめに",
+      "headlineOriginal": "Obsidian公式の「エージェント向け」スキル集が登場 Vault操作法とファイル形式をひとまとめに",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003470/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "図面を探す時間から技能を伝える時間へ、AI活用で業務効率化を進める空研工業",
+      "headlineOriginal": "図面を探す時間から技能を伝える時間へ、AI活用で業務効率化を進める空研工業",
+      "source": "ITmedia AI+",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/26/news014.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "国内造船業再生の鍵はフィジカルAI、デジタルシップヤード開発の現状を知る",
+      "headlineOriginal": "国内造船業再生の鍵はフィジカルAI、デジタルシップヤード開発の現状を知る",
+      "source": "ITmedia AI+",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/26/news018.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "S&Pが、ガバナンスと「キーマン」リスクを理由にNvidiaの格下げを検討",
+      "headlineOriginal": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "管理職の約7割が黙認するシャドーAIの現実 「相談すると禁止されそう」「承認が遅い」",
+      "headlineOriginal": "管理職の約7割が黙認するシャドーAIの現実 「相談すると禁止されそう」「承認が遅い」",
+      "source": "ITmedia AI+",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/26/2000003428/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "GoogleのカスタムAIビデオフィードに関する特許は、エンターテイメントの未来について暗い見通しを示している",
+      "headlineOriginal": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "OpenAIによると、ChatGPTとWorkを統合するにあたり、ChatGPTのヘビーユーザーは制限に早く達する可能性があるとのことです。",
+      "headlineOriginal": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 580,
+    "itemsInPool": 622,
+    "clusters": 571,
+    "verifiedTopics": 7,
+    "unverifiedTopics": 564,
+    "elapsedMs": 30413
+  }
+}
