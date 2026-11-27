@@ -1,0 +1,297 @@
+{
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T02:00:41.332Z",
+  "generator": "fallback:extractive+mymemory",
+  "title": "AI 最新まとめ 2026-11-27",
+  "threeLineSummary": [
+    "GPT-6.2の使用量「誤って割引されていた」 修正後はAstraで上限に40％早く達する見込み",
+    "AmazonがMuse AIのショッピングブロックを解除するための交渉中と報道",
+    "AMD RyzenおよびRadeon向けllama.cppベンチマークダッシュボードのご紹介"
+  ],
+  "lead": "2026-11-27 時点で、複数ソースの裏取りが取れた AI 関連トピック 7 件をまとめた。",
+  "sections": [
+    {
+      "heading": "GPT-6.2の使用量「誤って割引されていた」 修正後はAstraで上限に40％早く達する見込み",
+      "body": "OpenAIのプロダクト責任者ティボー・ソティオ氏（通称Tibo）は「GPT-6.2 Astra」と「GPT-6.2 Sol」の使用量の計算に誤りがあり、実際よりも少なく計算されていたとXで明かした。\n\n初出は ITmedia AI+ [1]。GIGAZINE [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。複数のメディアが同じ内容を報じているため、情報としては比較的確かです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 1
+    },
+    {
+      "heading": "AmazonがMuse AIのショッピングブロックを解除するための交渉中と報道",
+      "body": "Fortuneの報道によると、AmazonはMetaのAIエージェント「Muse」に自社のオンラインマーケットプレイスでのショッピングを許可することについて協議を行っています。AmazonによるMuseのブロックを解消する可能性のあるこれらの協議は、AIエージェントが推奨する製品の種類と、Eコマース大手であるAmazonの広告収益への潜在的な影響に焦点が当てられていると伝えられています。Fortuneの報道によると、[…]\n\n初出は The Verge AI [1]。TechCrunch AI [2] でも同内容が報じられている。",
+      "why_it_matters": "独立した 2 ソースで確認済み（確度: やや高）。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 2
+    },
+    {
+      "heading": "AMD RyzenおよびRadeon向けllama.cppベンチマークダッシュボードのご紹介",
+      "body": "AMD RyzenおよびRadeon用のllama.cppベンチマークダッシュボードのご紹介\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、新しい機能やモデルが使えるようになった、という話です。記事に出てくる「ベンチマーク」は、AIの性能を測るための共通テスト。学力テストの偏差値のようなものです。実際に触れるようになったタイミングで試すと、違いが分かりやすいはずです。",
+      "topic_index": 3
+    },
+    {
+      "heading": "Nemotron 3.5 Parseを活用：オープンデータ、ファインチューニング、高速な推論",
+      "body": "Nemotron 3.5 Parseの活用：オープンデータ、ファインチューニング、より高速な推論\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「ファインチューニング」は、出来上がったAIに追加で学習させて、特定の用途向けに調整すること。専門学校に通わせるようなイメージです。記事に出てくる「推論（インファレンス）」は、AIが実際に考えて答えを出す処理のこと。ここが速い・安いほど実用しやすくなります。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 4
+    },
+    {
+      "heading": "群れ、群集、ギャング：マルチエージェントシステムの構築、訓練、評価の方法",
+      "body": "スワーム、群れ、ギャング：マルチエージェントシステムを構築、訓練、評価する方法\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、AIをめぐるルールや法的な争いの話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。結果によっては、使えるサービスや条件が変わることがあります。",
+      "topic_index": 5
+    },
+    {
+      "heading": "科学者がAIエージェントに線を引く場所",
+      "body": "科学者がAIエージェントに線を引く場所\n\n初出は Hugging Face Blog [1]。",
+      "why_it_matters": "開発元の公式発表（Hugging Face Blog）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「エージェント」は、AIが自分でツールを使い、複数の手順を順番にこなして作業を代行する仕組みのことです。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 6
+    },
+    {
+      "heading": "LLMアシスタントのための検証可能な社会的推論",
+      "body": "生成AI\n\n初出は Google Research [1]。",
+      "why_it_matters": "開発元の公式発表（Google Research）に基づく。",
+      "plain_explanation": "つまり、AI業界の動きに関する話です。記事に出てくる「LLM（大規模言語モデル）」は、ChatGPT や Claude の「頭脳」にあたる、大量の文章を学習して言葉を扱えるようにしたプログラムのことです。記事に出てくる「推論（インファレンス）」は、AIが実際に考えて答えを出す処理のこと。ここが速い・安いほど実用しやすくなります。今の時点では、こういう動きがあると知っておけば十分です。",
+      "topic_index": 7
+    }
+  ],
+  "xPosts": [
+    "GPT-6.2の使用量「誤って割引されていた」 修正後はAstraで上限に40％早く達する見込み（2ソースで確認）",
+    "AmazonがMuse AIのショッピングブロックを解除するための交渉中と報道（2ソースで確認）",
+    "AMD RyzenおよびRadeon向けllama.cppベンチマークダッシュボードのご紹介（公式発表）"
+  ],
+  "topics": [
+    {
+      "index": 1,
+      "headline": "GPT-6.2の使用量「誤って割引されていた」 修正後はAstraで上限に40％早く達する見込み",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "ITmedia AI+",
+          "title": "GPT-6.2の使用量「誤って割引されていた」 修正後はAstraで上限に40％早く達する見込み",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/26/2000003495/",
+          "domain": "itmedia.co.jp",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-26T07:43:35.000Z"
+        },
+        {
+          "n": 2,
+          "source": "GIGAZINE",
+          "title": "GPT-6.2 Astraが歴史学者もわからなかった「1808年に描かれた北米旅行のスケッチブック」の作者を22分で特定",
+          "url": "https://gigazine.net/news/20261126-gpt-62-astra-solves-a-historical-mystery/",
+          "domain": "gigazine.net",
+          "tier": 2,
+          "kind": "press",
+          "publishedAt": "2026-11-26T11:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "headline": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "confidence": "medium-high",
+      "domainCount": 2,
+      "socialCount": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "n": 1,
+          "source": "The Verge AI",
+          "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+          "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+          "domain": "theverge.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-25T14:12:33.000Z"
+        },
+        {
+          "n": 2,
+          "source": "TechCrunch AI",
+          "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+          "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+          "domain": "techcrunch.com",
+          "tier": 1,
+          "kind": "press",
+          "publishedAt": "2026-11-25T14:10:18.000Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "headline": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-26T11:37:17.000Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "headline": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+          "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-26T05:05:36.000Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "headline": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+          "url": "https://huggingface.co/blog/training-swarms",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-26T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "headline": "Where scientists draw the line on AI agents",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Hugging Face Blog",
+          "title": "Where scientists draw the line on AI agents",
+          "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+          "domain": "huggingface.co",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-25T18:52:55.000Z"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "headline": "Verifiable Social Reasoning for LLM Assistants",
+      "confidence": "primary",
+      "domainCount": 1,
+      "socialCount": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "n": 1,
+          "source": "Google Research",
+          "title": "Verifiable Social Reasoning for LLM Assistants",
+          "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+          "domain": "research.google",
+          "tier": 1,
+          "kind": "official",
+          "publishedAt": "2026-11-25T17:10:27.000Z"
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "headline": "電通が「Geminiを使いこなすFDE」ら3000人育成プログラムを開始 その内容とは？",
+      "headlineOriginal": "電通が「Geminiを使いこなすFDE」ら3000人育成プログラムを開始 その内容とは？",
+      "source": "ITmedia AI+",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/27/news038.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "LLMエージェントにおける自己進化型セキュリティポリシーのポイズニング",
+      "headlineOriginal": "Poisoning Self-Evolving Security Policies in LLM Agents",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.33385",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "AIエージェントの行動が「適切か暴走か」をどう見極める？ Googleが明かすテストの盲点",
+      "headlineOriginal": "AIエージェントの行動が「適切か暴走か」をどう見極める？ Googleが明かすテストの盲点",
+      "source": "ITmedia AI+",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/27/news035.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "「コスト削減」の“次”の成果、どう設定する？ ビジネス変革に結び付けるための「期待の中身」",
+      "headlineOriginal": "「コスト削減」の“次”の成果、どう設定する？ ビジネス変革に結び付けるための「期待の中身」",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2611/27/news025.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "生成AI登場で人員増えた部門、減った部門は？ デロイト調査",
+      "headlineOriginal": "生成AI登場で人員増えた部門、減った部門は？ デロイト調査",
+      "source": "ITmedia AI+",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/27/2000003505/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "アマダと日立、AIエージェントのPoCで効果確認 フィジカルAIの現場実装へ",
+      "headlineOriginal": "アマダと日立、AIエージェントのPoCで効果確認 フィジカルAIの現場実装へ",
+      "source": "ITmedia AI+",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/27/news050.html",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "Nvidiaが東南アジアへのチップ出荷を一時停止",
+      "headlineOriginal": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    },
+    {
+      "headline": "『グランド・セフト・オートVI』が示す、効率が美徳ではない理由",
+      "headlineOriginal": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "note": "単一ソースのみ。裏取り待ち。"
+    }
+  ],
+  "stats": {
+    "windowHours": 36,
+    "itemsCollected": 531,
+    "itemsInPool": 603,
+    "clusters": 523,
+    "verifiedTopics": 7,
+    "unverifiedTopics": 516,
+    "elapsedMs": 32489
+  }
+}

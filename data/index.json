@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-11-27",
+      "title": "AI 最新まとめ 2026-11-27",
+      "threeLineSummary": [
+        "GPT-6.2の使用量「誤って割引されていた」 修正後はAstraで上限に40％早く達する見込み",
+        "AmazonがMuse AIのショッピングブロックを解除するための交渉中と報道",
+        "AMD RyzenおよびRadeon向けllama.cppベンチマークダッシュボードのご紹介"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-11-27T02:00:41.332Z"
+    },
+    {
       "date": "2026-11-26",
       "title": "AI 最新まとめ 2026-11-26",
       "threeLineSummary": [
@@ -1431,5 +1442,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-11-26T02:00:31.834Z"
+  "updatedAt": "2026-11-27T02:00:41.338Z"
 }
