@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "date": "2026-11-28",
+      "title": "AI 最新まとめ 2026-11-28",
+      "threeLineSummary": [
+        "AmazonがMuse AIのショッピングブロックを終了するための交渉中と報道",
+        "AMD RyzenおよびRadeon向けllama.cppベンチマークダッシュボードのご紹介",
+        "Nemotron 3.5 Parseの活用：オープンデータ、ファインチューニング、より高速な推論"
+      ],
+      "topicCount": 7,
+      "generatedAt": "2026-11-28T01:45:13.378Z"
+    },
+    {
       "date": "2026-11-27",
       "title": "AI 最新まとめ 2026-11-27",
       "threeLineSummary": [
@@ -1442,5 +1453,5 @@
       "generatedAt": "2026-07-20T11:23:31.466Z"
     }
   ],
-  "updatedAt": "2026-11-27T02:00:41.338Z"
+  "updatedAt": "2026-11-28T01:45:13.385Z"
 }
